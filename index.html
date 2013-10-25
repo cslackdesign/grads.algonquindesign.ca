@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en-ca">
 <head>
@@ -5,6 +7,32 @@
   <title>Graduates · Algonquin College Graphic Design Program</title>
 </head>
 <body>
+
+<ol>
+	{% for show in site.categories.gradshow %}
+		<li>
+			<strong>{{show.title}}</strong>
+			<img src="{{site.baseurl}}/img/{{show.date | date:'%Y'}}.png" alt="">
+			<time datetime="{{show.date | date:'%Y-%m-%d'}}">{{show.date | date:'%Y'}}</time>
+			<time datetime="{{show.date | date:'%Y-%m-%d'}}T{{show.time.start}}:00/{{show.date | date:'%Y-%m-%d'}}T{{show.time.end}}:00">{{show.time.start}} – {{show.time.end}}</time>
+			<p>
+				{{show.location.name}}
+				<br>
+				{{show.location.street-address}}
+				<br>
+				Ottawa, ON
+				<br>
+				{{show.location.postal-code}}
+			</p>
+			{% if show.facebook %}
+				{{show.facebook}}
+			{% endif %}
+			{% if show.twitter %}
+				@{{show.twitter}}
+			{% endif %}
+		</li>
+	{% endfor %}
+</ol>
 
 </body>
 </html>
