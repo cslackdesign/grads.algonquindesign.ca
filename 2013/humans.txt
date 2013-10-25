@@ -1,0 +1,94 @@
+﻿/* Team */
+
+Title: Grad Show Web Group
+
+Site: www.gradshow2013.com
+
+Twitter: @GradShow2013
+
+Location: Shopify Lounge/Algonquin College, Ottawa, Canada
+
+
+/* Thanks */
+
+Project Leaders: Rhiannon Charette / Chris Plosaj
+Creative Director/Coding & Site Design: Chris Plosaj (www.chrisplosaj.com)
+Coding: Sam Mason
+User Testing/Graphics: Cheryl Hurlbut / Laura Forbes / Amber Santerre
+Concept Design: Branko Dundjerovic
+
+Special thanks to Thomas J Bradley & Tiffany Tse
+
+
+/* Site */
+                            
+Last update: 2013/03/18 
+
+Standards: HTML5, CSS3, Javascript, Json, PHP	
+
+Components: Modernizr, jQuery, etc.
+
+Software: Dreamweaver, Photoshop, Mamp/Wamp, Illustrtor
+
+
+/* Graduating Class Names */
+
+Nadera Albahoth
+Berrin Anlar
+Kari Ball
+Lana Bateman
+Michael Beddal
+Andrea Bowie
+John Patrick Brown
+Melanie Burgess
+Jesse Caldwell
+Tara Caldwell
+Sarah Casselman
+Jessica CAstillo Alfaro
+Rhiannon Charette
+Laura Datema
+Blair Davidson
+Renee Depocas
+Corbin Dowd
+Branko Dundjerovic
+Laureen Ferjani
+Laura Forbes
+Warren Grant
+Kyle Green
+Danika Guillemette
+Lily Han
+Josh Herlihey
+Jayne Hogan
+Cory Holmes
+Cheryl Hurlbut
+Tara Jeronimus
+Ashley Karam
+Natalie Lawrence
+Jacqueline Leclaire
+Yu-Ju Lin
+Megan MacNaughton
+Mercedes Mann
+Sam Mason
+Morag McKenna
+Lyndsay Merkley
+Michael Moodie
+Ryan Morrison
+Sarah Pakuts
+Chris Plosaj
+Laura Pol
+Amanda Porter
+Ross Proulx
+Megan Raddatz
+Kayla Robillard
+Javier Romero
+Amber Santerre
+Holly Schofield
+Katie Schuster
+Sabrina Seangio
+Lauren Smythß
+Alyssa Spaxman
+Taulant Sulko
+Averyl Trubiano
+Ashley Walton
+Amy Wesley
+Jesse Lozaway
