@@ -1,0 +1,1241 @@
+---
+---
+@charset "UTF-8";
+/* CSS Document */
+
+
+@media all and (min-width: 100px) {
+
+	.logo{
+		width: 40px;
+		display: block;
+	}
+
+	#media hr{
+		padding: 0 0 5px 0;
+	}
+
+	html{
+		background: rgba(0,0,0,1) no-repeat;
+		margin: 0;
+		padding: 0;
+		font-weight: normal;
+		width: 100%;
+
+	}
+
+	body{
+		width: 100%;
+		background: rgba(0,0,0,1);
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		position: relative;
+		min-height: 1000px;
+	}
+
+	img{
+		margin: 0;
+		padding: 0;
+		z-index: 0;
+		border: none;
+	}
+
+	h1{
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		left: -1000px;
+		top: -1000px;
+		display: none;
+		opacity: 0;
+	}
+
+	h2{
+		font-family: 'SteelfishExtraBold', Verdana, sans-serif;
+		letter-spacing: 1px;
+	}
+
+	h3{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		letter-spacing: 1px;
+	}
+
+	p{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		margin: 0;
+		padding: 0;
+		font-size: 20px;
+		letter-spacing: 1px;
+	}
+
+	b{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		letter-spacing: 1px;
+	}
+
+	a, a:visited{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		text-decoration: none;
+		outline: none;
+		border: none;
+	}
+
+	a:hover, a:active{
+		color: rgba(51,51,51,1);
+		outline: none;
+	}
+
+	#students{
+		width: 100%;
+		padding: 10px;
+		margin: 0 auto;
+		background: rgba(0,0,0,1);
+		text-align: center;
+		line-height: 12px;
+
+	}
+
+	#students ul{
+		margin: 0;
+		padding: 0;
+	}
+
+	#students li{
+		margin: 0;
+		padding: 0;
+		color: #FFF;
+		list-style-type: none;
+		line-height: 12px;
+	}
+
+	#students p{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 24px;
+		margin: 10px 0;
+		padding: 0;
+	}
+
+	#students a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 10px;
+		color: rgba(204,204,204,1);
+		text-decoration: none;
+		font-weight: bold;
+		margin: 0;
+		padding: 0;
+		line-height: 12px;
+	}
+
+	#students a:hover, a:active{
+		color: rgba(255,255,255,1);
+	}
+
+	#content{
+		background: rgba(0,0,0,1) url("{{site.s3}}/2012/images/background-texture.jpg") center top repeat-y;
+		position: relative;
+		width: 100%;
+		margin: 0 auto;
+		padding: 0;
+	}
+
+	#media{
+		width: 100%;
+		position: inherit;
+		padding: 20px 0 20px 0px;
+		margin: 0 auto;
+		background: #000000;
+		line-height: 50px;
+	}
+
+	#media img{
+		float:left;
+		margin: 5px 10px 0px 10px;
+		opacity: 0.85;
+	}
+
+	#media img:hover{
+		opacity: 1;
+	}
+
+	#media a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 10px;
+		color: rgba(255,255,255,0.85);
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	#media a:hover, a:active{
+		color: rgba(255,255,255,1);
+	}
+
+	#feature{
+		width: 80%;
+		padding: 5% 10%;
+		position: inherit;
+		background: rgba(255,255,255,0.5);
+
+	}
+
+	#feature img{
+		width: 100%;
+	}
+
+	#video{
+		margin: 10px auto;
+		width: 80%;
+		padding: 5% 10%;
+		position: inherit;
+		background: rgba(255,255,255,0.5);
+
+	}
+
+	iframe{
+		margin: 0;
+		padding: 0;
+		border: 1px #000 solid;
+		width: 80%;
+		height: 80%;
+	}
+
+	#eventdate{
+		margin: 10px auto;
+		position: inherit;
+		background: rgba(255,255,255,0.5);
+		width: 80%;
+		padding: 5% 10%;
+	}
+
+	#eventdate b{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 26px;
+		font-weight: normal;
+	}
+
+	#eventdate p{
+		font-size: 22px;
+		margin: 5px 0 0 0;
+		line-height: 22px;
+	}
+
+	#eventdate .port{
+		margin: 20px 0 0 0;
+		line-height: 22px;
+	}
+
+	#location{
+		margin: 10px auto;
+		position: inherit;
+		background: rgba(255,255,255,0.5);
+		width: 80%;
+		padding: 5% 10%;
+	}
+
+	#location a, a:visited{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 30px;
+		line-height: 30px;
+		margin: 0;
+		padding: 0;
+		color: rgba(177,87,55,1);
+		text-decoration: none;
+	}
+
+	#location a:hover, a:active{
+		color: rgba(51,51,51,1);
+	}
+
+	#location p{
+		margin: 10px 0 0 0;
+		padding: 0;
+	}
+
+	#about{
+		margin: 10px auto;
+		position: inherit;
+		background: rgba(255,255,255,0.5);
+		width: 80%;
+		padding: 5% 10%;
+
+
+	}
+
+	#about p{
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight: normal;
+		margin: 15px 0 0 0;
+		padding: 0;
+		font-size: 11px;
+		letter-spacing: normal;
+		line-height: 14px;
+	}
+
+	#about .exception{
+		margin: 0;
+	}
+
+	#about b{
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight: bold;
+		letter-spacing: normal;
+		font-size: 11px;
+		margin: 0;
+		padding: 0;
+		line-height: 14px;
+	}
+
+	#about i{
+		font-weight: normal;
+	}
+
+	#about a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 11px;
+		margin: 0;
+		padding: 0;
+		color: rgba(177,87,55,1);
+		text-decoration: none;
+		letter-spacing: normal;
+		line-height: 14px;
+		font-weight: bold;
+	}
+
+	#about .accent{
+		font-weight: bold;
+	}
+
+	#about a:hover, a:active{
+		color: rgba(0,0,0,1);
+
+	}
+
+	#sponsors{
+		margin: 10px auto;
+		position: inherit;
+		background: rgba(255,255,255,0.5);
+		width: 80%;
+		padding: 5% 10%;
+	}
+
+	#sponsors img{
+		opacity: 1;
+	}
+
+	#sponsors img:hover{
+		opacity: 0.75;
+	}
+
+	.sponsors{
+		display: block;
+		margin: 20px auto;
+	}
+
+	.sponsors2{
+		display: block;
+		margin: 20px auto 0 auto;
+		width: 85px;
+	}
+
+	#countdown{
+		margin: 10px auto;
+		padding: 10%;
+		position: inherit;
+		z-index: 0;
+	}
+
+	#countdown p{
+		margin: 0;
+		padding: 0;
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 23px;
+		letter-spacing: 1px;
+		text-align: center;
+		opacity: 1;
+		font-weight: normal;
+	}
+
+	#countdown .cd{
+		opacity: 1;
+		margin-top: 0px;
+		clear: both;
+		font-weight: normal;
+	}
+
+	#countdown .until{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 26px;
+		letter-spacing: 1px;
+		opacity: 1;
+		font-weight: normal;
+	}
+
+
+	footer{
+		display: none;
+		margin: 0 auto;
+		height: 40px;
+		width: 100%;
+		padding: 0px;
+		position: relative;
+	}
+
+	footer p{
+		font-size: 9px;
+		font-family: Verdana, Geneva, sans-serif;
+		font-weight: bold;
+		color: rgba(102,102,102,1);
+		padding: 40px 0 0 0;
+	}
+
+	footer .wait{
+		padding: 0 0 40px 0;
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		letter-spacing: 1px;
+		text-align: right;
+		float: right;
+		color: #FFF;
+		font-size: 18px;
+		opacity: 1;
+		position: absolute;
+		right: 40px;
+		top: 20px;
+		font-weight: normal;
+	}
+
+	hr{
+		clear: both;
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+@media all and (min-width: 700px) {
+
+	html{
+		background: rgba(0,0,0,1) no-repeat;
+		margin: 0;
+		padding: 0;
+		font-weight: normal;
+
+	}
+
+	body{
+		width: 100%;
+		background: rgba(0,0,0,1);
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		position: relative;
+		min-height: 1000px;
+	}
+
+	img{
+		margin: 0;
+		padding: 0;
+		z-index: 0;
+	}
+
+	h1{
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		left: -1000px;
+		top: -1000px;
+		display: none;
+		opacity: 0;
+	}
+
+	h2{
+		font-family: 'SteelfishExtraBold', Verdana, sans-serif;
+		letter-spacing: 1px;
+	}
+
+	h3{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		letter-spacing: 1px;
+	}
+
+	p{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		margin: 0;
+		padding: 0;
+		font-size: 20px;
+		letter-spacing: 1px;
+	}
+
+	b{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		letter-spacing: 1px;
+	}
+
+	a, a:visited{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		text-decoration: none;
+		outline: none;
+	}
+
+	a:hover, a:active{
+		color: rgba(51,51,51,1);
+		outline: none;
+	}
+
+	#students{
+		width: 200px;
+		padding: 25px 15px 5px 20px;
+		margin: 10px auto;
+		background: rgba(0,0,0,1);
+		text-align: center;
+		line-height: 12px;
+
+	}
+
+	#students ul{
+		margin: 0;
+		padding: 0;
+	}
+
+	#students li{
+		margin: 0;
+		padding: 0;
+		color: #FFF;
+		list-style-type: none;
+		line-height: 12px;
+	}
+
+	#students p{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 24px;
+		margin: 10px 0;
+		padding: 0;
+	}
+
+	#students a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 10px;
+		color: rgba(204,204,204,1);
+		text-decoration: none;
+		font-weight: bold;
+		margin: 0;
+		padding: 0;
+		line-height: 12px;
+	}
+
+	#students a:hover, a:active{
+		color: rgba(255,255,255,1);
+	}
+
+	#content{
+		background: rgba(0,0,0,1) url("{{site.s3}}/2012/images/background-texture.jpg") center top repeat-y;
+		position: relative;
+		width: 760px;
+		margin: 0 auto;
+		padding: 0;
+		min-height: 1455px;
+	}
+
+	#media{
+		width: 200px;
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: 5px 20px 5px 0px;
+		margin: 0;
+		background: #000000;
+		line-height: 50px;
+		text-align: left;
+	}
+
+	#media img{
+		float:left;
+		margin: 5px 10px 0px 10px;
+		opacity: 0.85;
+	}
+
+	#media img:hover{
+		opacity: 1;
+	}
+
+	#media a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 10px;
+		color: rgba(255,255,255,0.85);
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	#media a:hover, a:active{
+		color: rgba(255,255,255,1);
+	}
+
+	#feature{
+		width: 400px;
+		padding: 20px 40px;
+		position: absolute;
+		left: 140px;
+		top: 40px;
+		background: rgba(255,255,255,0.5);
+
+	}
+
+	#feature img{
+		width: 400px;
+	}
+
+	#video{
+		padding: 20px 40px;
+		position: absolute;
+		right: 40px;
+		top: 715px;
+		background: rgba(255,255,255,0.5);
+		height: 203px;
+		width: 360px;
+	}
+
+	iframe{
+		margin: 0;
+		padding: 0;
+		border: 1px #000 solid;
+		width: 360px;
+		height: 203px;
+	}
+
+	#eventdate{
+		padding: 20px 40px;
+		position: absolute;
+		left: 40px;
+		top: 715px;
+		background: rgba(255,255,255,0.5);
+		width: 120px;
+	}
+
+	#eventdate b{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 26px;
+		font-weight: normal;
+	}
+
+	#eventdate p{
+		font-size: 22px;
+		margin: 5px 0 0 0;
+		line-height: 22px;
+	}
+
+	#eventdate .port{
+		margin: 20px 0 0 0;
+		line-height: 22px;
+	}
+
+	#location{
+		padding: 20px 40px;
+		position: absolute;
+		left: 40px;
+		top: 960px;
+		background: rgba(255,255,255,0.5);
+		width: 120px;
+	}
+
+	#location a, a:visited{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 30px;
+		line-height: 30px;
+		margin: 0;
+		padding: 0;
+		color: rgba(177,87,55,1);
+		text-decoration: none;
+	}
+
+	#location a:hover, a:active{
+		color: rgba(51,51,51,1);
+	}
+
+	#location p{
+		margin: 10px 0 0 0;
+		padding: 0;
+	}
+
+	#about{
+		padding: 20px 40px;
+		position: absolute;
+		right: 40px;
+		top:1000px;
+		background: rgba(255,255,255,0.5);
+		width: 360px;
+
+
+	}
+
+	#about p{
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight: normal;
+		margin: 15px 0 0 0;
+		padding: 0;
+		font-size: 11px;
+		letter-spacing: normal;
+		line-height: 14px;
+	}
+
+	#about .exception{
+		margin: 0;
+	}
+
+	#about b{
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight: bold;
+		letter-spacing: normal;
+		font-size: 11px;
+		margin: 0;
+		padding: 0;
+		line-height: 14px;
+	}
+
+	#about a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 11px;
+		margin: 0;
+		padding: 0;
+		color: rgba(177,87,55,1);
+		text-decoration: none;
+		letter-spacing: normal;
+		line-height: 14px;
+		font-weight: bold;
+	}
+
+	#about .accent{
+		font-weight: bold;
+	}
+
+	#about a:hover, a:active{
+		color: rgba(0,0,0,1);
+
+	}
+
+	#sponsors{
+		padding: 20px 40px;
+		position: absolute;
+		left: 40px;
+		top: 1160px;
+		background: rgba(255,255,255,0.5);
+		width: 120px;
+	}
+
+	#sponsors img{
+		opacity: 1;
+	}
+
+	#sponsors img:hover{
+		opacity: 0.75;
+	}
+
+	.sponsors{
+		display: block;
+		margin: 20px auto;
+	}
+
+	.sponsors2{
+		display: block;
+		margin: 20px auto 0 auto;
+		width: 85px;
+	}
+
+	#countdown{
+		margin: 0 40px 0 0;
+		padding: 0;
+		position: absolute;
+		bottom: 40px;
+		right: 0;
+		z-index: 0;
+	}
+
+	#countdown p{
+		margin: 0;
+		padding: 0;
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 23px;
+		letter-spacing: 1px;
+		text-align: right;
+		opacity: 1;
+		font-weight: normal;
+	}
+
+	#countdown .cd{
+		opacity: 1;
+		margin-top: 0px;
+		clear: both;
+		font-weight: normal;
+	}
+
+	#countdown .until{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 26px;
+		letter-spacing: 1px;
+		opacity: 1;
+		font-weight: normal;
+	}
+
+
+	footer{
+		margin: 0 auto;
+		height: 40px;
+		width: 760px;
+		padding: 0px;
+		position: relative;
+		display:none;
+	}
+
+	footer p{
+		font-size: 9px;
+		font-family: Verdana, Geneva, sans-serif;
+		font-weight: bold;
+		color: rgba(102,102,102,1);
+		padding: 40px 0 0 0;
+	}
+
+	footer .wait{
+		padding: 0 0 40px 0;
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		letter-spacing: 1px;
+		text-align: right;
+		float: right;
+		color: #FFF;
+		font-size: 18px;
+		opacity: 1;
+		position: absolute;
+		right: 40px;
+		top: 20px;
+		font-weight: normal;
+	}
+
+	hr{
+		clear: both;
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+@media all and (min-width: 1070px) {
+
+	html{
+		background: rgba(0,0,0,1) no-repeat;
+		margin: 0;
+		padding: 0;
+		font-weight: normal;
+
+	}
+
+	body{
+		width: 100%;
+		background: rgba(0,0,0,1);
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		position:relative;
+		min-height: 1200px;
+	}
+
+	img{
+		margin: 0;
+		padding: 0;
+		z-index: 0;
+	}
+
+	h1{
+		margin: 0;
+		padding: 0;
+		position: absolute;
+		left: -1000px;
+		top: -1000px;
+		display: none;
+		opacity: 0;
+	}
+
+	h2{
+		font-family: 'SteelfishExtraBold', Verdana, sans-serif;
+		letter-spacing: 1px;
+	}
+
+	h3{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		letter-spacing: 1px;
+	}
+
+	p{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		margin: 0;
+		padding: 0;
+		font-size: 20px;
+		letter-spacing: 1px;
+	}
+
+	b{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		letter-spacing: 1px;
+	}
+
+	a, a:visited{
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 20px;
+		margin: 0;
+		padding: 0;
+		text-decoration: none;
+		outline: none;
+	}
+
+	a:hover, a:active{
+		color: rgba(51,51,51,1);
+		outline: none;
+	}
+
+	#students{
+		width: 200px;
+		padding: 25px 15px 5px 20px;
+		margin: 0;
+		background: rgba(0,0,0,1);
+		position: absolute;
+		left: 0;
+		top: 0;
+		text-align: right;
+		line-height: 12px;
+
+	}
+
+	#students ul{
+		margin: 0;
+		padding: 0;
+	}
+
+	#students li{
+		margin: 0;
+		padding: 0;
+		color: #FFF;
+		list-style-type: none;
+		line-height: 12px;
+	}
+
+	#students p{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 24px;
+		margin: 10px 0;
+		padding: 0;
+	}
+
+	#students a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 10px;
+		color: rgba(204,204,204,1);
+		text-decoration: none;
+		font-weight: bold;
+		margin: 0;
+		padding: 0;
+		line-height: 12px;
+	}
+
+	#students a:hover, a:active{
+		color: rgba(255,255,255,1);
+	}
+
+	#content{
+		background: rgba(0,0,0,1) url("{{site.s3}}/2012/images/background-texture.jpg") center top repeat-y;
+		position: relative;
+		width: 760px;
+		margin: 0 auto;
+		padding: 0;
+		min-height: 1455px;
+	}
+
+	#media{
+		width: 200px;
+		position: fixed;
+		right: 0;
+		top: 20px;
+		padding: 5px 20px 5px 0px;
+		margin: 0;
+		background: #000000;
+		line-height: 50px;
+		text-align: left;
+	}
+
+	#media img{
+		float:left;
+		margin: 5px 10px 0px 10px;
+		opacity: 0.85;
+	}
+
+	#media img:hover{
+		opacity: 1;
+	}
+
+	#media a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 10px;
+		color: rgba(255,255,255,0.85);
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	#media a:hover, a:active{
+		color: rgba(255,255,255,1);
+	}
+
+	#feature{
+		width: 400px;
+		padding: 20px 40px;
+		position: absolute;
+		left: 140px;
+		top: 40px;
+		background: rgba(255,255,255,0.5);
+
+	}
+
+	#feature img{
+		width: 400px;
+	}
+
+	#video{
+		padding: 20px 40px;
+		position: absolute;
+		right: 40px;
+		top: 715px;
+		background: rgba(255,255,255,0.5);
+		height: 203px;
+		width: 360px;
+	}
+
+	iframe{
+		margin: 0;
+		padding: 0;
+		border: 1px #000 solid;
+		width: 360px;
+		height: 203px;
+	}
+
+	#eventdate{
+		padding: 20px 40px;
+		position: absolute;
+		left: 40px;
+		top: 715px;
+		background: rgba(255,255,255,0.5);
+		width: 120px;
+	}
+
+	#eventdate b{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 26px;
+		font-weight: normal;
+	}
+
+	#eventdate p{
+		font-size: 22px;
+		margin: 5px 0 0 0;
+		line-height: 22px;
+	}
+
+	#eventdate .port{
+		margin: 20px 0 0 0;
+		line-height: 22px;
+	}
+
+	#location{
+		padding: 20px 40px;
+		position: absolute;
+		left: 40px;
+		top: 960px;
+		background: rgba(255,255,255,0.5);
+		width: 120px;
+	}
+
+	#location a, a:visited{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 30px;
+		line-height: 30px;
+		margin: 0;
+		padding: 0;
+		color: rgba(177,87,55,1);
+		text-decoration: none;
+	}
+
+	#location a:hover, a:active{
+		color: rgba(51,51,51,1);
+	}
+
+	#location p{
+		margin: 10px 0 0 0;
+		padding: 0;
+	}
+
+	#about{
+		padding: 20px 40px;
+		position: absolute;
+		right: 40px;
+		top:1000px;
+		background: rgba(255,255,255,0.5);
+		width: 360px;
+
+
+	}
+
+	#about p{
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight: normal;
+		margin: 15px 0 0 0;
+		padding: 0;
+		font-size: 11px;
+		letter-spacing: normal;
+		line-height: 14px;
+	}
+
+	#about .exception{
+		margin: 0;
+	}
+
+	#about b{
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight: bold;
+		letter-spacing: normal;
+		font-size: 11px;
+		margin: 0;
+		padding: 0;
+		line-height: 14px;
+	}
+
+	#about a, a:visited{
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 11px;
+		margin: 0;
+		padding: 0;
+		color: rgba(177,87,55,1);
+		text-decoration: none;
+		letter-spacing: normal;
+		line-height: 14px;
+		font-weight: bold;
+	}
+
+	#about .accent{
+		font-weight: bold;
+	}
+
+	#about a:hover, a:active{
+		color: rgba(0,0,0,1);
+
+	}
+
+	#sponsors{
+		padding: 20px 40px;
+		position: absolute;
+		left: 40px;
+		top: 1160px;
+		background: rgba(255,255,255,0.5);
+		width: 120px;
+	}
+
+	#sponsors img{
+		opacity: 1;
+	}
+
+	#sponsors img:hover{
+		opacity: 0.75;
+	}
+
+	.sponsors{
+		display: block;
+		margin: 20px auto;
+	}
+
+	.sponsors2{
+		display: block;
+		margin: 20px auto 0 auto;
+		width: 85px;
+	}
+
+	#countdown{
+		margin: 0 40px 0 0;
+		padding: 0;
+		position: absolute;
+		bottom: 40px;
+		right: 0;
+		z-index: 0;
+	}
+
+	#countdown p{
+		margin: 0;
+		padding: 0;
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		font-size: 23px;
+		letter-spacing: 1px;
+		text-align: right;
+		opacity: 1;
+		font-weight: normal;
+	}
+
+	#countdown .cd{
+		opacity: 1;
+		margin-top: 0px;
+		clear: both;
+		font-weight: normal;
+	}
+
+	#countdown .until{
+		font-family: 'SteelfishBold', Verdana, sans-serif;
+		font-size: 26px;
+		letter-spacing: 1px;
+		opacity: 1;
+		font-weight: normal;
+	}
+
+
+	footer{
+		margin: 0 auto;
+		height: 40px;
+		width: 760px;
+		padding: 0px;
+		position: relative;
+		display: inherit;
+	}
+
+	footer p{
+		font-size: 9px;
+		font-family: Verdana, Geneva, sans-serif;
+		font-weight: bold;
+		color: rgba(102,102,102,1);
+		padding: 40px 0 0 0;
+	}
+
+	footer .wait{
+		padding: 0 0 40px 0;
+		font-family: 'SteelfishRegular', Verdana, sans-serif;
+		letter-spacing: 1px;
+		text-align: right;
+		float: right;
+		color: #FFF;
+		font-size: 18px;
+		opacity: 1;
+		position: absolute;
+		right: 40px;
+		top: 20px;
+		font-weight: normal;
+	}
+
+	hr{
+		clear: both;
+		border: none;
+		margin: 0;
+		padding: 0;
+	}
+}
