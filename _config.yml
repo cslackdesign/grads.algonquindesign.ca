@@ -1,3 +1,5 @@
 markdown: redcarpet
 baseurl: ""
 exclude: []
+
+s3: //algonquindesign.s3.amazonaws.com
