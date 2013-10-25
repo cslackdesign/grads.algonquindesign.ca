@@ -1,5 +1,5 @@
 markdown: redcarpet
 baseurl: ""
-exclude: []
+exclude: ['README.md', 'CNAME', 'next-year-template']
 
 s3: //algonquindesign.s3.amazonaws.com/grads
