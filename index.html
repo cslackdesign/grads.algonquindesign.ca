@@ -5,46 +5,80 @@
 <head>
 	<meta charset="utf-8">
 	<title>Graduate Showcases · Algonquin College Graphic Design Program</title>
+	<meta name="viewport" content="width=570">
 	<link href="//localhost:8000/css/algonquindesign.min.css" rel="stylesheet">
+	{% for show in site.categories.gradshow %}
+		<link href="{{site.s3}}{{show.design.typeface.css}}" rel="stylesheet">
+	{% endfor %}
 </head>
 <body>
 
 	<div class="main">
 		<div class="main__content main__content--alt">
 
-			<img src="//algonquindesign.ca/img/ac-graphic-design-logo-small.svg" class="logo" alt="">
+			<a href="http://algonquindesign.ca" class="logo-link">
+				<img class="flex-img" src="//algonquindesign.ca/img/ac-graphic-design-logo-small-white.svg" alt="">
+			</a>
 
-			<div class="text">
-
+			<div class="wrapper">
 				<h1 class="title">Graduate Showcases</h1>
-
-				<ol>
-					{% for show in site.categories.gradshow %}
-						<li>
-							<strong>{{show.title}}</strong>
-							<img src="{{site.baseurl}}/img/{{show.date | date:'%Y'}}.png" alt="">
-							<time datetime="{{show.date | date:'%Y-%m-%d'}}">{{show.date | date:'%Y'}}</time>
-							<time datetime="{{show.date | date:'%Y-%m-%d'}}T{{show.time.start}}:00/{{show.date | date:'%Y-%m-%d'}}T{{show.time.end}}:00">{{show.time.start}} – {{show.time.end}}</time>
-							<p>
-								{{show.location.name}}
-								<br>
-								{{show.location.street-address}}
-								<br>
-								Ottawa, ON
-								<br>
-								{{show.location.postal-code}}
-							</p>
-							{% if show.facebook %}
-								{{show.facebook}}
-							{% endif %}
-							{% if show.twitter %}
-								@{{show.twitter}}
-							{% endif %}
-						</li>
-					{% endfor %}
-				</ol>
-
+				<p class="intro">Every year the graduating Algonquin College Graphic Design students display their best work online and at an evening showcase hosted by a local business.</p>
 			</div>
+
+			<ol class="list-group gradshow-list">
+				{% for show in site.categories.gradshow %}
+					<li class="list-group-item gradshow" itemscope itemtype="http://schema.org/Event">
+						<a class="wrapper gradshow__link" style="background-color:{{show.design.bgcolor}}; font-family:{{show.design.typeface.name}}; color:{{show.design.color}}" itemprop="url" href="{{site.baseurl}}/{{show.date | date:'%Y'}}/">
+							<img class="gradshow__img" src="{{site.baseurl}}/img/{{show.date | date:'%Y'}}.png" itemprop="image" alt="">
+							<h2 class="gradshow__title" itemprop="name">{{show.title}}</h2>
+							<span class="gradshow__arrow">►</span>
+						</a>
+						<div class="wrapper gradshow__details">
+							<time class="gradshow__date" datetime="{{show.date | date:'%Y-%m-%d'}}T{{show.time.start}}:00/{{show.date | date:'%Y-%m-%d'}}T{{show.time.end}}:00" itemprop="duration">
+								<i class="icon i--16 i--calendar"></i>
+								<span class="icon__label">
+									<strong>{{show.date | date:'%Y'}}</strong>
+									<span>{{show.date | date:'%B %d'}}</span> —
+									<span>{{show.time.start}}</span> – <span>{{show.time.end}}</span>
+								</span>
+							</time>
+							<a class="loc icon-link" href="https://www.google.ca/maps/preview#!q={{show.location.name | replace:' ','+'}}%2C+{{show.location.street-address | replace:' ','+'}}%2C+ON%2C+Canada" itemprop="location" itemscope itemtype="http://schema.org/Place">
+								<i class="icon i--16 i--location"></i>
+								<div class="icon__label">
+									<strong class="loc__name" itemprop="name">{{show.location.name}}</strong> —
+									<p class="loc__adr" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+										<span class="loc__streetadr" itemprop="streetAddress">{{show.location.street-address}}</span>
+										<span class="loc__mailing">
+											<span itemprop="addressLocality">Ottawa</span>,
+											<span itemprop="addressRegion">ON</span>,
+											<span itemprop="addressCountry">Canada</span>
+											<span itemprop="postalCode">{{show.location.postal-code}}</span>
+										</span>
+									</p>
+								</div>
+							</a>
+							<ul class="list-group">
+								{% if show.social.twitter %}
+									<li class="list-group__item list-group__item--inline MR-1em">
+										<a class="icon-link" href="https://twitter.com/{{show.social.twitter}}" rel="external">
+											<i class="icon i--16 i--twitter-bright"></i>
+											<span class="icon__label">@{{show.social.twitter}}</span>
+										</a>
+									</li>
+								{% endif %}
+								{% if show.social.facebook %}
+									<li class="list-group__item list-group__item--inline">
+										<a class="icon-link" href="{{show.social.facebook}}" rel="external">
+											<i class="icon i--16 i--facebook-bright"></i>
+											<span class="icon__label">Facebook</span>
+										</a>
+									</li>
+								{% endif %}
+							</ul>
+						</div>
+					</li>
+				{% endfor %}
+			</ol>
 
 		</div>
 	</div>

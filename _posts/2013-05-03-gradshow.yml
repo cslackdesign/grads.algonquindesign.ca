@@ -1,5 +1,11 @@
 ---
 title: Grad Show
+design:
+  bgcolor: "#00bfb3"
+  color: "#fff"
+  typeface:
+    name: signalistregular
+    css: /2013/signalist/signalist.css
 time:
   start: 19:00
   end: 22:00
@@ -7,6 +13,7 @@ location:
   name: Shopify
   street-address: "126 York Street, Suite 200"
   postal-code: "K1N 5T5"
-twitter: GradShow2013
+social:
+  twitter: GradShow2013
 category: gradshow
 ---
