@@ -3,36 +3,52 @@
 <!DOCTYPE html>
 <html lang="en-ca">
 <head>
-  <meta charset="utf-8">
-  <title>Graduates · Algonquin College Graphic Design Program</title>
+	<meta charset="utf-8">
+	<title>Graduate Showcases · Algonquin College Graphic Design Program</title>
+	<link href="//localhost:8000/css/algonquindesign.min.css" rel="stylesheet">
 </head>
 <body>
 
-<ol>
-	{% for show in site.categories.gradshow %}
-		<li>
-			<strong>{{show.title}}</strong>
-			<img src="{{site.baseurl}}/img/{{show.date | date:'%Y'}}.png" alt="">
-			<time datetime="{{show.date | date:'%Y-%m-%d'}}">{{show.date | date:'%Y'}}</time>
-			<time datetime="{{show.date | date:'%Y-%m-%d'}}T{{show.time.start}}:00/{{show.date | date:'%Y-%m-%d'}}T{{show.time.end}}:00">{{show.time.start}} – {{show.time.end}}</time>
-			<p>
-				{{show.location.name}}
-				<br>
-				{{show.location.street-address}}
-				<br>
-				Ottawa, ON
-				<br>
-				{{show.location.postal-code}}
-			</p>
-			{% if show.facebook %}
-				{{show.facebook}}
-			{% endif %}
-			{% if show.twitter %}
-				@{{show.twitter}}
-			{% endif %}
-		</li>
-	{% endfor %}
-</ol>
+	<div class="main">
+		<div class="main__content main__content--alt">
+
+			<img src="//algonquindesign.ca/img/ac-graphic-design-logo-small.svg" class="logo" alt="">
+
+			<div class="text">
+
+				<h1 class="title">Graduate Showcases</h1>
+
+				<ol>
+					{% for show in site.categories.gradshow %}
+						<li>
+							<strong>{{show.title}}</strong>
+							<img src="{{site.baseurl}}/img/{{show.date | date:'%Y'}}.png" alt="">
+							<time datetime="{{show.date | date:'%Y-%m-%d'}}">{{show.date | date:'%Y'}}</time>
+							<time datetime="{{show.date | date:'%Y-%m-%d'}}T{{show.time.start}}:00/{{show.date | date:'%Y-%m-%d'}}T{{show.time.end}}:00">{{show.time.start}} – {{show.time.end}}</time>
+							<p>
+								{{show.location.name}}
+								<br>
+								{{show.location.street-address}}
+								<br>
+								Ottawa, ON
+								<br>
+								{{show.location.postal-code}}
+							</p>
+							{% if show.facebook %}
+								{{show.facebook}}
+							{% endif %}
+							{% if show.twitter %}
+								@{{show.twitter}}
+							{% endif %}
+						</li>
+					{% endfor %}
+				</ol>
+
+			</div>
+
+		</div>
+	</div>
+
 
 </body>
 </html>
