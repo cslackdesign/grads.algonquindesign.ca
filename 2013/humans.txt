@@ -1,4 +1,4 @@
-﻿/* Team */
+/* Team */
 
 Title: Grad Show Web Group
 
@@ -21,10 +21,10 @@ Special thanks to Thomas J Bradley & Tiffany Tse
 
 
 /* Site */
-                            
-Last update: 2013/03/18 
 
-Standards: HTML5, CSS3, Javascript, Json, PHP	
+Last update: 2013/03/18
+
+Standards: HTML5, CSS3, Javascript, Json, PHP
 
 Components: Modernizr, jQuery, etc.
 
