@@ -2,4 +2,4 @@ markdown: redcarpet
 baseurl: ""
 exclude: ['README.md', 'CNAME', 'next-year-template']
 
-cdn: //algonquindesign.s3.amazonaws.com/grads
+cdn: //grads.images.algonquindesign.ca
