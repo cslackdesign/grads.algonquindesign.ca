@@ -13,11 +13,19 @@ body {
 
 /*--------------------------------CSS#1: NAV & LANDING - Nick, Jillian, Robert*/
 
+section {
+	padding-top: 6em;
+	margin-top: -6em;
+}
+
 header {	/*This fixes the nav at the top, and determines the nav color*/
-	position: absolute;
+	position: fixed;
 	display: inline-block;
 	background-color: #000;
+	height: 6em;
 	width: 100%;
+	top: 0;
+	left: 0;
 }
 
 .header { /*This adds padding to the header*/
