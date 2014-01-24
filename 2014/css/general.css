@@ -53,7 +53,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .nav {
 	padding-top: 1em;
-	background-color: #000;
+	background-color: #00ACCF;
 
 	font-size: 1rem;
 }
@@ -62,8 +62,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: inline-block;
 	float: right;
 	text-decoration: none;
-	color: #fff;
-	background-color: #333;
+	color: #000;
+	background-color: #FDD103;
 }
 
 .nav-btn,
@@ -92,14 +92,14 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .nav a:link,
 .nav a:visited {
 	display: block;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 }
 
 .nav a:hover,
 .nav a:focus, /*activates when tabbed with keyboard*/
 .nav a:active { /*on click*/
-	background-color: #999;
+	color: #00ACCF;
 }
 
 /*========JAVA SCRIPT NAV=======*/
