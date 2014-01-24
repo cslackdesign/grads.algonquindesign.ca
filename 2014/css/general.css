@@ -129,5 +129,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	background-color: #F2F2F2;
 }
 
+.skills {
+	background-color: red;
+}
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
