@@ -13,8 +13,56 @@ body {
 
 /*--------------------------------CSS#1: NAV & LANDING - Nick, Jillian, Robert*/
 
+header {	/*This fixes the nav at the top, and determines the nav color*/
+	position: absolute;
+	background-color: #000;
+}
 
+.nav {
+	padding-top: 1em;
+	background-color: #000;
 
+	font-size: 1rem;
+}
+
+.nav-btn {
+	display: inline-block;
+	float: right;
+	text-decoration: none;
+	color: #fff;
+	padding: 17px;
+	background-color: #333;
+}
+
+.nav ul {
+	margin: 0;
+	padding: 0;
+
+	list-style-type: none;
+}
+
+.nav a,
+.nav a:link,
+.nav a:visited {
+	display: block;
+	padding: 1em;
+	color: #fff;
+}
+
+.nav a:hover,
+.nav a:focus, /*activates when tabbed with keyboard*/
+.nav a:active { /*on click*/
+	background-color: #333;
+}
+
+/*========JAVA SCRIPT NAV=======*/
+.nav[data-state="closed"] {
+	display: none;
+}
+
+.nav[data-state="open"] {
+	display: block;
+}
 
 
 
