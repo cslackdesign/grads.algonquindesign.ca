@@ -52,13 +52,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 /*=================STRICTLY NAV=================*/
 
 .nav {
-<<<<<<< HEAD
-	background-color: #000;
-=======
-	padding-top: 1em;
 	background-color: #00ACCF;
->>>>>>> dd204f945d2f27419bb00f4f4ef512c6b6308af6
-
 	font-size: 1rem;
 }
 
