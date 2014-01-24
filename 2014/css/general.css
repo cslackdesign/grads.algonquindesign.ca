@@ -32,7 +32,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	position: fixed;
 	display: inline-block;
 	background-color: #000;
-	height: 6em;
 	width: 100%;
 	top: 0;
 	left: 0;
@@ -45,6 +44,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .logo { /*This fixes the width of the logo*/
 	width: 50px;
 }
+
+.video {
+	margin-top: 5em;
+}
+
+/*=================STRICTLY NAV=================*/
 
 .nav {
 	padding-top: 1em;
