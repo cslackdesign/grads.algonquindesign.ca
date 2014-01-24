@@ -11,6 +11,10 @@ body {
   font-family: helvetica, arial, sans-serif;
 }
 
+img {
+	width: 100%;
+}
+
 /*--------------------------------CSS#1: NAV & LANDING - Nick, Jillian, Robert*/
 
 section {
