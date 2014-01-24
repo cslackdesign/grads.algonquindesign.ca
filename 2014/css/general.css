@@ -31,7 +31,7 @@ section {
 header {	/*This fixes the nav at the top, and determines the nav color*/
 	position: fixed;
 	display: inline-block;
-	background-color: #000;
+	background-color: #00ACCF;
 	width: 100%;
 	top: 0;
 	left: 0;
