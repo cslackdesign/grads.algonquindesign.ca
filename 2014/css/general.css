@@ -116,6 +116,10 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 /*----------------------------CSS#2: STUDENT & WORK AREA - Lisa, Amy, Caroline*/
 
 
+.student-section {
+	padding-top: 6em;
+}
+
 .student-img {
 	width: 100%;
 	display: block;
