@@ -125,7 +125,9 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: block;
 }
 
-
+.bio {
+	background-color: #F2F2F2;
+}
 
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
