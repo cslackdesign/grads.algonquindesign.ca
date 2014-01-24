@@ -1,0 +1,28 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: helvetica, arial, sans-serif;
+}
+
+/*--------------------------------CSS#1: NAV & LANDING - Nick, Jillian, Robert*/
+
+
+
+
+
+
+/*----------------------------CSS#2: STUDENT & WORK AREA - Lisa, Amy, Caroline*/
+
+
+
+
+
+
+/*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
