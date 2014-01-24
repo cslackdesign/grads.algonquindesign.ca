@@ -31,7 +31,7 @@ section {
 header {	/*This fixes the nav at the top, and determines the nav color*/
 	position: fixed;
 	display: inline-block;
-	background-color: #000;
+	background-color: #00ACCF;
 	width: 100%;
 	top: 0;
 	left: 0;
@@ -52,7 +52,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 /*=================STRICTLY NAV=================*/
 
 .nav {
+<<<<<<< HEAD
 	background-color: #000;
+=======
+	padding-top: 1em;
+	background-color: #00ACCF;
+>>>>>>> dd204f945d2f27419bb00f4f4ef512c6b6308af6
 
 	font-size: 1rem;
 }
@@ -61,8 +66,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: inline-block;
 	float: right;
 	text-decoration: none;
-	color: #fff;
-	background-color: #333;
+	color: #000;
+	background-color: #FDD103;
 }
 
 .nav-btn,
@@ -91,14 +96,14 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .nav a:link,
 .nav a:visited {
 	display: block;
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 }
 
 .nav a:hover,
 .nav a:focus, /*activates when tabbed with keyboard*/
 .nav a:active { /*on click*/
-	background-color: #999;
+	color: #00ACCF;
 }
 
 /*========JAVA SCRIPT NAV=======*/
@@ -124,7 +129,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: block;
 }
 
+.bio {
+	background-color: #F2F2F2;
+}
 
-
+.skills {
+	background-color: red;
+}
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
