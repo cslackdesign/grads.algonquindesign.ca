@@ -331,8 +331,9 @@ figure:hover figcaption{
 footer{
 	display: inline-block;
 	background-color: #00ACCF;
-	width: 100%;
 	margin:0;
+	left:0;
+	width:100%;
 	padding:.5em;
 }
 
