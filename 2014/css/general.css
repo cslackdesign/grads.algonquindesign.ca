@@ -130,7 +130,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
-.info ul li{
+.info ul li{ /*controls div around location and date*/
 	list-style-type:none;
 }
 
@@ -139,3 +139,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	padding:0.8em 0;
 }
 
+.spthumb{ /*controls sponsor thumbnails*/
+
+}
