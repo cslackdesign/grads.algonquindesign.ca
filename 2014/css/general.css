@@ -350,6 +350,7 @@ figure:hover figcaption{
 footer{
 	display: inline-block;
 	background-color: #00ACCF;
+	color:#FFF;
 	margin:0;
 	left:0;
 	width:100%;
@@ -364,11 +365,20 @@ footer{
 
 .bubble {
 	width:70px;
+	margin-top:1em;
 }
 
 .complete /*css for level complete*/{
-	color:#FFF;
+	font-size:large;
 	display:block;
+	margin:0 auto;
+}
+
+.again { /*Play again button*/
+	width:20%;
+	display:block;
+	padding-top:1em;
+	margin:0 auto;
 }
 
 .center-all {
@@ -376,4 +386,7 @@ footer{
 	margin:0 auto;
 }
 
+hr {
+	width:5em;
+}
 
