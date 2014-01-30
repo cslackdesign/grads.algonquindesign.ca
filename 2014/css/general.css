@@ -130,8 +130,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: block;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .nav-top[data-state="open"] {
 	max-height: 14rem;
 }
@@ -160,18 +158,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.header {
 		display: inline-block;
 	}
-=======
-=======
->>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
+
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
 
 #Grid .mix{
 	opacity:0;
 	display:none;
-<<<<<<< HEAD
->>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
-=======
->>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
 }
 
 
@@ -243,12 +235,12 @@ figure:hover figcaption{
 
 }
 
-<<<<<<< HEAD
 .info { /* Controls padding of location & date info */
 	text-align: left;
 	padding-left: 20px;
 	width: 40%;
-=======
+}
+
 footer{
 	position: fixed;
 	display: inline-block;
@@ -256,5 +248,4 @@ footer{
 	width: 100%;
 	bottom: 0;
 	left: 0;
->>>>>>> 1a48fa2c27c5b3ce52b2913a7299360e7c287499
 }
