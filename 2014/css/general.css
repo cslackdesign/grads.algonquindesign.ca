@@ -373,8 +373,6 @@ figure:hover figcaption{
 
 .info { /* Controls padding of location & date info */
 	text-align: left;
-	padding-left: 20px;
-	width: 40%;
 }
 
 footer{
@@ -422,3 +420,33 @@ hr {
 	width:5em;
 }
 
+@media only screen and (min-width: 20em) {
+	.location{
+		float:left;
+		width:50%;
+	}
+	
+	.date{
+		float:right;
+		width:50%;
+	}
+	
+	.sponsor{
+		clear:both;
+	}
+}
+
+
+@media only screen and (min-width: 30em) {
+	.info {
+		padding-left: 2em;
+		padding-top:3.3em;
+	}
+	
+	.location,
+	.date{
+		display:inline-block;
+		float:none;
+		margin:0;
+	}
+}
