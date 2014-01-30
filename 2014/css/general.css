@@ -130,3 +130,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
+.info ul li{
+	list-style-type:none;
+}
+
+.info ul{
+	margin:0;
+	padding:0.8em 0;
+}
+
