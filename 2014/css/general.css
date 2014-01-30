@@ -138,7 +138,7 @@ nav li {
     min-width: 25%;
 }
 nav a {
-   
+
     color: #444;
     display: block;
     font: bold 16px/50px sans-serif;
@@ -244,6 +244,7 @@ nav li ul a:hover {
 	background-color: #00ACCF;
 	color: #fff;
 	width: 100%;
+	padding: 15px;
 }
 
 
