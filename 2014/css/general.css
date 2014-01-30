@@ -12,7 +12,7 @@
 
 body {
   margin: 0;
-  padding: 15px;
+  padding: 0;
 
   font-family: helvetica, arial, sans-serif;
 }
@@ -239,6 +239,13 @@ nav li ul a:hover {
 	}
 
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
+
+#filter-legend {
+	background-color: #00ACCF;
+	color: #fff;
+	width: 100%;
+}
+
 
 #Grid .mix{
 	opacity:0;
