@@ -12,7 +12,6 @@
 .thumbnails {
 	top: 0;
 	width: 100%;
-	background-color: blue;
 	z-index: 0;
 }
 
@@ -20,7 +19,6 @@
 	top: 0;
 	width: 100%;
 	z-index: 1;
-	background-color: red;
 }
 
 .btn-close {
