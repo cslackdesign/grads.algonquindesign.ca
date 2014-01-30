@@ -19,7 +19,6 @@
 .item {
 	top: 0;
 	width: 100%;
-	position: relative;
 	z-index: 1;
 	background-color: red;
 }
