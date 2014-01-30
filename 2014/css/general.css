@@ -131,6 +131,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .nav-top[data-state="open"] {
 	max-height: 14rem;
 }
@@ -160,11 +161,16 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		display: inline-block;
 	}
 =======
+=======
+>>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
 
 #Grid .mix{
 	opacity:0;
 	display:none;
+<<<<<<< HEAD
+>>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
+=======
 >>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
 }
 
