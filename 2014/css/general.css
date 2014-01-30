@@ -23,11 +23,6 @@ img {
 
 /*--------------------------------CSS#1: NAV & LANDING - Nick, Jillian, Robert*/
 
-section {
-	padding-top: 6em;
-	margin-top: -6em;
-}
-
 header {	/*This fixes the nav at the top, and determines the nav color*/
 	position: fixed;
 	display: inline-block;
@@ -47,9 +42,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .video {
-	margin-top: 5em;
+	margin-top: 2.5em;
 }
-
 /*=================STRICTLY NAV=================*/
 
 .nav {
@@ -110,6 +104,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .nav a:focus, /*activates when tabbed with keyboard*/
 .nav a:active { /*on click*/
 	color: #00ACCF;
+
 }
 
 .nav-top {
@@ -141,23 +136,47 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 	.nav[data-state="closed"],
 	.nav li {
-		max-height: 14rem;
-		display: inline-block;
+		width: auto;
 		float: right;
 	}
 
-	.nav li {
-		width: 100px;
-		text-align: center;
+	.nav[data-state="closed"],
+	.nav li,
+	.header {
+		max-height: 14rem;
+		display: inline-block;
 	}
 
 	.nav {
 		margin: 15px;
 	}
 
-	.header {
-		display: inline-block;
+	.social1,
+	.social2 {
+		margin-right: 10px;
+		float: right;
+		height: 18px;
+		width: 18px;
+/*		background-position: top;
+		background-repeat:no-repeat; This is for when you use an actual image*/
+		background-size: 100%;
+
 	}
+
+	.social1 {
+		background-color: red; /*This should be replaced with a background image*/
+	}
+
+	.social2 {
+		background-color: blue;
+	}
+
+	.social1:hover,
+	.social2:hover {
+		background-color: #0F0;
+		/*background-position: bottom; This is for when you use an actual picture*/
+	}
+}
 
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
 
