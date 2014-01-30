@@ -1,5 +1,6 @@
 $(document).ready(function(){
   var openStudent = 'student-section';
+  var openThumbnails = 'thumbnails';
 
   $('.profile').hide();
 
@@ -15,7 +16,7 @@ $(document).ready(function(){
     });
   });
 
-  $('.btn-close').click(function () {
+  $('.btn-close-profile').click(function () {
     $(this).parents('.profile').fadeOut(400);
     openStudent = 'student-section';
     $('#student-section').fadeIn({
@@ -32,22 +33,22 @@ $(document).ready(function(){
   $('.thumbnail-btn').click(function () {
     var id = $(this).data('id');
     openProfile = id;
-    $('#student-section').fadeOut(400);
+    $('#thumbnails').fadeOut(400);
     $('#' + id).fadeIn({
       duration: 800,
       start: function () {
-        $('#student-section-wrap').height($('#' + id).outerHeight());
+        $('#thumbnails-wrap').height($('#' + id).outerHeight());
       }
     });
   });
 
   $('.btn-close').click(function () {
-    $(this).parents('.profile').fadeOut(400);
-    openStudent = 'student-section';
-    $('#student-section').fadeIn({
+    $(this).parents('.item').fadeOut(400);
+    openThumbnails = 'thumbnails';
+    $('#thumbnails').fadeIn({
       duration: 400,
       start: function () {
-        $('#student-section-wrap').height($('#student-section').outerHeight());
+        $('#thumbnails-wrap').height($('#thumbnails-section').outerHeight());
       }
     });
   });
