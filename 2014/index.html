@@ -8,6 +8,8 @@
   <link href="css/normalize.css" rel="stylesheet">
   <link href="css/grid.css" rel="stylesheet">
   <link href="css/general.css" rel="stylesheet">
+  <link href="css/dialog-polyfill.css" rel="stylesheet">
+  <link href="css/video.css" rel="stylesheet">
 
   <!--MODERNIZR-->
   <script src="js/modernizr.js"></script>
@@ -35,10 +37,20 @@
 		</header>
 
 		<div class="video unit-spacer">
+
+		<button id="btn-open">Open Video</button>
+
+    <dialog id="video">
+      <div id="video-placeholder">
+      </div>
+
+     	<button id="close-btn">✕</button>
+    </dialog>
 			<img src="http://placehold.it/1920x1080">
 			<div id="students">
 
 		</div>
+	</div>
 	</section>
 				<h1>H1 Game Start</h1> <!-- Students id tag is here, so that the nav doesn't cover inportant Student Section stuff -->
 			<p id="students">In a world that is threatened by ugliness…blah blah…Choose a designer to help you save your WORLD!!!</p>
@@ -830,6 +842,8 @@
 	</script>
 <script src="js/app.js"></script>
 <script src="js/profile.js"></script>
+<script src="js/dialog-polyfill.js"></script>
+<script src="js/video.js"></script>
 
 </body>
 </html>
