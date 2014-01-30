@@ -27,6 +27,33 @@ $(document).ready(function(){
   });
 
 
+  // $('.item').hide();
+
+  // $('.thumbnail-btn').click(function () {
+  //   var id = $(this).data('id');
+  //   openProfile = id;
+  //   $('#student-section').fadeOut(400);
+  //   $('#' + id).fadeIn({
+  //     duration: 800,
+  //     start: function () {
+  //       $('#student-section-wrap').height($('#' + id).outerHeight());
+  //     }
+  //   });
+  // });
+
+  // $('.btn-close').click(function () {
+  //   $(this).parents('.profile').fadeOut(400);
+  //   openStudent = 'student-section';
+  //   $('#student-section').fadeIn({
+  //     duration: 400,
+  //     start: function () {
+  //       $('#student-section-wrap').height($('#student-section').outerHeight());
+  //     }
+  //   });
+  // });
+
+
+
   $('.next-btn').click(function () {
     var $workDiv = $(this).parents('.work-div');
     var $nextDiv = $(this).parents('.work-div').next('.work-div');
