@@ -4,11 +4,11 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
-* {
+/** {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-}
+}*/
 
 body {
   margin: 0;
@@ -130,6 +130,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: block;
 }
 
+<<<<<<< HEAD
 .nav-top[data-state="open"] {
 	max-height: 14rem;
 }
@@ -158,6 +159,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.header {
 		display: inline-block;
 	}
+=======
+/*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
+
+#Grid .mix{
+	opacity:0;
+	display:none;
+>>>>>>> b8175129df1738f2c3332b2f7b28aded84f23e51
 }
 
 
@@ -166,6 +174,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 
 .student-section {
+	font-size: 0.65em;
 }
 
 .student-img {
@@ -174,10 +183,72 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .bio {
-	background-color: #F2F2F2;
 }
 
 .skills {
 }
 
+figure {
+  display: block;
+  overflow: hidden;
+  position: relative;
+ }
+
+figcaption {
+	opacity: 0;
+	position: absolute;
+	margin-top: -4.5em;
+	text-align: center;
+	width: 100%;
+	background-color: rgba(254,209,0,0.7);
+	padding: 0.5em 0;
+}
+
+figure:hover figcaption{
+	opacity: 1;
+}
+
+
+
+@media only screen and (min-width: 41em) {
+	.student-section {
+		font-size: 0.75em;
+	}
+}
+
+@media only screen and (min-width: 41em) {
+	.student-section {
+		font-size: 1em;
+	}
+}
+
+
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
+.info ul li{ /*controls div around location and date*/
+	list-style-type:none;
+}
+
+.info ul{
+	margin:0;
+	padding:0.8em 0;
+}
+
+.spthumb{ /*controls sponsor thumbnails*/
+
+}
+
+<<<<<<< HEAD
+.info { /* Controls padding of location & date info */
+	text-align: left;
+	padding-left: 20px;
+	width: 40%;
+=======
+footer{
+	position: fixed;
+	display: inline-block;
+	background-color: #00ACCF;
+	width: 100%;
+	bottom: 0;
+	left: 0;
+>>>>>>> 1a48fa2c27c5b3ce52b2913a7299360e7c287499
+}
