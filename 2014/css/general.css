@@ -42,7 +42,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .video {
-	margin-top: 2.5em;
+	margin: 4px;
+	padding-top: 3em;
 }
 /*=================STRICTLY NAV=================*/
 
@@ -153,7 +154,7 @@ nav .dropdown:hover:after{
 	content:'\25bc'
 }
 nav li:hover a {
-    background: #ccc;
+    background: #000;
 }
 nav li ul {
     float: left;
