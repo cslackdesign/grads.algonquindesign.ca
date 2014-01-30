@@ -41,6 +41,18 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	width: 50px;
 }
 
+.landing-text {
+	text-align: center;
+	padding: 15px;
+}
+
+.landing {
+	background-image: url('../img/landing-banner-placeholder.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 110%;
+}
+
 /*VIDEO AREA*/
 
 .video {
@@ -49,7 +61,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 #btn-open-video {
-	position: absolute;
 	border: none;
 	background-color: transparent;
 	margin: 2rem 0 2rem 5.5rem;
