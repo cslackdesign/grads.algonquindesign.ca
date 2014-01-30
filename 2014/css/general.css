@@ -54,10 +54,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	border: none;
 	background-color: transparent;
 	margin: 2rem 0 2rem 5.5rem;
-=======
 	margin: 4px;
 	padding-top: 3em;
->>>>>>> bc41976fc9c86660f6fa3c19e805c2e99e15cf91
 }
 /*=================STRICTLY NAV=================*/
 
