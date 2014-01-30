@@ -5,20 +5,19 @@
 	background-color: #F2F2F2;
 }
 
-#btn-close {
-	width: 32px;
-	height: 32px;
-	border-radius: 16px;
+.btn-close {
+	width: 40px;
+	height: 40px;
 	text-align: center;
 	line-height: 24px;
-	border: 2px solid #fff;
-	background-color: #000;
+	border: 2px solid #00ACCF;
+	background-color: #00ACCF;
 	color: #fff;
-	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 	padding: 0;
 	font-weight: bold;
 	cursor: pointer;
 	position: absolute;
-	top: -16px;
-	right: -16px;
+	top: 8px;
+	right: 8px;
+	outline: none;
 }
