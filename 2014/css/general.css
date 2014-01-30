@@ -109,6 +109,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: block;
 }
 
+/*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
+
+#Grid .mix{
+	opacity:0;
+	display:none;
+}
+
 
 
 /*----------------------------CSS#2: STUDENT & WORK AREA - Lisa, Amy, Caroline*/

@@ -42,25 +42,31 @@
 <!--FILTER AREA-->
 
 <section>
+
+
+
 	<ul>
-		<li class="filter" data-filter="ui"></li>
-		<li class="filter" data-filter="web"></li>
-		<li class="filter" data-filter="print"></li>
-		<li class="filter" data-filter="motion"></li>
-		<li class="filter" data-filter="photo"></li>
+		<li class="filter" data-filter="ui">UI/UX</li>
+		<li class="filter" data-filter="web">WEB</li>
+		<li class="filter" data-filter="print">PRINT</li>
+		<li class="filter" data-filter="motion">MOTION</li>
+		<li class="filter" data-filter="photo">PHOTOGRAPHY</li>
+		<li class="filter" data-filter="all">ALL</li>
 	</ul>
 
 	<ul>
-		<li class="sort" data-sort="data-name" data-order="desc"></li>
-		<li class="sort" data-sort="data-name" data-order="asc"></li>
+		<li class="sort" data-sort="data-name" data-order="desc">Descending</li>
+		<li class="sort" data-sort="data-name" data-order="asc">Ascending</li>
+		<li class="sort" data-sort="default" data-order="asc">Default</li>
 	</ul>
 
 <ul id="Grid">
-    <li class="mix ui" data-name="Amy Brown"></li>
-    <li class="mix web" data-name="Ashley Edmunson"></li>
-    <li class="mix motion" data-name="Jay Deansie"></li>
-    <li class="mix photo" data-name="Winnie Lau"></li>
+    <li class="mix ui" data-name="Amy Brown">Amy Brown</li>
+    <li class="mix web" data-name="Ashley Edmunson">Ashley Edmunson</li>
+    <li class="mix motion" data-name="Jay Deansie">J Deansie</li>
+    <li class="mix photo" data-name="Winnie Lau">Winnie Lau</li>
 </ul>
+
 
 </section>
 
@@ -689,7 +695,16 @@
 
 <!--SCRIPTS-->
 <script src="http://code.jquery.com/jquery-2.0.3.min.js"></script>
+<script src="js/jquery.mixitup.min.js"></script>
+	<script>
+		$(function(){
+
+	    $('#Grid').mixitup();
+
+		});
+	</script>
 <script src="js/app.js"></script>
+
 
 </body>
 </html>
