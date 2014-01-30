@@ -14,7 +14,7 @@ $('#btn-open-video').on('click', function(){
   //showModal() --> Single dialog, with no user interaction behind
 });
 
-$('#close-btn').on('click', function(){
+$('#close-btn-video').on('click', function(){
   $dialog.get(0).close();
   $placeholder.html('');
 });
