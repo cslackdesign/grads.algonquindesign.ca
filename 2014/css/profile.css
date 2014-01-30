@@ -5,6 +5,25 @@
 	background-color: #F2F2F2;
 }
 
+.bio {
+	opacity: 40%;
+}
+
+.thumbnails {
+	top: 0;
+	width: 100%;
+	background-color: blue;
+	z-index: 0;
+}
+
+.item {
+	top: 0;
+	width: 100%;
+	position: relative;
+	z-index: 1;
+	background-color: red;
+}
+
 .btn-close {
 	width: 40px;
 	height: 40px;
