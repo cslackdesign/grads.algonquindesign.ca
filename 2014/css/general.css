@@ -119,12 +119,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 nav ul {
 	-webkit-font-smoothing:antialiased;
 	text-shadow:0 1px 0 #FFF;
-    background: #ddd;
     list-style: none;
     margin: 0;
     padding: 0;
     width: 100%;
 }
+
 nav li {
     float: left;
     margin: 0;
@@ -136,7 +136,7 @@ nav a {
 
     color: #444;
     display: block;
-    font: bold 16px/50px sans-serif;
+    font: bold 16px sans-serif;
     padding: 0 25px;
     text-align: center;
     text-decoration: none;
@@ -208,20 +208,26 @@ nav li ul a:hover {
 	max-height: 14rem;
 }
 
-@media only screen and (min-width: 30em) {
+.social {
+	display: none;
+}
+
+@media only screen and (min-width: 30em) { /*Medium Screen*/
 	.nav-btn {
 		display: none;
 	}
 
 	.nav[data-state="closed"],
-	.nav li {
+	.nav li,
+	.social {
 		width: auto;
 		float: right;
 	}
 
 	.nav[data-state="closed"],
 	.nav li,
-	.header {
+	.header,
+	.social {
 		max-height: 14rem;
 		display: inline-block;
 	}
@@ -243,11 +249,11 @@ nav li ul a:hover {
 	}
 
 	.social1 {
-		background-color: red; /*This should be replaced with a background image*/
+		background-image: url(../img/twitter.png); /*This should be replaced with a background image*/
 	}
 
 	.social2 {
-		background-color: blue;
+		background-image: url(../img/facebook.png);
 	}
 
 	.social1:hover,
@@ -367,8 +373,6 @@ figure:hover figcaption{
 
 .info { /* Controls padding of location & date info */
 	text-align: left;
-	padding-left: 20px;
-	width: 40%;
 }
 
 footer{
@@ -416,3 +420,33 @@ hr {
 	width:5em;
 }
 
+@media only screen and (min-width: 20em) {
+	.location{
+		float:left;
+		width:50%;
+	}
+	
+	.date{
+		float:right;
+		width:50%;
+	}
+	
+	.sponsor{
+		clear:both;
+	}
+}
+
+
+@media only screen and (min-width: 30em) {
+	.info {
+		padding-left: 2em;
+		padding-top:3.3em;
+	}
+	
+	.location,
+	.date{
+		display:inline-block;
+		float:none;
+		margin:0;
+	}
+}

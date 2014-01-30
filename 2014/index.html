@@ -8,6 +8,8 @@
   <link href="css/normalize.css" rel="stylesheet">
   <link href="css/grid.css" rel="stylesheet">
   <link href="css/general.css" rel="stylesheet">
+  <link href="css/dialog-polyfill.css" rel="stylesheet">
+  <link href="css/video.css" rel="stylesheet">
 
   <!--MODERNIZR-->
   <script src="js/modernizr.js"></script>
@@ -26,6 +28,8 @@
 					<ul>
 						<li class="nav-btn"><a href="#students">Students</a></li>
 						<li class="nav-btn"><a href="#venue">Venue</a></li>
+					</ul>
+					<ul class="social">
 						<li><a class="social1" href="https://www.facebook.com/" target="_blank"></a></li>
 						<li><a class="social2" href="https://twitter.com/" target="_blank"></a></li>
 					</ul>
@@ -33,10 +37,20 @@
 		</header>
 
 		<div class="video unit-spacer">
+
+		<button id="btn-open">Open Video</button>
+
+    <dialog id="video">
+      <div id="video-placeholder">
+      </div>
+
+     	<button id="close-btn">✕</button>
+    </dialog>
 			<img src="http://placehold.it/1920x1080">
 			<div id="students">
 
 		</div>
+	</div>
 	</section>
 				<h1>H1 Game Start</h1> <!-- Students id tag is here, so that the nav doesn't cover inportant Student Section stuff -->
 			<p id="students">In a world that is threatened by ugliness…blah blah…Choose a designer to help you save your WORLD!!!</p>
@@ -745,10 +759,10 @@
         <p>Vestibulum tincidunt, sapien eget auctor sodales, neque turpis facilisis ligula, ut pellentesque mauris ligula non quam.</p>
     </div>
 
-    <div class="info unit unit-xs-1 unit-s-1-2 unit-m-1-3 unit-l-1-3">
-        <div class="unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2">
+    <div class="info unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-3">
+        <div class="location unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2">
             <ul>
-            	<li>LOCATION</li>
+            	<li><strong>LOCATION</strong></li>
                 <li>Shopify Inc.</li>
                 <li>126 York Street,</li>
                 <li>Suite 200,</li>
@@ -757,16 +771,16 @@
             </ul>
         </div>
 
-        <div class="unit unit-xs-1 unit-s-1-2 unit-m-1-2 unit-l-1-2">
+        <div class="date unit unit-xs-1 unit-s-1-2 unit-m-1-2 unit-l-1-2">
             <ul>
-            	<li>DATE</li>
+            	<li><strong>DATE</strong></li>
                 <li>MAY 2ND</li>
                 <li>6:30PM-10:00PM</li>
             </ul>
         </div>
     </div>
 
-    <div class="unit unit-xs-1 unit-s-1-1 unit-m1-3 unit-l-1-3">
+    <div class="sponsor unit unit-xs-1 unit-s-1-1 unit-m1-3 unit-l-1-3">
         <h3>SPONSORED BY</h3>
 
         <div class="grid">
@@ -828,6 +842,8 @@
 	</script>
 <script src="js/app.js"></script>
 <script src="js/profile.js"></script>
+<script src="js/dialog-polyfill.js"></script>
+<script src="js/video.js"></script>
 
 </body>
 </html>
