@@ -321,10 +321,31 @@ figure:hover figcaption{
 }
 
 footer{
-	position: fixed;
 	display: inline-block;
 	background-color: #00ACCF;
 	width: 100%;
-	bottom: 0;
-	left: 0;
+	margin:0;
+	padding:.5em;
 }
+
+.smicon /*Social media icon*/{
+	width:50px;
+	padding-top:1em;
+	display:inline-block;
+}
+
+.bubble {
+	width:70px;
+}
+
+.complete /*css for level complete*/{
+	color:#FFF;
+	display:block;
+}
+
+.center-all {
+	text-align:center;
+	margin:0 auto;
+}
+
+
