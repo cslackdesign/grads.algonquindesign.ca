@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
   });
 
-  $('.btn-close').click(function () {
+  $('.btn-close-item').click(function () {
     $(this).parents('.item').fadeOut(400);
     openThumbnails = 'thumbnails';
     $('#thumbnails').fadeIn({
