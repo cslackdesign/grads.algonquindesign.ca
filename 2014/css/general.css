@@ -245,12 +245,15 @@ footer{
 	display: inline-block;
 	background-color: #00ACCF;
 	width: 100%;
-<<<<<<< HEAD
 	margin:0;
 	padding:.5em;
 }
-=======
-	bottom: 0;
-	left: 0;
+.smicon /*Social media icon*/{
+	width:50px;
+	display:inline-block;
 }
->>>>>>> be6574cfa76e46a4d7082cab1ea4745c89dc4325
+
+.complete /*css for level complete*/{
+	color:#FFF;
+	text-align:center;
+}
