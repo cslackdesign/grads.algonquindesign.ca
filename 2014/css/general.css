@@ -41,8 +41,18 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	width: 50px;
 }
 
+/*VIDEO AREA*/
+
 .video {
 	margin-top: 2.5em;
+
+}
+
+#btn-open {
+	position: absolute;
+	border: none;
+	background-color: transparent;
+	margin: 2rem 0 2rem 5.5rem;
 }
 /*=================STRICTLY NAV=================*/
 
@@ -425,12 +435,12 @@ hr {
 		float:left;
 		width:50%;
 	}
-	
+
 	.date{
 		float:right;
 		width:50%;
 	}
-	
+
 	.sponsor{
 		clear:both;
 	}
@@ -442,7 +452,7 @@ hr {
 		padding-left: 2em;
 		padding-top:3.3em;
 	}
-	
+
 	.location,
 	.date{
 		display:inline-block;
