@@ -44,18 +44,15 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 /*VIDEO AREA*/
 
 .video {
-<<<<<<< HEAD
 	margin-top: 2.5em;
 
 }
 
-#btn-open {
+#btn-open-video {
 	position: absolute;
 	border: none;
 	background-color: transparent;
 	margin: 2rem 0 2rem 5.5rem;
-	margin: 4px;
-	padding-top: 3em;
 }
 /*=================STRICTLY NAV=================*/
 
