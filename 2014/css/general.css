@@ -248,3 +248,15 @@ footer{
 	margin:0;
 	padding:.5em;
 }
+<<<<<<< HEAD
+=======
+.smicon /*Social media icon*/{
+	width:50px;
+	display:inline-block;
+}
+
+.complete /*css for level complete*/{
+	color:#FFF;
+	text-align:center;
+}
+>>>>>>> 93842c42969232e7455371f649e36a523753a423
