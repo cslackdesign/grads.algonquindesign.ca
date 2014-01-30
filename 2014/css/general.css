@@ -141,3 +141,9 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .spthumb{ /*controls sponsor thumbnails*/
 
 }
+
+.info { /* Controls padding of location & date info */
+	text-align: left;
+	padding-left: 20px;
+	width: 40%;
+}
