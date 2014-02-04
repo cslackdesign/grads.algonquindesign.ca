@@ -1,10 +1,11 @@
 $(document).ready(function(){
   var openStudent = 'student-section';
   var openThumbnails = 'thumbnails';
+  var openProfile = null;
 
   $('.profile').hide();
 
-  $('.student-section-btn').click(function () {
+  $('#student-section').on('click', '.student-section-btn', function () {
     var id = $(this).data('id');
     openProfile = id;
     $('#student-section').fadeOut(400);
