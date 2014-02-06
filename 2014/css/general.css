@@ -388,10 +388,6 @@ figure:hover figcaption{
 	padding:0.8em 0;
 }
 
-.spthumb{ /*controls sponsor thumbnails*/
-
-}
-
 .info { /* Controls padding of location & date info */
 	text-align: left;
 }
@@ -404,12 +400,6 @@ footer{
 	left:0;
 	width:100%;
 	padding:.5em;
-}
-
-.smicon /*Social media icon*/{
-	width:50px;
-	padding-top:1em;
-	display:inline-block;
 }
 
 .bubble {
@@ -441,6 +431,14 @@ hr {
 	width:5em;
 }
 
+/*facebook twitter vimeo icon*/
+
+.smicon /*Social media icon*/{
+	width:50px;
+	padding-top:1em;
+	display:inline-block;
+}
+
 @media only screen and (min-width: 20em) {
 	.location{
 		float:left;
@@ -470,4 +468,9 @@ hr {
 		float:none;
 		margin:0;
 	}
+	
+}
+
+@media only screen and (min-width: 41em) {
+
 }
