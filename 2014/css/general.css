@@ -530,13 +530,10 @@ hr {
 		float:none;
 		margin:0;
 	}
-<<<<<<< HEAD
-
 }
 
 @media only screen and (min-width: 41em) {
 
-=======
 }
 
 @media only screen and (min-width: 41em) {
@@ -547,5 +544,4 @@ hr {
 		display:inline-block;
 		width:30%;
 	}
->>>>>>> 367efb9fe4bad547a1251ba8ed7bd862a1317707
 }
