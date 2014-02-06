@@ -51,9 +51,11 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	background-repeat: no-repeat;
 	background-position: center;
   background-attachment: fixed;
-	background-size: 110%;
+	background-size: 100%;
 
   margin: 5rem 0 0 0;
+  padding:0;
+  height: 30rem;
 }
 
 /*VIDEO AREA*/
