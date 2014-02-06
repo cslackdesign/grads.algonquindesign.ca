@@ -34,6 +34,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .header { /*This adds padding to the header*/
+	width: 100%;
 	padding: 15px;
 }
 
@@ -66,23 +67,19 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 /*VIDEO AREA*/
 
-.video {
-	margin-top: 2.5em;
-  width: 100%;
+#btn-open-video {
+  background-color: transparent;
+  margin: 15rem 0 0 0;
+  display: block;
 
   border: 1px solid red;
-
-}
-
-#video {
   width: 100%;
 }
 
-#btn-open-video {
-	border: none;
-	background-color: transparent;
-  position: absolute;
-  margin-left: 50%;
+#btn-open-video img{
+  text-align: center;
+  margin: 0 auto;
+  width: 100px;
 
   border: 1px solid red;
 
@@ -237,20 +234,6 @@ nav li ul a:hover {
     zoom:1;
 }​
 
-/*========JAVA SCRIPT NAV=======*/
-/*.nav[data-state="closed"] {
-	display: none;
-}
-
-.nav[data-state="open"] {
-	display: block;
-}
-
-.nav-top[data-state="open"] {
-	max-height: 14rem;
-}
-*/
-
 /*==========NAV TAKE 2==========*/
 
 .nav {
@@ -266,7 +249,8 @@ margin-right: 10px;
 float: right;
 }
 
-.nav-btn a {
+.nav-btn a,
+.social {
 	padding: 18px 26px;
 	background-color: #ccc;
 }
@@ -277,11 +261,10 @@ float: right;
 	background-color: #fff;
 }
 
-
-
-
 .social {
 	display: none;
+	margin-right: 10px;
+	float: right;
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
@@ -311,10 +294,8 @@ float: right;
 	.social1,
 	.social2,
 	.social3 {
-		margin-right: 10px;
 		float: right;
-		height: 18px;
-		width: 18px;
+
 /*		background-position: top;
 		background-repeat:no-repeat; This is for when you use an actual image*/
 		background-size: 100%;
@@ -389,6 +370,7 @@ float: right;
 	width: 100%;
 	display: block;
 	position: relative;
+	transition: transform 0.4s;
 }
 
 .bio {
@@ -421,6 +403,11 @@ float: right;
 .stu-grid-box figure:hover figcaption{
 	opacity: 1;
 	cursor: pointer;
+}
+
+.no-touch .stu-grid-box figure:hover img,
+.cs-style-3 figure.cs-hover img {
+    transform: translateY(-50px);
 }
 
 
@@ -522,9 +509,8 @@ hr {
 
 @media only screen and (min-width: 30em) {
 	.info {
-		padding-left:1.5em;
-		padding-top:2.5em;
-		margin:0;
+		padding-top:2em;
+		margin:0 auto;
 		display:inline-block;
 		width:45%;
 	}
@@ -536,16 +522,25 @@ hr {
 		margin:0;
 		width:100%;
 	}
+	
+	.location li,
+	.date li{
+		padding-left:40%;
+	}
 }
 
 @media only screen and (min-width: 41em) {
 	.info {
-		width:30%;
+		width:33.6%;
 	}
 	
+	.location li,
+	.date li{
+		padding-left:23%;
+	}
+
 	.sponsor {
 		display:inline-block;
-		width:30%;
+		width:33%;
 	}
-	
 }
