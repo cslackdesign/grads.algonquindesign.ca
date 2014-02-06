@@ -11,9 +11,9 @@
 }*/
 
 body {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
-	max-width: 70em;
+
   font-family: helvetica, arial, sans-serif;
 }
 
@@ -534,33 +534,10 @@ hr {
 		display:inline-block;
 		float:none;
 		margin:0;
-		width:100%;
 	}
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> 89a5e787ff52077230ad2ba12243e790df2075ad
-=======
->>>>>>> 89a5e787ff52077230ad2ba12243e790df2075ad
 }
 
 @media only screen and (min-width: 41em) {
-	.info {
-		width:30%;
-	}
-<<<<<<< HEAD
 
-=======
-	
->>>>>>> 89a5e787ff52077230ad2ba12243e790df2075ad
-	.sponsor {
-		display:inline-block;
-		width:30%;
-	}
-<<<<<<< HEAD
-
-=======
-	
->>>>>>> 89a5e787ff52077230ad2ba12243e790df2075ad
 }
