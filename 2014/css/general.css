@@ -490,6 +490,12 @@ hr {
 	display:inline-block;
 }
 
+.spthumb {
+	width:100%;
+	display:inline-block;
+	padding:8px;
+}
+
 @media only screen and (min-width: 20em) {
 	.location{
 		float:left;
@@ -542,5 +548,17 @@ hr {
 	.sponsor {
 		display:inline-block;
 		width:33%;
+	}
+}
+
+@media only screen and (min-width: 60em) {
+	.location{
+		width:50%;
+		float:left;
+	}
+	
+	.date{
+		width:50%;
+		float:right;
 	}
 }
