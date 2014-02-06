@@ -242,6 +242,7 @@ nav li ul a:hover {
 
 .nav li {
 	list-style: none;
+	display: inline-block;
 }
 
 .nav-btn {
@@ -263,7 +264,12 @@ nav li ul a:hover {
 
 .social {
 	display: none;
+}
 
+nav ul {
+	position: absolute;
+	top: 5px;
+	right: 15px;
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
@@ -277,12 +283,6 @@ nav li ul a:hover {
 		width: auto;
 		float: right;
 	}*/
-
-	nav ul {
-		position: absolute;
-		top: 5px;
-		right: 15px;
-	}
 
 	.nav li,
 	.social {
@@ -533,7 +533,7 @@ hr {
 		margin:0;
 		width:100%;
 	}
-	
+
 	.location li,
 	.date li{
 		padding-left:40%;
@@ -544,7 +544,7 @@ hr {
 	.info {
 		width:33.6%;
 	}
-	
+
 	.location li,
 	.date li{
 		padding-left:23%;
