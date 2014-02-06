@@ -518,7 +518,7 @@ hr {
 
 @media only screen and (min-width: 30em) {
 	.info {
-		padding-top:2.5em;
+		padding-top:2em;
 		margin:0 auto;
 		display:inline-block;
 		width:45%;
@@ -529,19 +529,27 @@ hr {
 		display:inline-block;
 		float:none;
 		margin:0;
+		width:100%;
 	}
-}
-
-@media only screen and (min-width: 41em) {
-
+	
+	.location li,
+	.date li{
+		padding-left:40%;
+	}
 }
 
 @media only screen and (min-width: 41em) {
 	.info {
-		width:30%;
+		width:33.6%;
 	}
+	
+	.location li,
+	.date li{
+		padding-left:23%;
+	}
+	
 	.sponsor {
 		display:inline-block;
-		width:30%;
+		width:33%;
 	}
 }
