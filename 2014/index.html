@@ -8,6 +8,7 @@
   <link href="css/normalize.css" rel="stylesheet">
   <link href="css/grid.css" rel="stylesheet">
   <link href="css/general.css" rel="stylesheet">
+  <link href="css/profile.css" rel="stylesheet">
   <link href="css/dialog-polyfill.css" rel="stylesheet">
   <link href="css/video.css" rel="stylesheet">
 
@@ -15,7 +16,7 @@
   <script src="js/modernizr.js"></script>
 
 </head>
-<body>
+<body id="top">
 
 <!--HTML#1: NAVIGATION & LANDING - Nick, Jillian, Robert-->
 	<section>
@@ -40,7 +41,7 @@
 				<ul class="nav">
 					<li class="nav-btn"><a href="#students"></a></li>
 					<li class="nav-btn"><a href="#venue"></a></li>
-					<li><a class="social social1" href="https://twitter.com/" target="_blank"></a></li>
+					<li><a class="social social1" href="https://www.twitter.com/" target="_blank"></a></li>
 					<li><a class="social social2" href="https://www.facebook.com/" target="_blank"></a></li>
 					<li><a class="social social3" href="https://www.behance.net/" target="_blank"></a></li>
 				</ul>
@@ -49,33 +50,25 @@
 			</div>
 
 		</header>
-			</section>
-
-
-		<section class="landing">
 
 		<div class="video unit-spacer">
 
-			<button id="btn-open-video"><img src="img/play.png" alt=""></button>
+		<button id="btn-open">Open Video</button>
 
-	    <dialog id="video">
-	      <div id="video-placeholder">
-	      </div>
+    <dialog id="video">
+      <div id="video-placeholder">
+      </div>
 
-	     	<button id="close-btn-video">✕</button>
-	    </dialog>
-
+     	<button id="close-btn">✕</button>
+    </dialog>
+			<img src="http://placehold.it/1920x1080">
 			<div id="students">
-			</div>
 
 		</div>
-	</section>
-
-
-	<div class="landing-text">
-		<h1>LEVEL 14</h1> <!-- Students id tag is here, so that the nav doesn't cover inportant Student Section stuff -->
-		<p id="students">In a world that is threatened by ugliness…blah blah…Choose a designer to help you save your WORLD!!!</p>
 	</div>
+	</section>
+				<h1>H1 Game Start</h1> <!-- Students id tag is here, so that the nav doesn't cover inportant Student Section stuff -->
+			<p id="students">In a world that is threatened by ugliness…blah blah…Choose a designer to help you save your WORLD!!!</p>
 
 <!--HTML#2: STUDENT & WORK AREA - Lisa, Amy, Caroline-->
 
@@ -103,8 +96,6 @@
 
 </section>
 
-<section id="Grid">
-
 <div id="student-section" class="grid student-section">
 
 		<div class="unit unit-xs-1-3 unit-s-1-4 unit-m-1-5 unit-l-1-6" >
@@ -116,7 +107,7 @@
 		<!-- Student alphabetical list starts below -->
 
 		<!-- #1 -->
-		<div class="mix unit unit-xs-1-3 unit-s-1-4 unit-m-1-5 unit-l-1-6" data-name="Stephanie Albert">
+<div class="mix unit unit-xs-1-3 unit-s-1-4 unit-m-1-5 unit-l-1-6" data-name="Stephanie Albert">
 				<div class="unit-spacer stu-grid-box">
 					<figure>
 						<a data-id="MariamAbdulwahab" class="student-section-btn"><img class="student-img" src="img/profile.jpg" alt="">
@@ -705,18 +696,15 @@
 				</div>
 		</div>
 
-
 </div>
-
-</section>
 
 
 
 	<!--BIO SECTION AREA-->
 
 		<!-- #1 -->
-<div id="StephanieAlbert" class="profile grid">
-	<button class="unit btn-close-profile" id="btn-close-profile"><img class="flex-img" src="img/close.png" alt=""></button>
+<div id="MariamAbdulwahab" class="profile grid">
+	<button class="unit btn-close btn-close-profile" id="btn-close-profile">×</button>
 	<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
 
 		<div class="unit unit-xs-1-2 unit-s-1-3 unit-m-1 unit-l-1">
@@ -727,13 +715,15 @@
 
 		<div class="skills unit unit-xs-1-3 unit-s-3-5 unit-m-1 unit-l-1">
 			<div class="unit-spacer">
-				<h4>Stephanie Albert</h4>
-				<ol>
-				  <li>Skills:</li>
-				  <li>UX/UI:</li>
-				  <li>Branding:</li>
-				  <li>Print:</li>
-				</ol>
+				<h2>Mariam Abdulwahab</h2>
+				  <p>Skills:</p>
+				  <p>UX/UI:</p>
+				  <p>Branding:</p>
+				  <p>Print:</p>
+					<p><a class="" href="https://www.twitter.com/" target="_blank">Twitter</a></p>
+					<p><a class="" href="https://www.facebook.com/" target="_blank">Facebook</a></p>
+					<p><a class="" href="https://www.behance.net/" target="_blank">Behance</a></p>
+
 			</div>
 		</div>
 
@@ -748,43 +738,94 @@
 	<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
 
 		<div id="thumbnails" class="thumbnails">
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
+					<a data-id="item-0" class="thumbnail-btn"><img class="student-img" src="img/thumbnail-0.jpg" alt=""></a>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
+					<a data-id="item-1" class="thumbnail-btn"><img class="student-img" src="img/thumbnail-1.jpg" alt=""></a>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
+					<a data-id="item-2" class="thumbnail-btn"><img class="student-img" src="img/thumbnail-2.jpg" alt=""></a>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
+					<a data-id="item-3" class="thumbnail-btn"><img class="student-img" src="img/thumbnail-3.jpg" alt=""></a>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
+					<a data-id="item-4" class="thumbnail-btn"><img class="student-img" src="img/thumbnail-4.jpg" alt=""></a>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
+					<a data-id="item-5" class="thumbnail-btn"><img class="student-img" src="img/thumbnail-5.jpg" alt=""></a>
 				</div>
 			</div>
 		</div>
 
-		<div id="item" class="item">
-		<button class="unit btn-close-item" id="btn-close-item"><img class="flex-img" src="img/close.png" alt=""></button>
+		<div id="item-0" class="item">
+			<button class="unit btn-close-item" id="btn-close-item">×</button>
 			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-					<img class="flex-img" src="http://placehold.it/724x2000" alt="">
+					<h2 id="item">Item 1</h2>
+					<img class="flex-img" src="img/item-0.jpg" alt="item-1">
+					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
+				</div>
+			</div>
+		</div>
+		<div id="item-1" class="item">
+			<button class="unit btn-close-item" id="btn-close-item">×</button>
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+				<div class="unit-spacer">
+					<h2>Item 2</h2>
+					<img class="flex-img" src="img/item-1.jpg" alt="item-2">
+					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
+				</div>
+			</div>
+		</div>
+		<div id="item-2" class="item">
+			<button class="unit btn-close-item" id="btn-close-item">×</button>
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+				<div class="unit-spacer">
+					<h2>Item 3</h2>
+					<img class="flex-img" src="img/item-2.jpg" alt="item-3">
+					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
+				</div>
+			</div>
+		</div>
+		<div id="item-3" class="item">
+			<button class="unit btn-close-item" id="btn-close-item">×</button>
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+				<div class="unit-spacer">
+					<h2>Item 4</h2>
+					<img class="flex-img" src="img/item-3.jpg" alt="item-4">
+					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
+				</div>
+			</div>
+		</div>
+		<div id="item-4" class="item">
+			<button class="unit btn-close-item" id="btn-close-item">×</button>
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+				<div class="unit-spacer">
+					<h2>Item 5</h2>
+					<img class="flex-img" src="img/item-4.jpg" alt="item-5">
+					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
+				</div>
+			</div>
+		</div>
+		<div id="item-5" class="item">
+			<button class="unit btn-close-item" id="btn-close-item">×</button>
+			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+				<div class="unit-spacer">
+					<h2>Item 6</h2>
+					<img class="flex-img" src="img/item-5.jpg" alt="item-6">
 					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
 				</div>
 			</div>
@@ -792,319 +833,6 @@
 
 	</div>
 </div>
-		<!-- #2 -->
-<div id="ManuelAndradecalderon" class="profile grid">
-	<button class="unit btn-close-profile" id="btn-close-profile"><img class="flex-img" src="img/close.png" alt=""></button>
-	<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
-
-		<div class="unit unit-xs-1-2 unit-s-1-3 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<img class="student-img" src="http://placekitten.com/200/200" alt="">
-			</div>
-		</div>
-
-		<div class="skills unit unit-xs-1-3 unit-s-3-5 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<h4>Manuel Andradecalderon</h4>
-				<ol>
-				  <li>Skills:</li>
-				  <li>UX/UI:</li>
-				  <li>Branding:</li>
-				  <li>Print:</li>
-				</ol>
-			</div>
-		</div>
-
-		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<p>Bio:</p>
-				<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
-
-		<div id="thumbnails" class="thumbnails">
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-		</div>
-
-		<div id="item" class="item">
-		<button class="unit btn-close-item" id="btn-close-item"><img class="flex-img" src="img/close.png" alt=""></button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="http://placehold.it/724x2000" alt="">
-					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-				</div>
-			</div>
-		</div>
-
-	</div>
-</div>
-		<!-- #3 -->
-<div id="SundusAsif" class="profile grid">
-	<button class="unit btn-close-profile" id="btn-close-profile"><img class="flex-img" src="img/close.png" alt=""></button>
-	<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
-
-		<div class="unit unit-xs-1-2 unit-s-1-3 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<img class="student-img" src="http://placekitten.com/200/200" alt="">
-			</div>
-		</div>
-
-		<div class="skills unit unit-xs-1-3 unit-s-3-5 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<h4>Sundus Asif</h4>
-				<ol>
-				  <li>Skills:</li>
-				  <li>UX/UI:</li>
-				  <li>Branding:</li>
-				  <li>Print:</li>
-				</ol>
-			</div>
-		</div>
-
-		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<p>Bio:</p>
-				<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
-
-		<div id="thumbnails" class="thumbnails">
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-		</div>
-
-		<div id="item" class="item">
-		<button class="unit btn-close-item" id="btn-close-item"><img class="flex-img" src="img/close.png" alt=""></button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="http://placehold.it/724x2000" alt="">
-					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-				</div>
-			</div>
-		</div>
-
-	</div>
-</div>
-		<!-- #4 -->
-<div id="DimaBadawi" class="profile grid">
-	<button class="unit btn-close-profile" id="btn-close-profile"><img class="flex-img" src="img/close.png" alt=""></button>
-	<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
-
-		<div class="unit unit-xs-1-2 unit-s-1-3 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<img class="student-img" src="http://placekitten.com/200/200" alt="">
-			</div>
-		</div>
-
-		<div class="skills unit unit-xs-1-3 unit-s-3-5 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<h4>Dima Badawi</h4>
-				<ol>
-				  <li>Skills:</li>
-				  <li>UX/UI:</li>
-				  <li>Branding:</li>
-				  <li>Print:</li>
-				</ol>
-			</div>
-		</div>
-
-		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<p>Bio:</p>
-				<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
-
-		<div id="thumbnails" class="thumbnails">
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-		</div>
-
-		<div id="item" class="item">
-		<button class="unit btn-close-item" id="btn-close-item"><img class="flex-img" src="img/close.png" alt=""></button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="http://placehold.it/724x2000" alt="">
-					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-				</div>
-			</div>
-		</div>
-
-	</div>
-</div>
-		<!-- #5 -->
-<div id="StephanieAlbert" class="profile grid">
-	<button class="unit btn-close-profile" id="btn-close-profile"><img class="flex-img" src="img/close.png" alt=""></button>
-	<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
-
-		<div class="unit unit-xs-1-2 unit-s-1-3 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<img class="student-img" src="http://placekitten.com/200/200" alt="">
-			</div>
-		</div>
-
-		<div class="skills unit unit-xs-1-3 unit-s-3-5 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<h4>Stephanie Albert</h4>
-				<ol>
-				  <li>Skills:</li>
-				  <li>UX/UI:</li>
-				  <li>Branding:</li>
-				  <li>Print:</li>
-				</ol>
-			</div>
-		</div>
-
-		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<p>Bio:</p>
-				<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
-
-		<div id="thumbnails" class="thumbnails">
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-2-5">
-				<div class="unit-spacer">
-					<a data-id="item" class="thumbnail-btn"><img class="student-img" src="http://placehold.it/600x400" alt=""></a>
-				</div>
-			</div>
-		</div>
-
-		<div id="item" class="item">
-		<button class="unit btn-close-item" id="btn-close-item"><img class="flex-img" src="img/close.png" alt=""></button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="http://placehold.it/724x2000" alt="">
-					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-				</div>
-			</div>
-		</div>
-
-	</div>
-</div>
-
 
 <!--HTML#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie-->
 <div class="grid bottom-area">
@@ -1117,8 +845,8 @@
         <p>Vestibulum tincidunt, sapien eget auctor sodales, neque turpis facilisis ligula, ut pellentesque mauris ligula non quam.</p>
     </div>
 
-    <div class="info unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-3">
-        <div class="location unit unit-xs-1 unit-s-1 unit-m-1-2 unit-l-1-2">
+    <div class="info unit unit-xs-1 unit-s-2 unit-m-1-3 unit-l-1-3">
+        <div class="location unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
             <ul>
             	<li><strong>LOCATION</strong></li>
                 <li>Shopify Inc.</li>
@@ -1129,7 +857,7 @@
             </ul>
         </div>
 
-        <div class="date unit unit-xs-1 unit-s-1-2 unit-m-1-2 unit-l-1-2">
+        <div class="date unit unit-xs-1 unit-s-1-1 unit-m-1 unit-l-1-2">
             <ul>
             	<li><strong>DATE</strong></li>
                 <li>MAY 2ND</li>
@@ -1138,7 +866,11 @@
         </div>
     </div>
 
+<<<<<<< HEAD
     <div class="sponsor unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-3">
+=======
+    <div class="sponsor unit unit-xs-1 unit-s-1-1 unit-m-1-3 unit-l-1-3">
+>>>>>>> f54ef60fa9ad5e2297fd299067174bff66d8bea7
         <h3>SPONSORED BY</h3>
 
         <div class="unit unit-xs-1 unit-s-8 unit-m-1-4 unit-l-1-4">
@@ -1177,11 +909,11 @@
 
 <hr>
 
-<a link="#top" ><img class="again" src="http://placehold.it/300x100" alt="Play again"></a> <!--Where do you want the link?-->
+<a href="#top" ><img class="again" src="http://placehold.it/300x100" alt="Play again"></a>
 
-<a link href="https://www.facebook.com/groups/569525693129011/582724471809133/?notif_t=group_comment_reply"><img class="unit-spacer smicon" src="img/social-media/facebook.png" alt="fbicon"></a>
-<a link href="https://twitter.com/Level__14"><img class="unit-spacer smicon" src="img/social-media/twitter.png" alt="twicon"></a>
-<a link href="http://vimeo.com/level14"><img class="unit-spacer smicon" src="img/social-media/twitter.png" alt="vmicon"></a>
+<a class="tw" href="https://www.facebook.com/pages/LEVEL-14/263392680482280?ref=br_tf"><img class="unit-spacer smicon" src="img/social-media/facebook.png" alt="twicon"></a>
+<a class="tw" href="https://twitter.com/Level__14"><img class="unit-spacer smicon" src="img/social-media/twitter.png" alt="twicon"></a>
+<a class="vm" href="http://vimeo.com/level14"><img class="unit-spacer smicon" src="img/social-media/twitter.png" alt="vmicon"></a> <!--Add real icon-->
 
 <p>Algonquin College © 2014 Graphic Design Grads</p>
 
