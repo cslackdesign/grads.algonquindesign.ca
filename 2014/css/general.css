@@ -472,7 +472,7 @@ footer{
 .complete /*css for level complete*/{
 	font-size:large;
 	display:block;
-	padding-top:.5;
+	padding-top:.5em;
 	margin:0 auto;
 }
 
