@@ -271,11 +271,11 @@ nav li ul a:hover {
 	}
 
 	.social1 {
-		background-image: url(../img/twitter.png); /*This should be replaced with a background image*/
+		background-image: url(../img/social-media/twitter.png); /*This should be replaced with a background image*/
 	}
 
 	.social2 {
-		background-image: url(../img/facebook.png);
+		background-image: url(../img/social-media/facebook.png);
 	}
 
 	.social1:hover,
