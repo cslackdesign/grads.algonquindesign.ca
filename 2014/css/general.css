@@ -66,23 +66,19 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 /*VIDEO AREA*/
 
-.video {
-	margin-top: 2.5em;
-  width: 100%;
+#btn-open-video {
+  background-color: transparent;
+  margin: 15rem 0 0 0;
+  display: block;
 
   border: 1px solid red;
-
-}
-
-#video {
   width: 100%;
 }
 
-#btn-open-video {
-	border: none;
-	background-color: transparent;
-  position: absolute;
-  margin-left: 50%;
+#btn-open-video img{
+  text-align: center;
+  margin: 0 auto;
+  width: 100px;
 
   border: 1px solid red;
 
