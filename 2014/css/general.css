@@ -89,7 +89,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 /*=================STRICTLY NAV=================*/
 
-.nav {
+/*.nav {
 	background-color: #00ACCF;
 	font-size: 1rem;
 	margin: 0 -10px;
@@ -109,8 +109,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: inline-block;
 	float: right;
 	text-decoration: none;
-	color: #000;
-	background-color: #FDD103;
+	color: #FFF;
+	background-color: #00ACCF;
 }
 
 .nav-btn,
@@ -139,15 +139,15 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .nav a:link,
 .nav a:visited {
 	display: block;
-	color: #000;
+	color: #FFF;
 	text-decoration: none;
 }
 
 .nav a:hover,
-.nav a:focus, /*activates when tabbed with keyboard*/
-.nav a:active { /*on click*/
-	color: #00ACCF;
-
+.nav a:focus,
+.nav a:active {
+	color: #000;
+}
 }
 
 .nav-top {
@@ -161,7 +161,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 nav ul {
 	-webkit-font-smoothing:antialiased;
-	text-shadow:0 1px 0 #FFF;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -196,7 +195,7 @@ nav .dropdown:hover:after{
 	content:'\25bc'
 }
 nav li:hover a {
-    background: #000;
+    background: #FED100;
 }
 nav li ul {
     float: left;
@@ -223,7 +222,7 @@ nav li ul li {
 }
 nav li ul a:hover {
     background: #bbb;
-}
+}*/
 
 /* Clearfix */
 
@@ -239,7 +238,7 @@ nav li ul a:hover {
 }​
 
 /*========JAVA SCRIPT NAV=======*/
-.nav[data-state="closed"] {
+/*.nav[data-state="closed"] {
 	display: none;
 }
 
@@ -250,6 +249,36 @@ nav li ul a:hover {
 .nav-top[data-state="open"] {
 	max-height: 14rem;
 }
+*/
+
+/*==========NAV TAKE 2==========*/
+
+.nav {
+	display: inline-block;
+}
+
+.nav li {
+	list-style: none;
+}
+
+.nav-btn {
+margin-right: 10px;
+float: right;
+}
+
+.nav-btn a {
+	padding: 18px 26px;
+	background-color: #ccc;
+}
+
+.nav-btn a:hover,
+.nav-btn a:focus,
+.nav-btn a:active {
+	background-color: #fff;
+}
+
+
+
 
 .social {
 	display: none;
@@ -280,7 +309,8 @@ nav li ul a:hover {
 	}
 
 	.social1,
-	.social2 {
+	.social2,
+	.social3 {
 		margin-right: 10px;
 		float: right;
 		height: 18px;
@@ -299,8 +329,13 @@ nav li ul a:hover {
 		background-image: url(../img/social-media/facebook.png);
 	}
 
+	.social3 {
+		background-image: url(../img/social-media/behance.png);
+	}
+
 	.social1:hover,
-	.social2:hover {
+	.social2:hover,
+	.social3:hover {
 		background-color: #0F0;
 		/*background-position: bottom; This is for when you use an actual picture*/
 	}

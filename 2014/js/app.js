@@ -1,10 +1,10 @@
 //EXPANDABLE MENU
 
+/*
 var navBtn = document.querySelector('.nav-btn');
 var navTop = document.querySelector('.nav-top');
 
 navBtn.addEventListener('click', function (eventObject) {
-	//Using eventObject, can stop the link from doing what it normally does--namely targeting to the bottom of the page
 	eventObject.preventDefault();
 
 	if (navTop.getAttribute('data-state') == 'open') {
@@ -13,3 +13,4 @@ navBtn.addEventListener('click', function (eventObject) {
 		navTop.setAttribute('data-state', 'open');
 	}
 }, false);
+*/
