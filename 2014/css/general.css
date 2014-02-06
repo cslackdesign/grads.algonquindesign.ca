@@ -465,7 +465,7 @@ footer{
 }
 
 .bubble {
-	width:70px;
+	width:5em;
 	margin-top:1em;
 }
 
@@ -477,7 +477,7 @@ footer{
 }
 
 .again { /*Play again button*/
-	width:40%;
+	width:11.5em;
 	display:block;
 	padding-top:1em;
 	margin:0 auto;
@@ -496,15 +496,9 @@ hr {
 /*facebook twitter vimeo icon*/
 
 .smicon /*Social media icon*/{
-	width:50px;
+	width:3em;
 	padding-top:1em;
 	display:inline-block;
-}
-
-.spthumb {
-	width:100%;
-	display:inline-block;
-	padding:8px;
 }
 
 @media only screen and (min-width: 20em) {
