@@ -245,14 +245,14 @@ nav li ul a:hover {
 }
 
 .nav-btn {
-margin-right: 10px;
-float: right;
 }
 
 .nav-btn a,
 .social {
-	padding: 18px 26px;
+	padding: 20px;
 	background-color: #ccc;
+	margin-right: 10px;
+	float: right;
 }
 
 .nav-btn a:hover,
@@ -263,12 +263,11 @@ float: right;
 
 .social {
 	display: none;
-	margin-right: 10px;
-	float: right;
+
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
-	.nav-btn {
+/*	.nav-btn {
 		display: none;
 	}
 
@@ -277,18 +276,21 @@ float: right;
 	.social {
 		width: auto;
 		float: right;
+	}*/
+
+	nav ul {
+		position: absolute;
+		top: 5px;
+		right: 15px;
 	}
 
-	.nav[data-state="closed"],
 	.nav li,
-	.header,
 	.social {
 		max-height: 14rem;
 		display: inline-block;
 	}
 
 	.nav {
-		margin: 15px;
 	}
 
 	.social1,
