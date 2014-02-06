@@ -50,6 +50,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	background-image: url('../img/landing-banner-placeholder.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
+  background-attachment: fixed;
 	background-size: 110%;
 }
 
