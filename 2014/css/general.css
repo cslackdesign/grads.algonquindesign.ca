@@ -261,12 +261,10 @@ float: right;
 	background-color: #fff;
 }
 
-
-
-
 .social {
 	display: none;
 	margin-right: 10px;
+	float: right;
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
