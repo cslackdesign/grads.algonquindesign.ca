@@ -456,7 +456,7 @@ nav ul {
 
 footer{
 	display: inline-block;
-	background-color: #00ACCF;
+	background-color: #00ACC0;
 	color:#FFF;
 	margin:0;
 	left:0;
@@ -499,6 +499,20 @@ hr {
 	width:3em;
 	padding-top:1em;
 	display:inline-block;
+}
+
+.vmap {
+	color:#00ACC0;
+	text-decoration:none;
+}
+
+.vmap:link
+.vmap:visited { /*For the view map button*/
+	color:#00ACC0;
+}
+
+.vmap:hover{
+	color:#FED100;
 }
 
 @media only screen and (min-width: 20em) {
