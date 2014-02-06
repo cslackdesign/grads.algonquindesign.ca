@@ -15,19 +15,36 @@
 }
 
 .item {
+	position: relative;
 	top: 0;
 	width: 100%;
 	z-index: 1;
 }
 
-.btn-close-profile,
-.btn-close-item {
+.btn-close-profile {
 	width: 40px;
 	height: 40px;
 	text-align: center;
 	line-height: 24px;
 	border: 2px solid #00ACCF;
 	background-color: #00ACCF;
+	color: #fff;
+	padding: 0;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	top: 8px;
+	right: 8px;
+	outline: none;
+	}
+
+.btn-close-item {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 24px;
+	border: 2px solid #00ACCC;
+	background-color: #00ACCC;
 	color: #fff;
 	padding: 0;
 	font-weight: bold;
