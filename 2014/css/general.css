@@ -242,17 +242,18 @@ nav li ul a:hover {
 
 .nav li {
 	list-style: none;
+	display: inline-block;
 }
 
 .nav-btn {
-margin-right: 10px;
-float: right;
 }
 
 .nav-btn a,
 .social {
-	padding: 18px 26px;
+	padding: 20px;
 	background-color: #ccc;
+	margin-right: 10px;
+	float: right;
 }
 
 .nav-btn a:hover,
@@ -263,12 +264,16 @@ float: right;
 
 .social {
 	display: none;
-	margin-right: 10px;
-	float: right;
+}
+
+nav ul {
+	position: absolute;
+	top: 5px;
+	right: 15px;
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
-	.nav-btn {
+/*	.nav-btn {
 		display: none;
 	}
 
@@ -277,18 +282,15 @@ float: right;
 	.social {
 		width: auto;
 		float: right;
-	}
+	}*/
 
-	.nav[data-state="closed"],
 	.nav li,
-	.header,
 	.social {
 		max-height: 14rem;
 		display: inline-block;
 	}
 
 	.nav {
-		margin: 15px;
 	}
 
 	.social1,
@@ -389,11 +391,17 @@ float: right;
 .stu-grid-box figcaption {
 	opacity: 0;
 	position: absolute;
-	margin-top: -6em;
 	text-align: center;
 	width: 100%;
 	background-color: rgba(254,209,0,0.8);
-	padding: 0.5em 0 6em;
+	padding: 0.5em 0;
+	height: 100px;
+  top: auto;
+  bottom: 0;
+  opacity: 0;
+-webkit-transition: all 0.6s ease;
+  -moz-transition:    all 0.6s ease;
+  -o-transition:      all 0.6s ease;
 }
 
 .stu-grid-box figcaption h3 {
@@ -405,9 +413,12 @@ float: right;
 	cursor: pointer;
 }
 
-.no-touch .stu-grid-box figure:hover img,
-.cs-style-3 figure.cs-hover img {
-    transform: translateY(-50px);
+
+.stu-grid-box figure:hover figcaption,
+.stu-grid-box figure.cs-hover figcaption {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+    -webkit-transition: transform 0.4s, opacity 0.1s;
 }
 
 
@@ -528,7 +539,7 @@ hr {
 		margin:0;
 		width:100%;
 	}
-	
+
 	.location li,
 	.date li{
 		padding-left:40%;
@@ -539,7 +550,7 @@ hr {
 	.info {
 		width:33.6%;
 	}
-	
+
 	.location li,
 	.date li{
 		padding-left:23%;
