@@ -237,20 +237,6 @@ nav li ul a:hover {
     zoom:1;
 }​
 
-/*========JAVA SCRIPT NAV=======*/
-/*.nav[data-state="closed"] {
-	display: none;
-}
-
-.nav[data-state="open"] {
-	display: block;
-}
-
-.nav-top[data-state="open"] {
-	max-height: 14rem;
-}
-*/
-
 /*==========NAV TAKE 2==========*/
 
 .nav {
@@ -266,7 +252,8 @@ margin-right: 10px;
 float: right;
 }
 
-.nav-btn a {
+.nav-btn a,
+.social {
 	padding: 18px 26px;
 	background-color: #ccc;
 }
@@ -282,6 +269,7 @@ float: right;
 
 .social {
 	display: none;
+	margin-right: 10px;
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
@@ -311,10 +299,8 @@ float: right;
 	.social1,
 	.social2,
 	.social3 {
-		margin-right: 10px;
 		float: right;
-		height: 18px;
-		width: 18px;
+
 /*		background-position: top;
 		background-repeat:no-repeat; This is for when you use an actual image*/
 		background-size: 100%;
@@ -542,10 +528,10 @@ hr {
 	.info {
 		width:30%;
 	}
-	
+
 	.sponsor {
 		display:inline-block;
 		width:30%;
 	}
-	
+
 }
