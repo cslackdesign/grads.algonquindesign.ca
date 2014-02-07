@@ -260,7 +260,28 @@ nav li ul a:hover {
 .nav-btn a:focus,
 .nav-btn a:active {
 	background-color: #fff;
+
+	-webkit-transition: all .25s ease;
+	-moz-transition: all .25s ease;
+	-ms-transition: all .25s ease;
+	-o-transition: all .25s ease;
+	transition: all .25s ease;
 }
+
+.venue a{
+	background-image: url(../img/map-icon.png);
+}
+
+.students a{
+	background-image: url(../img/profile.jpg);
+}
+
+.venue a,
+.students a {
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
 
 .social {
 	display: none;
@@ -269,7 +290,7 @@ nav li ul a:hover {
 nav ul {
 	position: absolute;
 	top: 5px;
-	right: 15px;
+	right: 0px;
 }
 
 @media only screen and (min-width: 30em) { /*Medium Screen*/
@@ -296,7 +317,6 @@ nav ul {
 	.social1,
 	.social2,
 	.social3 {
-		float: right;
 
 /*		background-position: top;
 		background-repeat:no-repeat; This is for when you use an actual image*/
