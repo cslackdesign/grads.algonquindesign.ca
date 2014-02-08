@@ -282,6 +282,56 @@ nav li ul a:hover {
 	background-repeat: no-repeat;
 }
 
+	.social1,
+	.social2,
+	.social3 {
+
+/*		background-position: top;
+		background-repeat:no-repeat; This is for when you use an actual image*/
+		background-size: 100%;
+
+	}
+
+	.social1 {
+		background-image: url(../img/social-media/twitter.png); /*This should be replaced with a background image*/
+	}
+
+	.social2 {
+		background-image: url(../img/social-media/facebook.png);
+	}
+
+	.social3 {
+		background-image: url(../img/social-media/behance.png);
+	}
+
+	.social1:hover,
+	.social2:hover,
+	.social3:hover {
+		background-color: #0F0;
+		/*background-position: bottom; This is for when you use an actual picture*/
+	}
+
+	.icon-venue a:hover,
+	.icon-venue a:focus,
+	.icon-venue a:active,
+	.icon-students a:hover,
+	.icon-students a:focus,
+	.icon-students a:active,
+	.social1 a:hover,
+	.social1 a:focus,
+	.social1 a:active,
+	.social2 a:hover,
+	.social2 a:focus,
+	.social2 a:active,
+	.social3 a:hover,
+	.social3 a:focus,
+	.social3 a:active {
+		-webkit-transition: all .3s ease-in-out;
+		-moz-transition: all .3s ease-in-out;
+		-ms-transition: all .3s ease-in-out;
+		-o-transition: all .3s ease-in-out;
+		transition: all .3s ease-in-out;
+	}
 
 .social {
 	display: none;
@@ -314,34 +364,6 @@ nav ul {
 	.nav {
 	}
 
-	.social1,
-	.social2,
-	.social3 {
-
-/*		background-position: top;
-		background-repeat:no-repeat; This is for when you use an actual image*/
-		background-size: 100%;
-
-	}
-
-	.social1 {
-		background-image: url(../img/social-media/twitter.png); /*This should be replaced with a background image*/
-	}
-
-	.social2 {
-		background-image: url(../img/social-media/facebook.png);
-	}
-
-	.social3 {
-		background-image: url(../img/social-media/behance.png);
-	}
-
-	.social1:hover,
-	.social2:hover,
-	.social3:hover {
-		background-color: #0F0;
-		/*background-position: bottom; This is for when you use an actual picture*/
-	}
 }
 
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
