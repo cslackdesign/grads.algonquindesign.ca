@@ -64,7 +64,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 /*VIDEO AREA*/
 
-#btn-open-video {
+/*#btn-open-video {
   background-color: transparent;
   margin: 15rem 0 0 0;
   display: block;
@@ -80,9 +80,30 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
   border: 1px solid red;
 
+}*/
+
+.video {
+	width: 100%;
+	padding-top: 80px;
 }
 
-/* Clearfix */
+.embed {
+	position: relative;
+}
+
+.embed--16by9 {
+	padding-top: 56.25%;
+}
+
+.embed__item {
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+/* CLEARFIX */
 
 .cf:after, .cf:before {
     content:"";
