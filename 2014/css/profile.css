@@ -8,9 +8,13 @@
 	border: 1px solid #d9d9d9;
 }
 
+.profile a {
+	color: #00ACCF;
+}
+
 .bio p {
 	margin: 0;
-	padding: .25em;
+	padding-bottom: .5em;
 }
 
 .bio h2 {
