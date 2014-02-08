@@ -166,7 +166,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social3:hover {
 		background-color: #0F0;
 		background-position: bottom;
-		background-image: url(../img/logo-icon_yellow.png);
 	}
 
 	.nav-logo a:hover,
@@ -174,7 +173,16 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.nav-logo a:active,
 	.nav-btn a:hover,
 	.nav-btn a:focus,
-	.nav-btn a:active{
+	.nav-btn a:active,
+	.social1:hover,
+	.social2:hover,
+	.social3:hover,
+	.social1:focus,
+	.social2:focus,
+	.social3:focus,
+	.social1:active,
+	.social2:active,
+	.social3:active{
 		background-color: #fff;
 		background-image: url(../img/logo-icon_yellow.png);
 
