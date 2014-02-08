@@ -103,6 +103,14 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	width: 100%;
 }
 
+@media only screen and (min-width: 65em) {
+	.video {
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
 /* CLEARFIX */
 
 .cf:after, .cf:before {
