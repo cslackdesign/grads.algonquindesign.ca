@@ -268,16 +268,16 @@ nav li ul a:hover {
 	transition: all .25s ease;
 }
 
-.venue a{
+.icon-venue a{
 	background-image: url(../img/map-icon.png);
 }
 
-.students a{
+.icon-students a{
 	background-image: url(../img/profile.jpg);
 }
 
-.venue a,
-.students a {
+.icon-venue a,
+.icon-students a {
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -595,7 +595,7 @@ hr {
 		width:50%;
 		float:left;
 	}
-	
+
 	.date{
 		width:50%;
 		float:right;
