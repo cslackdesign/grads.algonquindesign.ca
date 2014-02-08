@@ -423,13 +423,13 @@ hr {
 }
 
 .vmap {
-	color:#00ACC0;
+	color:#00ACCF;
 	text-decoration:none;
 }
 
 .vmap:link
 .vmap:visited { /*For the view map button*/
-	color:#00ACC0;
+	color:#00ACCF;
 }
 
 .vmap:hover{
