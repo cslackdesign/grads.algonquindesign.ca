@@ -31,7 +31,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	height: 80px;
 	top: 0;
 	left: 0;
-	z-index: 100;
+	z-index: 10000;
 }
 
 .header { /*This adds padding to the header*/
@@ -39,77 +39,88 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	padding: 15px;
 }
 
-.landing-text {
-	text-align: center;
-	padding: 15px;
-}
+
+
+/*----------------------------------------------------------------LANDING AREA*/
 
 .landing {
-	background-image: url('../img/landing-banner-placeholder.jpg');
-	background-repeat: no-repeat;
-	background-position: top;
-  background-attachment: fixed;
-	background-size: 100%;
+	width: 100%;
+	background-color: #333;
+
 
   margin: 0;
   padding:0;
+
   height: 10rem;
 }
 
 @media only screen and (min-width: 30em){
-  .landing {
-    height: 30rem;
-  }
+
+	.landing {
+		height: 30em;
+	}
 }
 
-/*VIDEO AREA*/
+/*CAROUSEL OVER LAY*/
 
-/*#btn-open-video {
-  background-color: transparent;
-  margin: 15rem 0 0 0;
-  display: block;
-
-  border: 1px solid red;
-  width: 100%;
-}
-
-#btn-open-video img{
-  text-align: center;
-  margin: 0 auto;
-  width: 100px;
-
-  border: 1px solid red;
-
-}*/
-
-.video {
+.carousel-overlay {
 	width: 100%;
-	padding-top: 80px;
+	position: absolute;
+	z-index: 4000;
+
+	text-align: center;
+
+	margin: 10rem 0 0 0;
+
+	color: #fff;
 }
 
-.embed {
+h1 {
+	font-size: 10rem;
+}
+
+/*---------------------CAROUSEL*/
+
+.carousel {
+	overflow: hidden;
 	position: relative;
+	padding: 0 0 52.6%;
+	margin: 4rem 0 0 0;
 }
 
-.embed--16by9 {
-	padding-top: 56.25%;
-}
-
-.embed__item {
-	height: 100%;
+.carousel img {
 	left: 0;
 	position: absolute;
 	top: 0;
 	width: 100%;
 }
 
-@media only screen and (min-width: 65em) {
-	.video {
-		width: 1000px;
-		margin-left: auto;
-		margin-right: auto;
-	}
+.carousel-items [data-state="current"] {
+	z-index: 100;
 }
+
+.carousel-items [data-state="incoming"] {
+	z-index: 101;
+}
+
+.carousel-buttons {
+	position: absolute;
+	margin: 20% 0;
+	z-index: 5000;
+	width: 100%;
+}
+
+.carousel-buttons .next {
+	float: right;
+}
+
+
+
+
+
+/*VIDEO AREA*/
+
+
 
 /* CLEARFIX */
 
@@ -245,6 +256,27 @@ nav ul {
 
 }
 
+/*---------------------------------------------------STUDENT AEREA SECTION TAG*/
+
+.student-area {
+	z-index: 3000;
+	position: relative;
+
+	background-color: #fff;
+}
+
+.student-area-heading {
+	text-align: center;
+	font-size: 4rem;
+	padding: 30px;
+}
+
+@media only screen and (min-width: 120em){
+	.student-area {
+		margin: 25rem 0 0 0;
+	}
+}
+
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
 
 #filter-legend {
@@ -252,6 +284,10 @@ nav ul {
 	color: #fff;
 	width: 100%;
 	padding: 15px;
+
+	max-width: 1500px;
+
+	margin: 0 auto;
 }
 
 #filter-legend ul {
@@ -285,8 +321,13 @@ nav ul {
 /*----------------------------CSS#2: STUDENT & WORK AREA - Lisa, Amy, Caroline*/
 
 
+
+
 .student-section {
+	max-width: 1500px;
 	font-size: 0.65em;
+
+	margin: 0 auto;
 }
 
 .student-img {
