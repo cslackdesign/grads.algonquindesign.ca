@@ -1,6 +1,7 @@
 $(document).ready(function(){
   var openStudent = 'student-section';
   var openThumbnails = 'thumbnails';
+  var openItem = 'item';
   var openProfile = null;
 
   $('.profile').hide();
@@ -31,14 +32,14 @@ $(document).ready(function(){
 
   $('.item').hide();
 
-  $('.thumbnail-btn').click(function () {
+  $('.thumbnails').on('click', '.thumbnail-btn', function () {
     var id = $(this).data('id');
-    openProfile = id;
-    $('#thumbnails').fadeOut(400);
+    openItem = id;
+    $(this).parents('.thumbnails').fadeOut(400);
     $('#' + id).fadeIn({
       duration: 800,
       start: function () {
-        $('#thumbnails-wrap').height($('#' + id).outerHeight());
+        //$('#thumbnails-wrap').height($('#' + id).outerHeight());
       }
     });
   });
