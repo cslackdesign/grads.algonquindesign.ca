@@ -1,8 +1,10 @@
 - name: Mariam Abdulwahab
-  github: mojombo
+  skill1: UX/UI
+  skill2: Branding
+  skill3: Print
 
 - name: Stephanie Albert
-  github: parkr
+  skill1: parkr
 
 - name: AlejandroAndrade
-  github: liufengyun
+  skill1: liufengyun
