@@ -24,7 +24,7 @@ $(document).ready(function(){
     $('#student-section').fadeIn({
       duration: 400,
       start: function () {
-        $('#student-section-wrap').height($('#student-section').outerHeight());
+        //$('#student-section-wrap').height($('#student-section').outerHeight());
       }
     });
   });
