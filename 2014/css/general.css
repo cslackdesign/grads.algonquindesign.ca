@@ -57,7 +57,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 @media only screen and (min-width: 30em){
 
 	.landing {
-		height: 30em;
+		height: 40em;
 	}
 }
 
@@ -345,20 +345,18 @@ nav ul {
 	z-index: 3000;
 	position: relative;
 
+
 	background-color: #fff;
 }
 
 .student-area-heading {
 	text-align: center;
-	font-size: 4rem;
-	padding: 30px;
+	padding: -5rem 0 0 0;
+	margin:5rem 0 0 0;
+	background-color: transparent;
 }
 
-@media only screen and (min-width: 120em){
-	.student-area {
-		margin: 25rem 0 0 0;
-	}
-}
+
 
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
 
