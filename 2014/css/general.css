@@ -347,7 +347,7 @@ h1 img{
     zoom:1;
 }​
 
-/*=================STRICTLY NAV=================*/
+/*=================NAV and SOCIAL NETWORK LINKS=================*/
 
 .nav {
 	display: inline-block;
@@ -367,10 +367,20 @@ h1 img{
 
 .nav-btn a,
 .social {
+	float: right;
+}
+
+.social-f {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.nav-btn a,
+.social,
+.social-f {
 	padding: 20px;
 	background-color: #ccc;
 	margin-right: 10px;
-	float: right;
 }
 
 .icon-logo a{
