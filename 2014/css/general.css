@@ -435,8 +435,8 @@ h1 img{
 	.social1:active,
 	.social2:active,
 	.social3:active{
-		background-color: #fff;
-		background-image: url(../img/logo-icon_yellow.png);
+		 opacity: 0.4;
+
 
 		-webkit-transition: all .3s ease-in-out;
 		-moz-transition: all .3s ease-in-out;
