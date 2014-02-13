@@ -673,14 +673,22 @@ nav ul {
 
 /*MAP AREA*/
 .map-section {
-	margin: 5rem 0 0 0;
+	margin: 1rem 0 0 0;
 	width: 100%;
-	height: 30em;
+	height: 10em;
+	padding:0;
 	background-image: url('../img/map-expanded-1.svg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
 
+}
+
+
+@media only screen and (min-width: 30em){
+	.map-section {
+		height: 20em;
+	}
 }
 
 .map {
@@ -700,9 +708,9 @@ nav ul {
 
 
 .map img {
-	margin: 0 0 0 -40em;
+	margin: -6rem 0 0 -7em;
 	position: absolute;
-  width: 300px;
+  width: 90px;
   opacity: 0;
   -webkit-transform: translateY(40px);
 }
@@ -721,6 +729,25 @@ nav ul {
     opacity:1;
     -webkit-transform: translateY(0);
   }
+}
+
+@media only screen and (min-width: 20em){
+	.map img {
+		margin: -2rem 0 0 -13rem;
+		width: 160px;
+	}
+}
+
+@media only screen and (min-width: 25em){
+	.map img {
+		margin: 5rem 0 0 -11rem;
+	}
+}
+
+@media only screen and (min-width: 30em){
+	.map img {
+		margin: -2rem 0 0 -14rem;
+	}
 }
 
 .js-map-animate {
