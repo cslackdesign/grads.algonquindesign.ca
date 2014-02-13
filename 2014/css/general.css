@@ -129,6 +129,20 @@ h1 img{
 	background-size: 100%;
 }
 
+@media only screen and (min-width: 50em) {
+	.carousel-buttons .next{
+		width: 60px;
+		height: 60px;
+	}
+}
+
+@media only screen and (min-width: 75em) {
+	.carousel-buttons .next{
+		width: 100px;
+		height: 100px;
+	}
+}
+
 .carousel-buttons .next:hover,
 .carousel-buttons .next:active,
 .carousel-buttons .next:focus {
@@ -155,6 +169,20 @@ h1 img{
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
+}
+
+@media only screen and (min-width: 50em) {
+	.carousel-buttons .prev{
+		width: 60px;
+		height: 60px;
+	}
+}
+
+@media only screen and (min-width: 75em) {
+	.carousel-buttons .prev{
+		width: 100px;
+		height: 100px;
+	}
 }
 
 .carousel-buttons .prev:hover,
