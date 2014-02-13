@@ -713,15 +713,16 @@
 
 <!-- #1 -->
 
-<!-- <ul>
-{% for student in site.data.students %}
+<ul>
+<!-- {% for student in site.data.students %}
 	<li>
 		Name: {{student.name}}
 	</li>
-{% endfor %}
-</ul> -->
-
-{% include profile.html %}
+{% endfor %} -->
+	<li>
+		{% include profile.html%}
+	</li>
+</ul>
 
 <div id="MariamAbdulwahab" class="profile grid">
 	<button class="unit btn-close btn-close-profile" id="btn-close-profile">×</button>
