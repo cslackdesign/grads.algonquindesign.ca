@@ -45,7 +45,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .landing {
 	width: 100%;
-	background-color: #333;
 
 
   margin: 0;
@@ -92,7 +91,7 @@ h1 img{
 	overflow: hidden;
 	position: relative;
 	padding: 0 0 52.6%;
-	margin: 4rem 0 0 0;
+	margin: 5rem 0 0 0;
 }
 
 .carousel img {
@@ -119,8 +118,8 @@ h1 img{
 
 .carousel-buttons .next {
 	float: right;
-	width: 100px;
-	height: 100px;
+	width: 45px;
+	height: 45px;
 
 	background-color: transparent;
 	border: none;
@@ -147,8 +146,8 @@ h1 img{
 }
 
 .carousel-buttons .prev {
-	width: 100px;
-	height: 100px;
+	width: 45px;
+	height: 45px;
 
 	background-color: transparent;
 	border: none;
