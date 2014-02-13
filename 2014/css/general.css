@@ -772,6 +772,10 @@ hr {
 	display:inline-block;
 }
 
+.small-caps {
+	font-variant: small-caps;
+}
+
 .vmap {
 	color:#00ACCF;
 	text-decoration:none;
