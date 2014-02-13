@@ -1,3 +1,5 @@
+
+
 <!-- #1 -->
 <div id="MariamAbdulwahab" class="profile grid">
 	<button class="unit btn-close btn-close-profile" id="btn-close-profile">×</button>
@@ -11,7 +13,9 @@
 
 		<div class="unit unit-xs-1 unit-s-4-9 unit-m-1 unit-l-1">
 			<div class="unit-spacer">
-				<h2>Mariam Abdulwahab</h2>
+{% for student in site.data.students %}
+				<h2>{{include.data.student.name}}</h2>
+{% endfor %}
 					<ul class="skills">
 						<li>Skills:</li>
 						<li>UX/UI<img class="hearts" src="img/hearts.png" alt=""></li>
