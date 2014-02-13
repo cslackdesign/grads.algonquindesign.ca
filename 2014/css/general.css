@@ -58,7 +58,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 @media only screen and (min-width: 30em){
 
 	.landing {
-		height: 15em;
+		height: 25em;
 		background-color: transparent;
 	}
 }
@@ -66,7 +66,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 @media only screen and (min-width: 50em){
 
 	.landing {
-		height: 20em;
+		height: 30em;
 		background-color: transparent;
 	}
 }
@@ -517,6 +517,27 @@ nav ul {
 
 
 /*----------------------------------------------------CSS#1.5: FILTER - Cassie*/
+
+.large-screen-filter{
+	display:none;
+}
+
+.small-screen-filter {
+	display: block;
+	margin: 5rem 0 0 0;
+}
+
+
+@media only screen and (min-width: 80em){
+	.large-screen-filter {
+		display: inline-block;
+	}
+
+	.small-screen-filter {
+		display: none;
+	}
+}
+
 
 #filter-legend {
 	background-color: #00ACCF;
