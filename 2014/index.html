@@ -125,14 +125,15 @@ layout: default
 		<!-- Student alphabetical list starts below -->
 
 {% for student in site.data.students %}
-		<!-- #1 -->
-		<div class="mix unit unit-xs-1-3 unit-s-1-4 unit-m-1-5 unit-l-1-6" data-name="Mariam Abdulwahab">
+		<div id="{{student.id}}" class="mix unit unit-xs-1-3 unit-s-1-4 unit-m-1-5 unit-l-1-6">
+			{% for thumb in student.images %}
 				<div class="unit-spacer stu-grid-box">
 					<figure>
-						<a data-id="{{student.id}}" class="student-section-btn"><img class="student-img" src="img/profile.jpg" alt="">
+						<a id="{{student.id}}" class="student-section-btn"><img class="student-img" src="{{site.cdn}}/2014/profile/{{thumb}}" alt="">
 						<figcaption><h3>{{student.name}}</h3></figcaption></a>
 					</figure>
 				</div>
+			{% endfor %}
 		</div>
 {% endfor %}
 
