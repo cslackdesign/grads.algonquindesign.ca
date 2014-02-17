@@ -2,7 +2,7 @@
 ---
 
 - name: Mariam Abdulwahab
-  id: abdu0001
+  id: mariam_abdulwahab
   skills:
     - UX/UI
     - Branding
@@ -12,8 +12,8 @@
   behance: www.behance.net
   bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
   images:
-    - abdu0001-0.jpg
-    - abdu0001-1.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
 
 - name: Stephanie Albert
   skill1: UX/UI
