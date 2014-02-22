@@ -2,942 +2,1490 @@
 ---
 
 - name: Mariam Abdulwahab
-  id: mariam_abdulwahab
+  id: abdulwahab_mariam
   skills:
     - UX/UI
+    - Print Media
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/mariamadesign
+  behance: www.behance.net/mariamabdul
+  linkedin: ca.linkedin.com/pub/mariam-abdulwahab/61/340/58/
+  bio: Graphic design is my passion. Photography is my love. Colours and patterns inspire me. I love what I do!
+  images:
+    - abdulwahab-mariam-blackhenmusic-thumb.jpg
+    - abdulwahab-mariam-blackhenmusic.jpg
+    - abdulwahab-mariam-childrenphotography-thumb.jpg
+    - abdulwahab-mariam-childrenphotography.jpg
+    - abdulwahab-mariam-foodphotography-thumb.jpg
+    - abdulwahab-mariam-foodphotography.jpg
+    - abdulwahab-mariam-jetlog-thumb.jpg
+    - abdulwahab-mariam-jetlog.jpg
+    - abdulwahab-mariam-kufioliveoil-thumb.jpg
+    - abdulwahab-mariam-kufioliveoil.jpg
+
+- name: Stephanie Albert
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
     - Branding
-    - Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
   images:
     - lastname-firstname-worktitle-thumb.jpg
     - lastname-firstname-worktitle.jpg
-
-- name: Stephanie Albert
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
 
 - name: Alejandro Andrade (Manuel Andradecalderon)
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
+    - lastname-firstname-worktitle-thumb.jpg
+    - lastname-firstname-worktitle.jpg
 
 - name: Nick Appolon
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: appolon_nick
+  skills:
+    - UX/UI
+    - Web Design/Development
+    - Illustration
+  behance: www.behance.net/nick-appolon
+  twitter: www.twitter.com/nick88999
+  vimeo: www.vimeo.com/user16334766
+  bio: Im a 24 year old student and I absolutely love what I do, and have a never ending passion when it comes to design.
+  images:
+  - appolon-nick-nas-thumb.jpg
+  - appolon-nick-nas.jpg
+  - appolon-nick-raptors-app-thumb.jpg
+  - appolon-nick-raptors-app.jpg
+  - appolon-nick-the-piano-mans-daughter-thumb.jpg
+  - appolon-nick-the-piano-mans-daughter.jpg
 
 - name: Sundus Asif
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: asif_sundus
+  skills:
+    - UX/UI
+    - Web Design/Development
+    - Print Media
+    - Motion Graphics
+  behance: www.behance.net/sundusart
+  linkedin: ca.linkedin.com/pub/sundus-asif/61/566/38/
+  vimeo: www.vimeo.com/user16334786
+  bio: I am a designer with a passion for all aspects of art. Clean lines, eye-catching details and effective design is what my brand is all about.
+  images:
+    - asif-sundus-backtobasics-thumb.jpg
+    - asif-sundus-backtobasics.jpg
+    - asif-sundus-breakingbadbook-thumb.jpg
+    - asif-sundus-breakingbadbook.jpg
+    - asif-sundus-poster-thumb.jpg
+    - asif-sundus-poster.jpg
+    - asif-sundus-seafoodgrill-thumb.jpg
+    - asif-sundus-seafoodgrill.jpg
+    - asif-sundus-socialgolfer-thumb.jpg
+    - asif-sundus-socialgolfer.jpg
+    - asif-sundus-socialgolfer.mp4
+    - asif-sundus-xahive-thumb.jpg
+    - asif-sundus-xahive.jpg
 
 - name: Dima Badawi
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Emily Barclay
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Lisa Beaton
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Amy Brown
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Stephanie Cansfield
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Keisha Chamberlain
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Cassandra-Lyne Chartrand
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jenny Chew
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Mansura Chowdhury
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Stephanie Csanky
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jamie Dean
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Steven Donegani
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Lindsay Dupuis
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Ian Durkin
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Ashley Edmundson
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Robert Freeman
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: James Gollner
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Seita Goto
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Caroline Guindon
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Kathryn Hallett
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Andrew Ham
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Laura Harvey
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jessica Hay
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Lianne Hébert
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Earaj Inam
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Svetlana Kurmeleva
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Winnie Lau
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Michelle Lauer
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Kyounghee Lauren Lee
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jillian Lim
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Nick Macdougall
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Kelsey MacMillan
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Alyster Mahoney
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jacob Matte
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Sylvia McCauley
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jesus Monsalve
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Grace Morton
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Sabrina Ng
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Nadia Pietrobon
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Sheena Ravary
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Jenny Richardson
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Celta Riden
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Robyn Rutherford
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Anna Odeh
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Kelly Seay
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: William Shaw
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Cassie Slack
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Michaela Tuor
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Lisa Villeneuve
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Sarah Voss
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Grace Walker
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Maddison Watson
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
 - name: Cameron Webb
-  skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
 
-- name: Tirzah Wood skill1: UX/UI
-  skill2: Branding
-  skill3: Print
-  twitter: www.twitter.com
-  facebook: www.facebook.com
-  behance: www.behance.net
-  bio: I think design should make things both beautiful and useful. The program at Algonquin has been great in refining and updating my skills.
-  item-0: thumb.jpg
-  item-1: item1.jpg
-  item-2: item2.jpg
-  item-3: item3.jpg
-  item-4: item4.jpg
-  item-5: item5.jpg
-  item-6: item6.jpg
+- name: Tirzah Wood
+  id: lastname_firstname
+  skills:
+    - UX/UI
+    - Web
+    - Branding
+  twitter: www.twitter.com/
+  facebook: www.facebook.com/
+  behance: www.behance.net/
+  linkedin: ca.linkedin.com/
+  bio:
+  images:
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
+  - lastname-firstname-worktitle-thumb.jpg
+  - lastname-firstname-worktitle.jpg
