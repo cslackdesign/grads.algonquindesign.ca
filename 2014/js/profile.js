@@ -36,7 +36,6 @@ $(document).ready(function(){
     var id = $(this).data('id');
     openItem = id;
     $(this).parents('.thumbnails').fadeOut(400);
-    $('.btn-close-profile').fadeOut(400);
     $('#' + id).fadeIn({
       duration: 800,
       start: function () {
@@ -48,7 +47,6 @@ $(document).ready(function(){
   $('.btn-close-item').click(function () {
     $(this).parents('.item').fadeOut(400);
     openThumbnails = 'thumbnails';
-    $('.btn-close-profile').fadeIn(400);
     $('#thumbnails').fadeIn({
       duration: 400,
       start: function () {
