@@ -1374,76 +1374,62 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Maddison Watson
-  id: lastname_firstname
+  id: watson_maddison
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Illustration
+  twitter: www.twitter.com/mwatsondesigns
+  facebook: www.facebook.com/mwatsondesigns
+  linkedin: www.linkedin.com/pub/maddison-watson/4a/73/53
+  bio: Living life in Ottawa as a freelance graphic designer and artist. I'm also an avid blogger, magazine collector, and media enthusiast.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - watson-maddi-kendrick-thumb.jpg
+  - watson-maddi-kendrick.jpg
+  - watson-maddi-logo-thumb.jpg
+  - watson-maddi-logo.jpg
+  - watson-maddi-skull-thumb.jpg
+  - watson-maddi-skull.jpg
 
 - name: Cameron Webb
-  id: lastname_firstname
+  id: webb_cameron
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/sndclshdsn 
+  facebook: www.facebook.com/cameron.webb.125
+  bio: I am Cameron, a print designer that is orientated towards mixing styles and genre of art and design for new yet nostalgic looking work.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - Webb-Cameron-Apagon-Thumb.jpg
+  - Webb-Cameron-Apagon.jpg
+  - Webb-Cameron-Baltimore-Book-Thumb.jpg
+  - Webb-Cameron-Baltimore-Book.jpg
+  - Webb-Cameron-CalvinJohnson-Thumb.jpg
+  - Webb-Cameron-CalvinJohnson.jpg
+  - Webb-Cameron-ChangingTheFaceOfPrivacy-Thumb.jpg
+  - Webb-Cameron-ChangingTheFaceOfPrivacy.jpg
+  - Webb-Cameron-Let'sGet-Thumb.jpg
+  - Webb-Cameron-Let'sGet.jpg
+  - Webb-Cameron-Revolver-Thumb.jpg
+  - Webb-Cameron-Revolver.jpg
 
 - name: Tirzah Wood
-  id: lastname_firstname
+  id: wood_tirzah
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print
+    - Photography/Photomanipulation
+    - Illustration
+  twitter: www.twitter.com/TirzahDesigns
+  facebook: www.facebook.com/pages/Tirzah-Wood/404576896305765?ref=hl
+  behance: www.behance.net/tirzahwood
+  vimeo: www.vimeo.com/user16334802
+  website: tirzahdesigns.com
+  bio: I am a lover of design and obsessive drinker of coffee. I am a fan of all fandoms and I enjoy a great book, lets talk about it.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - wood-tirzah-octopi-poster-thumb.jpg
+  - wood-tirzah-octopi-poster.jpg
+  - wood-tirzah-tiffany-campaign-thumb.jpg
+  - wood-tirzah-tiffany-campain.jpg
+  - wood-tirzah-wine-design-thumb.jpg
+  - wood-tirzah-wine-design.jpg
+  - wood-tirzah-wizards-tower-thumb.jpg
+  - wood-tirzah-wizards-tower.jpg
