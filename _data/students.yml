@@ -23,8 +23,8 @@
     - abdulwahab-mariam-kufioliveoil-thumb.jpg
     - abdulwahab-mariam-kufioliveoil.jpg
 
-- name: Stephanie Albert
-  id: lastname_firstname
+- name: Stephanie Albert _____________________________INCOMPLETE
+  id: albert_stephanie
   skills:
     - UX/UI
     - Web
@@ -48,8 +48,8 @@
     - lastname-firstname-worktitle-thumb.jpg
     - lastname-firstname-worktitle.jpg
 
-- name: Alejandro Andrade (Manuel Andradecalderon)
-  id: lastname_firstname
+- name: Alejandro Andrade (Manuel Andradecalderon) _____________________________INCOMPLETE
+  id: andrade_alejandro
   skills:
     - UX/UI
     - Web
@@ -73,11 +73,12 @@
     - lastname-firstname-worktitle-thumb.jpg
     - lastname-firstname-worktitle.jpg
 
-- name: Nick Appolon
+- name: Nick Appolon _____________________________REVIEW BIO
   id: appolon_nick
   skills:
     - UX/UI
     - Web Design/Development
+    - Print Media
     - Illustration
   behance: www.behance.net/nick-appolon
   twitter: www.twitter.com/nick88999
@@ -91,7 +92,7 @@
   - appolon-nick-the-piano-mans-daughter-thumb.jpg
   - appolon-nick-the-piano-mans-daughter.jpg
 
-- name: Sundus Asif
+- name: Sundus Asif _____________________________MP4 VID
   id: asif_sundus
   skills:
     - UX/UI
@@ -113,11 +114,10 @@
     - asif-sundus-seafoodgrill.jpg
     - asif-sundus-socialgolfer-thumb.jpg
     - asif-sundus-socialgolfer.jpg
-    - asif-sundus-socialgolfer.mp4
     - asif-sundus-xahive-thumb.jpg
     - asif-sundus-xahive.jpg
 
-- name: Dima Badawi
+- name: Dima Badawi _____________________________MP4 VID
   id: badawi_dima
   skills:
     - UX/UI
@@ -180,8 +180,8 @@
   - beaton-lisa-poster-3-thumb.jpg
   - beaton-lisa-poster-3.jpg
 
-- name: Amy Brown
-  id: lastname_firstname
+- name: Amy Brown _____________________________INCOMPLETE
+  id: brown_amy
   skills:
     - UX/UI
     - Web
@@ -224,7 +224,7 @@
   - cansfield-stephanie-smithfalls-thumb.jpg
   - cansfield-stephanie-smithfalls.jpg
 
-- name: Keisha Chamberlain
+- name: Keisha Chamberlain _____________________________REVIEW WORDPRESS WEBSITE
   id: chamberlain_keisha
   skills:
     - UX/UI
@@ -235,71 +235,57 @@
   facebook: www.facebook.com/kayceecreations?ref=hl
   bio: I love Graphic Design and I am very passionate about Branding, Editorial and Poster Layout Design. My best work is inspired by Jazz!
   images:
-  - chamberlain-keisha-worktitle-thumb.jpg
-  - chamberlain-keisha-worktitle.jpg
-  - chamberlain-keisha-worktitle-thumb.jpg
-  - chamberlain-keisha-worktitle.jpg
-  - chamberlain-keisha-worktitle-thumb.jpg
-  - chamberlain-keisha-worktitle.jpg
-  - chamberlain-keisha-worktitle-thumb.jpg
-  - chamberlain-keisha-worktitle.jpg
-  - chamberlain-keisha-worktitle-thumb.jpg
-  - chamberlain-keisha-worktitle.jpg
-  - chamberlain-keisha-worktitle-thumb.jpg
-  - chamberlain-keisha-worktitle.jpg
+  - chamberlain-keisha-cic-thumb.jpg
+  - chamberlain-keisha-cic.jpg
+  - chamberlain-keisha-curly_q-thumb.jpg
+  - chamberlain-keisha-curly_q.jpg
+  - chamberlain-keisha-jill_scott-thumb.jpg
+  - chamberlain-keisha-jill_scott.jpg
+  - chamberlain-keisha-pms-thumb.jpg
+  - chamberlain-keisha-pms.jpg
 
-- name: Cassandra-Lyne Chartrand
-  id: lastname_firstname
+- name: Cassandra-Lyne Chartrand _____________________________REVIEW BIO and IMAGES
+  id: chartrand_cassandra
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio: "I am a graphic designer and my strongest points are print design, app UI design and branding. I also enjoy illustrating, and photography."
+    - Print Media
+    - Photography/Photomanipulation
+  behance: www.behance.net/cassie-chartrand
+  email: cassiechartrand@gmail.com
+  bio: Hey there, you can call me Cassie. I am a graphic designer and I have a wide range of skills, but my strongest points are print design, app/UI design and branding. I would like to improve and get the best experience out of my career! I also enjoy illustrating, photography and anything relating to cooking or cullinary. I would call them hobbies but most of them have influenced a few pieces of my portfolio work.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - chartrand_cassandra_piece1-thumb.jpg
+  - chartrand_cassandra_piece1.jpg
+  - chartrand_cassandra_piece1b-thumb.jpg
+  - chartrand_cassandra_piece1b.jpg
+  - chartrand_cassandra_piece2-thumb.jpg
+  - chartrand_cassandra_piece2.jpg
+  - chartrand_cassandra_piece3-thumb.jpg
+  - chartrand_cassandra_piece3.jpg
 
 - name: Jenny Chew
-  id: lastname_firstname
+  id: chew_jenny
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/JennyChewDesign
+  vimeo: www.vimeo.com/user16436363
+  behance: www.behance.net/jennychew
+  bio: I'm a visual surprise.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - chew-jenny-hoppycamper-thumb.jpg
+  - chew-jenny-hoppycamper.jpg
+  - chew-jenny-mywallet-thumb.jpg
+  - chew-jenny-mywallet.jpg
+  - chew-jenny-thebasementboys-thumb.jpg
+  - chew-jenny-thebasementboys.jpg
+  - chew-jenny-warmuseum-thumb.jpg
+  - chew-jenny-warmuseum.jpg
 
 - name: Mansura Chowdhury
-  id: lastname_firstname
+  id: chowdhury_mansura
   skills:
     - UX/UI
     - Web
