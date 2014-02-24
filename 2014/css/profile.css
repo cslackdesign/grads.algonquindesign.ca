@@ -1,24 +1,18 @@
-.right {
-	position: absolute;
-	top: 0;
-	right: 0;
-	float: right;
-	text-align: right;
-}
-
-.profile {
-	top: 0;
-	width: 100%;
-	position: relative;
+.box {
 	background-color: #F2F2F2;
-	margin-top: .5em;
 	margin-bottom: 3em;
 	border: 1px solid #d9d9d9;
 	font: normal 100%/1.5 helvetica, arial, sans-serif;
 }
 
+.profile {
+	top: 0;
+	position: relative;
+}
+
 .profile a {
 	color: #00ACCF;
+	margin-bottom: 8px;
 }
 
 .profile li {
@@ -68,22 +62,23 @@
 }
 
 .btn-close-profile {
-	z-index: 1;
-	width: 40px;
-	height: 40px;
 	text-align: center;
-	line-height: 24px;
 	border: 2px solid #00ACCF;
 	background-color: #00ACCF;
 	color: #fff;
-	padding: 0;
 	font-weight: bold;
 	cursor: pointer;
-	position: absolute;
-	top: 8px;
-	right: 8px;
 	outline: none;
-	}
+	margin-bottom: 8px;
+}
+
+.btn-close-profile p {
+	font-weight: bold;
+	margin: 0;
+	padding: 8px;
+	height: 100%;
+	width: 100%;
+}
 
 .btn-close-item {
 	height: 40px;
@@ -100,6 +95,45 @@
 	right: 8px;
 	outline: none;
 	}
+
+.btn-prev-profile {
+	float: left;
+	text-align: left;
+	margin: 8px;
+
+	color: #fff;
+	background-color: #00ACCC;
+}
+
+.btn-next-profile {
+	float: right;
+	text-align: right;
+	margin: 8px;
+
+	color: #fff;
+	background-color: #00ACCC;
+}
+
+.btn-prev-profile p,
+.btn-next-profile p {
+	font-weight: bold;
+	margin: 0;
+	padding: 1em;
+	height: 100%;
+	width: 100%;
+}
+
+.btn-prev-profile:focus,
+.btn-next-profile:focus {
+	outline: none;
+}
+
+.btn-close-profile:hover,
+.btn-close-item:hover,
+.btn-prev-profile:hover,
+.btn-next-profile:hover {
+	color: #FED100;
+}
 
 .hearts {
 	background-position: top;
