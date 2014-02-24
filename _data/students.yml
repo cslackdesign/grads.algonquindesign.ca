@@ -9,7 +9,7 @@
     - Photography/Photomanipulation
   twitter: www.twitter.com/mariamadesign
   behance: www.behance.net/mariamabdul
-  linkedin: ca.linkedin.com/pub/mariam-abdulwahab/61/340/58/
+  linkedin: www.linkedin.com/pub/mariam-abdulwahab/61/340/58/
   bio: Graphic design is my passion. Photography is my love. Colours and patterns inspire me. I love what I do!
   images:
     - abdulwahab-mariam-blackhenmusic-thumb.jpg
@@ -32,7 +32,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
     - lastname-firstname-worktitle-thumb.jpg
@@ -57,7 +57,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
     - lastname-firstname-worktitle-thumb.jpg
@@ -99,7 +99,7 @@
     - Print Media
     - Motion Graphics
   behance: www.behance.net/sundusart
-  linkedin: ca.linkedin.com/pub/sundus-asif/61/566/38/
+  linkedin: www.linkedin.com/pub/sundus-asif/61/566/38/
   vimeo: www.vimeo.com/user16334786
   bio: I am a designer with a passion for all aspects of art. Clean lines, eye-catching details and effective design is what my brand is all about.
   images:
@@ -118,81 +118,67 @@
     - asif-sundus-xahive.jpg
 
 - name: Dima Badawi
-  id: lastname_firstname
+  id: badawi_dima
   skills:
     - UX/UI
     - Web Design/Development
     - Print Media
     - Motion Graphics
     - Illustration
-  linkedin: www.linkedin.com/in/dimabadawi
   behance: www.behance.net/dimabadawi
   twitter: www.twitter.com/dima_f_b
   vimeo: www.vimeo.com/user18570401
+  linkedin: www.linkedin.com/in/dimabadawi
   bio: When I design, I'm inspired by the roads of Damascus, sunshine, doodles, and vintage signs. I'm a Persian art fan, and a tireless seeker of knowledge.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - badawi-dima-itgetsbetter-thumb.jpg
+  - badawi-dima-itgetsbetter.jpg
+  - badawi-dima-obelix&co-thumb.jpg
+  - badawi-dima-obelix&co.jpg
+  - badawi-dima-oldtouma-thumb.jpg
+  - badawi-dima-oldtouma.jpg
+  - badawi-dima-piggy_back-thumb.jpg
+  - badawi-dima-piggy_back.jpg
+  - badawi-dima-xahive-thumb.jpg
+  - badawi-dima-xahive.jpg
 
 - name: Emily Barclay
-  id: lastname_firstname
+  id: barclay_emily
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: ca.linkedin.com/
-  bio:
+    - Print Media
+    - Photography/Photomanipulation
+  behance: www.behance.net/emmyb
+  bio: I imagine a more loving, sustainable and delightful world. I will succeed in supporting and creating peace, acceptance and amazing design.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - barclay-emily-scitech-branding-thumb.jpg
+  - barclay-emily-scitech-branding.jpg
+  - barclay-emily-venice-illustrations-thumb.jpg
+  - barclay-emily-venice-illustrations.jpg
+  - barclay-emily-wwf-poster-thumb.jpg
+  - barclay-emily-wwf-poster.jpg
 
 - name: Lisa Beaton
-  id: lastname_firstname
+  id: beaton_lisa
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: ca.linkedin.com/
-  bio:
+    - Print Media
+    - Photography/Photomanipulation
+  behance: www.behance.net/lisabeaton
+  vimeo: www.vimeo.com/lisabeaton
+  linkedin: www.linkedin.com/pub/lisa-beaton/27/a2a/b59
+  bio: Graphic Design is my career. Advertising is my passion. Photography is my love. I'm completely obsessed with colour. And, oh, I love cats.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - beaton-lisa-mobile-1-thumb.jpg
+  - beaton-lisa-mobile-1.jpg
+  - beaton-lisa-mobile-2-thumb.jpg
+  - beaton-lisa-mobile-2.jpg
+  - beaton-lisa-poster-1-thumb.jpg
+  - beaton-lisa-poster-1.jpg
+  - beaton-lisa-poster-2-thumb.jpg
+  - beaton-lisa-poster-2.jpg
+  - beaton-lisa-poster-3-thumb.jpg
+  - beaton-lisa-poster-3.jpg
 
 - name: Amy Brown
   id: lastname_firstname
@@ -203,7 +189,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -220,54 +206,47 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Stephanie Cansfield
-  id: lastname_firstname
+  id: cansfield_stephanie
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: ca.linkedin.com/
-  bio:
+    - Web Design/Development
+    - Print Media
+  behance: www.behance.net/stephaniedawndesigns
+  facebook: www.facebook.com/stephie.sunshine
+  bio: I'm a quirky artist with a love for print and web design. Doodling, exercising, watching horror films, and cuddling cats sums up my life.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - cansfield-stephanie-aviationlogo-thumb.jpg
+  - cansfield-stephanie-aviationlogo.jpg
+  - cansfield-stephanie-baskinrobbins-thumb.jpg
+  - cansfield-stephanie-baskinrobbins.jpg
+  - cansfield-stephanie-luckybagels-thumb.jpg
+  - cansfield-stephanie-luckybagels.jpg
+  - cansfield-stephanie-smithfalls-thumb.jpg
+  - cansfield-stephanie-smithfalls.jpg
 
 - name: Keisha Chamberlain
-  id: lastname_firstname
+  id: chamberlain_keisha
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: ca.linkedin.com/
-  bio:
+    - Print Media
+  twitter: www.twitter.com/kayccreations
+  website: kayceecreation.wordpress.com
+  behance: www.behance.net/kayceecreations
+  facebook: www.facebook.com/kayceecreations?ref=hl
+  bio: I love Graphic Design and I am very passionate about Branding, Editorial and Poster Layout Design. My best work is inspired by Jazz!
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - chamberlain-keisha-worktitle-thumb.jpg
+  - chamberlain-keisha-worktitle.jpg
+  - chamberlain-keisha-worktitle-thumb.jpg
+  - chamberlain-keisha-worktitle.jpg
+  - chamberlain-keisha-worktitle-thumb.jpg
+  - chamberlain-keisha-worktitle.jpg
+  - chamberlain-keisha-worktitle-thumb.jpg
+  - chamberlain-keisha-worktitle.jpg
+  - chamberlain-keisha-worktitle-thumb.jpg
+  - chamberlain-keisha-worktitle.jpg
+  - chamberlain-keisha-worktitle-thumb.jpg
+  - chamberlain-keisha-worktitle.jpg
 
 - name: Cassandra-Lyne Chartrand
   id: lastname_firstname
@@ -278,7 +257,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio: "I am a graphic designer and my strongest points are print design, app UI design and branding. I also enjoy illustrating, and photography."
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -303,7 +282,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -328,7 +307,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -353,7 +332,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -378,7 +357,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -403,7 +382,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -428,7 +407,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -453,7 +432,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -478,7 +457,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -503,7 +482,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -528,7 +507,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -553,7 +532,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -578,7 +557,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -603,7 +582,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -628,7 +607,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -653,7 +632,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -678,7 +657,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -703,7 +682,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -728,7 +707,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -753,7 +732,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -778,7 +757,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -803,7 +782,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -828,7 +807,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -853,7 +832,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -878,7 +857,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -903,7 +882,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -928,7 +907,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -953,7 +932,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -978,7 +957,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1003,7 +982,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1028,7 +1007,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1053,7 +1032,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1078,7 +1057,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1103,7 +1082,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1128,7 +1107,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1153,7 +1132,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1178,7 +1157,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1203,7 +1182,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1228,7 +1207,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1253,7 +1232,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1278,7 +1257,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1303,7 +1282,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1328,7 +1307,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1353,7 +1332,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1378,7 +1357,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1403,7 +1382,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1428,7 +1407,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
@@ -1453,7 +1432,7 @@
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
-  linkedin: ca.linkedin.com/
+  linkedin: www.linkedin.com/pub/
   bio:
   images:
   - lastname-firstname-worktitle-thumb.jpg
