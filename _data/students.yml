@@ -1128,52 +1128,35 @@
 - name: Sarah Voss
   id: voss_sarah
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  behance: www.behance.net/sarahvossdesign
+  bio: I am an energetic graphic designer who sees everyday as an opportunity to create, learn and experience all that life has to offer.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - voss-sarah-selfbranding-thumb.jpg
+  - voss-sarah-selfbranding.jpg
+  - voss-sarah-valleysquire-thumb.jpg
+  - voss-sarah-valleysquire.jpg
 
 - name: Grace Walker
-  id: _firstname
+  id: walker_grace
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+    - Print Media
+    - Motion Graphics
+  twitter: www.twitter.com/gracieskywalker
+  behance: www.behance.net/gracewalkerdesigns
+  vimeo: vimeo.com/gracewalker
   bio: My voice is high and my dreams are big.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - walker-grace-chewy-thumb.jpg
+  - walker-grace-chewy.jpg
+  - walker-grace-dirtyfastracing-thumb.jpg
+  - walker-grace-dirtyfastracing.jpg
+  - walker-grace-graciofont-thumb.jpg
+  - walker-grace-graciofont.jpg
+  - walker-grace-singingbones-thumb.jpg
+  - walker-grace-singingbones.jpg
 
 - name: Maddison Watson
   id: watson_maddison
