@@ -908,29 +908,24 @@
   - ng-sabrina-toothapp.jpg
 
 - name: Anna Odeh
-  id: lastname_firstname
+  id: odeh_anna
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  behance: www.behance.net/annaodeh
+  bio: I am able to offer many creative solutions for a variety of different products including advertising, websites, corporate identities, and branding.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - odeh-anna-3rdeyegirl-thumb.jpg
+  - odeh-anna-3rdeyegirl.jpg
+  - odeh-anna-ccr-international-thumb.jpg
+  - odeh-anna-ccr-international.jpg
+  - odeh-anna-eventlogodesign-thumb.jpg
+  - odeh-anna-eventlogodesign.jpg
+  - odeh-anna-samburubeer-thumb.jpg
+  - odeh-anna-samburubeer.jpg
+  - odeh-anna-thelostpirate-thumb.jpg
+  - odeh-anna-thelostpirate.jpg
 
 - name: Nadia Pietrobon _____________________________INCOMPLETE
   id: pietrobon_nadia
@@ -958,232 +953,180 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Sheena Ravary
-  id: lastname_firstname
+  id: ravary_sheena
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  twitter: www.twitter.com/srravary
+  behance: www.behance.net/sheenaravary
+  linkedin: www.linkedin.com/pub/sheena-ravary/6b/32/96b/
+  bio: “An intellectual says a simple thing in a hard way. An artist says a hard thing in a simple way.” — Charles Bukowski
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - ravary-sheena-badsuit-thumb.jpg
+  - ravary-sheena-badsuit.jpg
+  - ravary-sheena-homer-thumb.jpg
+  - ravary-sheena-homer.jpg
+  - ravary-sheena-mallmate-thumb.jpg
+  - ravary-sheena-mallmate.jpg
 
 - name: Jenny Richardson
-  id: lastname_firstname
+  id: richardson_jenny
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Illustration
+  website: www.jennyrichardson.ca
+  bio: My love for art, films, comics, books, and horror culture inspire me to be the designer and illustrator I am today. I love creating things!
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - richardson-jenny-carbon-clothing-brand-identity-thumb.jpg
+  - richardson-jenny-carbon-clothing-brand-identity.jpg
+  - richardson-jenny-cd-package-design-thumb.jpg
+  - richardson-jenny-cd-package-design.jpg
+  - richardson-jenny-ecospa-brand-identity-thumb.jpg
+  - richardson-jenny-ecospa-brand-identity.jpg
+  - richardson-jenny-illustrations-thumb.jpg
+  - richardson-jenny-illustrations.jpg
+  - richardson-jenny-king-antler-wine-packaging-thumb.jpg
+  - richardson-jenny-king-antler-wine-packaging.jpg
 
 - name: Celta Riden
-  id: lastname_firstname
+  id: riden_celta
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/Ridentweets
+  behance: www.behance.net/celtariden
+  vimeo: vimeo.com/user21192495
+  bio: "I used to be an adventurer like you, then I took an arrow in the knee."
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - riden-celta-recycles-thumb.jpg
+  - riden-celta-recycles.jpg
+  - riden-celta-thebookstache-thumb.jpg
+  - riden-celta-thebookstache.jpg
 
 - name: Robyn Rutherford
-  id: lastname_firstname
+  id: rutherford_robyn
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  twitter: www.twitter.com/RutherfordRobyn
+  behance: www.behance.net/RobynRutherford
+  linkedin: www.linkedin.com/pub/robyn-rutherford/55/818/90a
+  bio: I love to dabble in web, print, branding, packaging, and random arts and crafts. Am I missing something? —Oh right entrepreneurship.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - rutherford-robyn-flamingos-thumb.jpg
+  - rutherford-robyn-flamingos.jpg
+  - rutherford-robyn-kickspackage-thumb.jpg
+  - rutherford-robyn-kickspackage.jpg
+  - rutherford-robyn-ksbusinesscards-thumb.jpg
+  - rutherford-robyn-ksbusinesscards.jpg
 
 - name: Kelly Seay
-  id: lastname_firstname
+  id: seay_kelly
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  twitter: www.twitter.com/kellyseayy
+  behance: www.behance.net/KellySeay
+  linkedin: www.linkedin.com/pub/kelly-seay/50/3a5/b2b/
+  bio: Graphic Designer with a love for Branding & Web Design, & a passion for hand lettering.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - seay-kelly-cupcakelounge-thumb.jpg
+  - seay-kelly-cupcakelounge.jpg
+  - seay-kelly-lettering-thumb.jpg
+  - seay-kelly-lettering.jpg
+  - seay-kelly-menh-thumb.jpg
+  - seay-kelly-menh.jpg
+  - seay-kelly-runplus-thumb.jpg
+  - seay-kelly-runplus.jpg
 
 - name: William Shaw
-  id: lastname_firstname
+  id: shaw_william
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Motion Graphics
+    - Illustration
+  twitter: www.twitter.com/willshawdesign
+  behance: www.behance.net/williamshawdesign
+  linkedin: www.linkedin.com/pub/william-shaw/41/922/6a0/
+  website: williamshaw.ca
+  vimeo: vimeo.com/williamshawdesign
+  bio: I love to make stuff. Motion Graphics, Illustration, and UI too.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - shaw-william-arnejacobsenbook-thumb.jpg
+  - shaw-william-arnejacobsenbook.jpg
+  - shaw-william-broleonpicturesbrading-thumb.jpg
+  - shaw-william-broleonpicturesbrading.jpg
+  - shaw-william-elvisbluehawaii-thumb.jpg
+  - shaw-william-elvisbluehawaii.jpg
 
 - name: Cassie Slack
-  id: lastname_firstname
+  id: slack_cassie
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Motion Graphics
+  twitter: www.twitter.com/CSlackDesign
+  behance: www.behance.net/CSlack
+  website: cslackdesign.github.io
+  vimeo: vimeo.com/cslackdesign
+  bio: Maker of things, code nerd and UX Unicorn in training.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - slack-cassie-cslackdesign-thumb.jpg
+  - slack-cassie-cslackdesign.jpg
+  - slack-cassie-dropkick-thumb.jpg
+  - slack-cassie-dropkick.jpg
+  - slack-cassie-iceland-thumb.jpg
+  - slack-cassie-iceland.jpg
+  - slack-cassie-shopit-thumb.jpg
+  - slack-cassie-shopit.jpg
 
 - name: Michaela Tuor
-  id: lastname_firstname
+  id: tuor_michaela
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+    - Photography/Photomanipulation
+  facebook: www.facebook.com/MichaelaTuorDesign?ref=hl
+  linkedin: www.linkedin.com/pub/michaela-tuor/59/451/a71
+  website: www.michaelatuor.ca
+  vimeo: vimeo.com/user16472807
+  bio: My upbeat and unique sense of humour help make creative and thought provoking designs that build upon the client's ideas for the project.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - tuor-michaela-beer-app-thumb.jpg
+  - tuor-michaela-beer-app.jpg
+  - tuor-michaela-beerlogo-thumb.jpg
+  - tuor-michaela-beerlogo.jpg
+  - tuor-michaela-giftcard-thumb.jpg
+  - tuor-michaela-giftcard.jpg
+  - tuor-michaela-ransom-note-thumb.jpg
+  - tuor-michaela-ransom-note.jpg
 
 - name: Lisa Villeneuve
-  id: lastname_firstname
+  id: villeneuve_lisa
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Motion Graphics
+  twitter: www.twitter.com/littleninjag
+  facebook: www.facebook.com/lisavilleneuvedesigner
+  behance: www.behance.net/lisavilleneuve
+  bio: I think design should make things both beautiful & useful. The program at Algonquin has been great in refining & updating my skills.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - villeneuve-lisa-geoclassify-thumb.jpg
+  - villeneuve-lisa-geoclassify.jpg
+  - villeneuve-lisa-glowworm-thumb.jpg
+  - villeneuve-lisa-glowworm.jpg
+  - villeneuve-lisa-starbucksapp-thumb.jpg
+  - villeneuve-lisa-starbucksapp.jpg
+  - villeneuve-lisa-votingapp-thumb.jpg
+  - villeneuve-lisa-votingapp.jpg
 
 - name: Sarah Voss
-  id: lastname_firstname
+  id: voss_sarah
   skills:
     - UX/UI
     - Web
