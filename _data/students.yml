@@ -82,7 +82,7 @@
     - Illustration
   behance: www.behance.net/nick-appolon
   twitter: www.twitter.com/nick88999
-  vimeo: www.vimeo.com/user16334766
+  vimeo: vimeo.com/user16334766
   bio: Im a 24 year old student and I absolutely love what I do, and have a never ending passion when it comes to design.
   images:
   - appolon-nick-nas-thumb.jpg
@@ -101,7 +101,7 @@
     - Motion Graphics
   behance: www.behance.net/sundusart
   linkedin: www.linkedin.com/pub/sundus-asif/61/566/38/
-  vimeo: www.vimeo.com/user16334786
+  vimeo: vimeo.com/user16334786
   bio: I am a designer with a passion for all aspects of art. Clean lines, eye-catching details and effective design is what my brand is all about.
   images:
     - asif-sundus-backtobasics-thumb.jpg
@@ -127,7 +127,7 @@
     - Illustration
   behance: www.behance.net/dimabadawi
   twitter: www.twitter.com/dima_f_b
-  vimeo: www.vimeo.com/user18570401
+  vimeo: vimeo.com/user18570401
   linkedin: www.linkedin.com/in/dimabadawi
   bio: When I design, I'm inspired by the roads of Damascus, sunshine, doodles, and vintage signs. I'm a Persian art fan, and a tireless seeker of knowledge.
   images:
@@ -165,7 +165,7 @@
     - Print Media
     - Photography/Photomanipulation
   behance: www.behance.net/lisabeaton
-  vimeo: www.vimeo.com/lisabeaton
+  vimeo: vimeo.com/lisabeaton
   linkedin: www.linkedin.com/pub/lisa-beaton/27/a2a/b59
   bio: Graphic Design is my career. Advertising is my passion. Photography is my love. I'm completely obsessed with colour. And, oh, I love cats.
   images:
@@ -224,13 +224,13 @@
   - cansfield-stephanie-smithfalls-thumb.jpg
   - cansfield-stephanie-smithfalls.jpg
 
-- name: Keisha Chamberlain _____________________________REVIEW WORDPRESS WEBSITE
+- name: Keisha Chamberlain
   id: chamberlain_keisha
   skills:
     - UX/UI
     - Print Media
   twitter: www.twitter.com/kayccreations
-  website: kayceecreation.wordpress.com
+  website: kayceecreations.wordpress.com
   behance: www.behance.net/kayceecreations
   facebook: www.facebook.com/kayceecreations?ref=hl
   bio: I love Graphic Design and I am very passionate about Branding, Editorial and Poster Layout Design. My best work is inspired by Jazz!
@@ -271,7 +271,7 @@
     - Motion Graphics
     - Photography/Photomanipulation
   twitter: www.twitter.com/JennyChewDesign
-  vimeo: www.vimeo.com/user16436363
+  vimeo: vimeo.com/user16436363
   behance: www.behance.net/jennychew
   bio: I'm a visual surprise.
   images:
@@ -292,7 +292,7 @@
     - Photography/Photomanipulation
   twitter: www.twitter.com/emdsgns
   behance: www.behance.net/mansurachowdhury
-  website: www.emdsgn.github.io
+  website: emdsgn.github.io
   bio: I have surprised people countless times with my height and to that I say: I'm a living proof that great things come in small packages.
   images:
   - chowdhury-mansura-emmawatson-thumb.jpg
@@ -362,7 +362,7 @@
   facebook: www.facebook.com/stevendoneganiart
   behance: www.behance.net/stevendonegani
   linkedin: www.linkedin.com/pub/steve-donegani/66/b51/548
-  vimeo: www.vimeo.com/stevedonegani
+  vimeo: vimeo.com/stevedonegani
   website: www.stevedonegani.com
   instagram: www.instagram.com/stevedonegani
   bio: Steven Donegani is talented illustrator/Graphic Designer. He currently works in Ottawa. He enjoys spending quality time with his cat Rufus.
@@ -446,7 +446,7 @@
     - Web Design/Development
     - Print Media
     - Photography/Photomanipulation
-  website: www.RobGraphic.com
+  website: RobGraphic.com
   email: Robert.Freeman@live.ca
   bio: Hi! I'm a designer and graphic artist living in Orleans, and I'm always looking to express and refine my trade.
   images:
@@ -491,7 +491,7 @@
   twitter: www.twitter.com/gotoseita
   behance: www.behance.net/seitagoto
   linkedin: www.linkedin.com/pub/seita-goto/1b/306/596/
-  website: www.seitagoto.com
+  website: seitagoto.com
   bio: Hello, my name is Seita. Like 'Satan' but without the N. I want to create things that are meaningful, as well as beautiful.
   images:
   - goto-seita-chefonwheels-thumb.jpg
@@ -505,7 +505,7 @@
   - goto-seita-wolfpack-thumb.jpg
   - goto-seita-wolfpack.jpg
 
-- name: Caroline Guindon _____________________________REVIEW BEHANCE LINK, LINK TO VID
+- name: Caroline Guindon _____________________________LINK TO VID
   id: guindon_caroline
   skills:
     - UX/UI
@@ -513,7 +513,8 @@
     - Print Media
     - Motion Graphics
   twitter: www.twitter.com/caro_guindon
-  website: www.cgdesigned.ca/
+  behance: www.behance.net/cguindon
+  website: cgdesigned.ca/
   bio: “A great daughter, a great friend, a great person and the greatest graphic designer.” —proudly quoted by my Mom
   images:
   - guindon-caroline-vino1-thumb.jpg
@@ -547,8 +548,8 @@
   - hallett-kathryn-hannahmckay-thumb.jpg
   - hallett-kathryn-hannahmckay.jpg
 
-- name: Andrew Ham
-  id: lastname_firstname
+- name: Andrew Ham _____________________________INCOMPLETE
+  id: ham_andrew
   skills:
     - UX/UI
     - Web
@@ -573,107 +574,87 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Laura Harvey
-  id: lastname_firstname
+  id: harvey_laura
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+  twitter: www.twitter.com/laurahcreative
+  behance: www.behance.net/laurahcreative
+  bio: I am a passionate designer and a nerd in all the right ways. Lover of movies, books and comics. Let`s create our own stories.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - harvey-laura-bucksbrewingco-thumb.jpg
+  - harvey-laura-bucksbrewingco.jpg
+  - harvey-laura-electraheart-thumb.jpg
+  - harvey-laura-electraheart.jpg
+  - harvey-laura-globalpetfoods-thumb.jpg
+  - harvey-laura-globalpetfoods.jpg
+  - harvey-laura-weatherme-thumb.jpg
+  - harvey-laura-weatherme.jpg
 
 - name: Jessica Hay
-  id: lastname_firstname
+  id: hay_jessica
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+    - Illustration
+  twitter: www.twitter.com/2Hayj
+  behance: www.behance.net/jessicahay
+  website: heyjessicahay.com
+  bio: Passionate about illustration, web design, and painting, known for my love of Vincent Van Gogh, Ray LaMontagne, and travelling the world.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - hay-jessica-climbing_everest-thumb.jpg
+  - hay-jessica-climbing_everest.jpg
+  - hay-jessica-creativitea-thumb.jpg
+  - hay-jessica-creativitea.jpg
+  - hay-jessica-dinner-thumb.jpg
+  - hay-jessica-dinner.jpg
+  - hay-jessica-organized_crime-thumb.jpg
+  - hay-jessica-organized_crime.jpg
+  - hay-jessica-pair_app-thumb.jpg
+  - hay-jessica-pair_app.jpg
 
 - name: Lianne Hébert
-  id: lastname_firstname
+  id: hebert_lianne
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Photography/Photomanipulation
+  facebook: www.facebook.com/pages/Lianne-Hébert-Graphic-Design/272158256239758
+  behance: www.behance.net/LianneHebert
+  bio: Problem-solving creature with an untamable creative brain, I love all things design. I’m also a part-time tea drinker and garden enthusiast.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - hebert-lianne-creperie-thumb.jpg
+  - hebert-lianne-creperie.jpg
+  - hebert-lianne-perfumepackage-thumb.jpg
+  - hebert-lianne-perfumepackage.jpg
+  - hebert-lianne-toad-thumb.jpg
+  - hebert-lianne-toad.jpg
+  - hebert-lianne-wedding-thumb.jpg
+  - hebert-lianne-wedding.jpg
 
 - name: Earaj Inam
-  id: lastname_firstname
+  id: inam_earaj
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/earaj_i
+  behance: www.behance.net/earajinam
+  vimeo: vimeo.com/earajinam
+  website: earajinam.com/
+  bio: I strive for excellence in every aspect of my life. I design to make change in people's lives, in order to evoke emotion as form of a result.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - inam-earaj-anweb-thumb.jpg
+  - inam-earaj-anweb.jpg
+  - inam-earaj-branding-thumb.jpg
+  - inam-earaj-branding.jpg
+  - inam-earaj-fishui-thumb.jpg
+  - inam-earaj-fishui.jpg
+  - inam-earaj-motion-thumb.jpg
+  - inam-earaj-motion.jpg
 
-- name: Svetlana Kurmeleva
-  id: lastname_firstname
+- name: Svetlana Kurmeleva _____________________________INCOMPLETE
+  id: kurmeleva_svetlana
   skills:
     - UX/UI
     - Web
@@ -698,154 +679,115 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Winnie Lau
-  id: lastname_firstname
+  id: lau_winnie
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+    - Illustration
+  facebook: www.facebook.com/winnie.lau.3110
+  linkedin: www.linkedin.com/pub/winnie-lau/61/55b/a54
+  vimeo: vimeo.com/user16233723
+  website: winlaud.github.io/
+  email: Winlaud@gmail.com
+  bio: I strive for simplicity; you will be left with wonder and curiosity after a peek.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - lau-winnie-app-thumb.jpg
+  - lau-winnie-app.jpg
+  - lau-winnie-car-thumb.jpg
+  - lau-winnie-car.jpg
+  - lau-winnie-izze-thumb.jpg
+  - lau-winnie-izze.jpg
+  - lau-winnie-sink-thumb.jpg
+  - lau-winnie-sink.jpg
 
 - name: Michelle Lauer
-  id: lastname_firstname
+  id: lauer_michelle
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  behance: www.behance.net/michellelauer
+  bio: A young designer inspired by everyday moments, intelligent brands, great design and laughter.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - lauer-michelle-dog-grooming-thumb.jpg
+  - lauer-michelle-dog-grooming.jpg
+  - lauer-michelle-meltdown-thumb.jpg
+  - lauer-michelle-meltdown.jpg
 
 - name: Kyounghee Lauren Lee
-  id: lastname_firstname
+  id: lee_kyounghee
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+    - Illustration
+  twitter: www.twitter.com/KyoungheeDesign
+  behance: www.behance.net/kyoungheeleedesign
+  linkedin: www.linkedin.com/pub/kyounghee-lee/61/5b2/a93
+  vimeo: vimeo.com/user17051031/videos
+  bio: Graphic Design is a discipline I truly enjoy. I feel accomplished and rewarded every time I finish my project. Graphic design found my true happiness, passion, and joy of life.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - lauren-lee-kyounghee-appdesign-thumb.jpg
+  - lauren-lee-kyounghee-appdesign.jpg
+  - lauren-lee-kyounghee-packagedesign-thumb.jpg
+  - lauren-lee-kyounghee-packagedesign.jpg
+  - lauren-lee-kyounghee-selfpromo-thumb.jpg
+  - lauren-lee-kyounghee-selfpromo.jpg
+  - lauren-lee-kyounghee-websitedesign-thumb.jpg
+  - lauren-lee-kyounghee-websitedesign.jpg
 
 - name: Jillian Lim
-  id: lastname_firstname
+  id: lim_jillian
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+    - Illustration
+  behance: www.behance.net/jillianlim
+  bio: Welcome to my little section of the website!
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - lim-jillian-1-thumb.jpg
+  - lim-jillian-1.jpg
+  - lim-jillian-2-thumb.jpg
+  - lim-jillian-2.jpg
+  - lim-jillian-3-thumb.jpg
+  - lim-jillian-3.jpg
+  - lim-jillian-4-thumb.jpg
+  - lim-jillian-4.jpg
 
 - name: Nick Macdougall
-  id: lastname_firstname
+  id: macdougall_nick
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+  twitter: www.twitter.com/yonickmcd
+  behance: www.behance.net/nickmcd
+  website: www.nick-mcd.com
+  dribbble: dribbble.com/NickMcD
+  bio: Born and raised in Ottawa, Ontario – Nick McD is a designer who specializes in branding and identity.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - macdougall-nick-la-belle-poutine-thumb.jpg
+  - macdougall-nick-la-belle-poutine.jpg
+  - macdougall-nick-letters-for-change-thumb.jpg
+  - macdougall-nick-letters-for-change.jpg
+  - macdougall-nick-style-wars-thumb.jpg
+  - macdougall-nick-style-wars.jpg
+  - macdougall-nick-wzdm-co-thumb.jpg
+  - macdougall-nick-wzdm-co.jpg
 
 - name: Kelsey MacMillan
-  id: lastname_firstname
+  id: macmillan_kelsey
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+  behance: www.behance.net/kmacmillan15
+  bio: I am an inspired, enthusiastic print graphic designer, ready for new experiences in the design world.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - macmillan-kelsey-john-thumb.jpg
+  - macmillan-kelsey-john.jpg
+  - macmillan-kelsey-oldred-thumb.jpg
+  - macmillan-kelsey-oldred.jpg
+  - macmillan-kelsey-orchardlogo-thumb.jpg
+  - macmillan-kelsey-orchardlogo.jpg
 
 - name: Alyster Mahoney
   id: lastname_firstname
