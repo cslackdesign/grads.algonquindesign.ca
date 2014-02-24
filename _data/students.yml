@@ -284,58 +284,50 @@
   - chew-jenny-warmuseum-thumb.jpg
   - chew-jenny-warmuseum.jpg
 
-- name: Mansura Chowdhury
+- name: Mansura Chowdhury _____________________________REVIEW GITHUB WEBSITE
   id: chowdhury_mansura
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/emdsgns
+  behance: www.behance.net/mansurachowdhury
+  website: www.emdsgn.github.io
+  bio: I have surprised people countless times with my height and to that I say: I'm a living proof that great things come in small packages.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - chowdhury-mansura-emmawatson-thumb.jpg
+  - chowdhury-mansura-emmawatson.jpg
+  - chowdhury-mansura-florence-themachine-thumb.jpg
+  - chowdhury-mansura-florence-themachine.jpg
+  - chowdhury-mansura-goetz-thumb.jpg
+  - chowdhury-mansura-goetz.jpg
+  - chowdhury-mansura-petcircus-thumb.jpg
+  - chowdhury-mansura-petcircus.jpg
+  - chowdhury-mansura-spoilalert-thumb.jpg
+  - chowdhury-mansura-spoilalert.jpg
 
 - name: Stephanie Csanky
-  id: lastname_firstname
+  id: csanky_stephanie
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  behance: www.behance.net/stephaniecsanky
+  linkedin: www.linkedin.com/pub/stephanie-csanky/28/a07/274
+  bio: Hi I'm Stephanie! I have a love for web design, branding and typography. I love finding different solutions to design problems.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - csanky-stephanie-bridgehead_brochure-thumb.jpg
+  - csanky-stephanie-bridgehead_brochure.jpg
+  - csanky-stephanie-how_to-thumb.jpg
+  - csanky-stephanie-how_to.jpg
+  - csanky-stephanie-large_data_web-thumb.jpg
+  - csanky-stephanie-large_data_web.jpg
+  - csanky-stephanie-perfume_packaging-thumb.jpg
+  - csanky-stephanie-perfume_packaging.jpg
+  - csanky-stephanie-rolling_stone_spread-thumb.jpg
+  - csanky-stephanie-rolling_stone_spread.jpg
 
-- name: Jamie Dean
-  id: lastname_firstname
+- name: Jamie Dean _____________________________INCOMPLETE
+  id: dean_jamie
   skills:
     - UX/UI
     - Web
@@ -360,32 +352,46 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Steven Donegani
-  id: lastname_firstname
+  id: donegani_steven
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+    - Illustration
+  twitter: www.twitter.com/stevedonegani
+  facebook: www.facebook.com/stevendoneganiart
+  behance: www.behance.net/stevendonegani
+  linkedin: www.linkedin.com/pub/steve-donegani/66/b51/548
+  vimeo: www.vimeo.com/stevedonegani
+  website: www.stevedonegani.com
+  instagram: www.instagram.com/stevedonegani
+  bio: Steven Donegani is talented illustrator/Graphic Designer. He currently works in Ottawa. He enjoys spending quality time with his cat Rufus.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - donegani-steve-adventuretime-thumb.jpg
+  - donegani-steve-adventuretime.jpg
+  - donegani-steve-hi-thumb.jpg
+  - donegani-steve-hi.jpg
 
 - name: Lindsay Dupuis
-  id: lastname_firstname
+  id: dupuis_lindsay
+  skills:
+    - Print Media
+  twitter: www.twitter.com/lindsorz
+  behance: www.behance.net/lindsaydupuis
+  linkedin: www.linkedin.com/pub/lindsay-dupuis/65/b0a/511
+  bio: Print is my first love, while branding is my second. Illustration is my hobby and package design my dream.
+  images:
+  - dupuis-lindsay-alice-thumb.jpg
+  - dupuis-lindsay-alice.jpg
+  - dupuis-lindsay-davidstea-thumb.jpg
+  - dupuis-lindsay-davidstea.jpg
+  - dupuis-lindsay-mealhelper-thumb.jpg
+  - dupuis-lindsay-mealhelper.jpg
+  - dupuis-lindsay-solanerowine-thumb.jpg
+  - dupuis-lindsay-solanerowine.jpg
+
+- name: Ian Durkin _____________________________INCOMPLETE
+  id: durkin_ian
   skills:
     - UX/UI
     - Web
@@ -409,8 +415,8 @@
   - lastname-firstname-worktitle-thumb.jpg
   - lastname-firstname-worktitle.jpg
 
-- name: Ian Durkin
-  id: lastname_firstname
+- name: Ashley Edmundson _____________________________INCOMPLETE
+  id: edmundson_ashley
   skills:
     - UX/UI
     - Web
@@ -434,8 +440,25 @@
   - lastname-firstname-worktitle-thumb.jpg
   - lastname-firstname-worktitle.jpg
 
-- name: Ashley Edmundson
-  id: lastname_firstname
+- name: Robert Freeman _____________________________REVIEW WEBSITE
+  id: freeman_robert
+  skills:
+    - Web Design/Development
+    - Print Media
+    - Photography/Photomanipulation
+  website: www.RobGraphic.com
+  email: Robert.Freeman@live.ca
+  bio: Hi! I'm a designer and graphic artist living in Orleans, and I'm always looking to express and refine my trade.
+  images:
+  - freeman-robert-brand-thumb.jpg
+  - freeman-robert-brand.jpg
+  - freeman-robert-dessert-thumb.jpg
+  - freeman-robert-dessert.jpg
+  - freeman-robert-packaging-thumb.jpg
+  - freeman-robert-packaging.jpg
+
+- name: James Gollner _____________________________INCOMPLETE
+  id: gollner_james
   skills:
     - UX/UI
     - Web
@@ -459,130 +482,70 @@
   - lastname-firstname-worktitle-thumb.jpg
   - lastname-firstname-worktitle.jpg
 
-- name: Robert Freeman
-  id: lastname_firstname
+- name: Seita Goto _____________________________LINK TO VID
+  id: goto_seita
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+  twitter: www.twitter.com/gotoseita
+  behance: www.behance.net/seitagoto
+  linkedin: www.linkedin.com/pub/seita-goto/1b/306/596/
+  website: www.seitagoto.com
+  bio: Hello, my name is Seita. Like 'Satan' but without the N. I want to create things that are meaningful, as well as beautiful.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - goto-seita-chefonwheels-thumb.jpg
+  - goto-seita-chefonwheels.jpg
+  - goto-seita-logos-thumb.jpg
+  - goto-seita-logos.jpg
+  - goto-seita-senba-thumb.jpg
+  - goto-seita-senba.jpg
+  - goto-seita-warmuseum-thumb.jpg
+  - goto-seita-warmuseum.jpg
+  - goto-seita-wolfpack-thumb.jpg
+  - goto-seita-wolfpack.jpg
 
-- name: James Gollner
-  id: lastname_firstname
+- name: Caroline Guindon _____________________________REVIEW BEHANCE LINK, LINK TO VID
+  id: guindon_caroline
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+    - Motion Graphics
+  twitter: www.twitter.com/caro_guindon
+  website: www.cgdesigned.ca/
+  bio: “A great daughter, a great friend, a great person and the greatest graphic designer.” —proudly quoted by my Mom
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-
-- name: Seita Goto
-  id: lastname_firstname
-  skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
-  images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-
-- name: Caroline Guindon
-  id: lastname_firstname
-  skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
-  images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - guindon-caroline-vino1-thumb.jpg
+  - guindon-caroline-vino1.jpg
+  - guindon-caroline-space2-thumb.jpg
+  - guindon-caroline-space2.jpg
+  - guindon-caroline-boulder-thumb.jpg
+  - guindon-caroline-boulder.jpg
+  - guindon-caroline-florence4-thumb.jpg
+  - guindon-caroline-florence4.jpg
+  - guindon-caroline-civilization5-thumb.jpg
+  - guindon-caroline-civilization5.jpg
 
 - name: Kathryn Hallett
-  id: lastname_firstname
+  id: hallett_kathryn
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Photography/Photomanipulation
+    - Illustration
+  twitter: www.twitter.com/kathryniscallin
+  behance: www.behance.net/khallett23
+  bio: My passion lies deep within the bat cave below Wayne Manor, and on the tip of Dexter Morgan's blade. Let's be heroes together.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - hallett-kathryn-beardetiquette-thumb.jpg
+  - hallett-kathryn-beardetiquette.jpg
+  - hallett-kathryn-dextermorgan-thumb.jpg
+  - hallett-kathryn-dextermorgan.jpg
+  - hallett-kathryn-filmroll-thumb.jpg
+  - hallett-kathryn-filmroll.jpg
+  - hallett-kathryn-hannahmckay-thumb.jpg
+  - hallett-kathryn-hannahmckay.jpg
 
 - name: Andrew Ham
   id: lastname_firstname
@@ -1381,7 +1344,7 @@
   skills:
     - Print Media
     - Photography/Photomanipulation
-  twitter: www.twitter.com/sndclshdsn 
+  twitter: www.twitter.com/sndclshdsn
   facebook: www.facebook.com/cameron.webb.125
   bio: I am Cameron, a print designer that is orientated towards mixing styles and genre of art and design for new yet nostalgic looking work.
   images:
