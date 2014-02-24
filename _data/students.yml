@@ -1208,7 +1208,7 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Grace Walker
-  id: lastname_firstname
+  id: _firstname
   skills:
     - UX/UI
     - Web
@@ -1217,7 +1217,7 @@
   facebook: www.facebook.com/
   behance: www.behance.net/
   linkedin: www.linkedin.com/pub/
-  bio:
+  bio: My voice is high and my dreams are big.
   images:
   - lastname-firstname-worktitle-thumb.jpg
   - lastname-firstname-worktitle.jpg
