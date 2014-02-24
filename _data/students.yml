@@ -790,107 +790,80 @@
   - macmillan-kelsey-orchardlogo.jpg
 
 - name: Alyster Mahoney
-  id: lastname_firstname
+  id: mahoney_alyster
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Web Design/Development
+    - Print Media
+  behance: www.behance.net/alymahoney
+  linkedin: www.linkedin.com/pub/aly-mahoney/66/723/739
+  website: mahoneydesign.ca
+  bio: Alyster is a designer in Ottawa with experience in UI/UX design and an adoration of print. He loves to inspire curiosity and simplify the complications of life.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - mahoney-alyster-darkknight-thumb.jpg
+  - mahoney-alyster-darkknight.jpg
+  - mahoney-alyster-jekyll-thumb.jpg
+  - mahoney-alyster-jekyll.jpg
+  - mahoney-alyster-oag-thumb.jpg
+  - mahoney-alyster-oag.jpg
+  - mahoney-alyster-spomenik-thumb.jpg
+  - mahoney-alyster-spomenik.jpg
+  - mahoney-alyster-thisamericanlife-thumb.jpg
+  - mahoney-alyster-thisamericanlife.jpg
 
 - name: Jacob Matte
-  id: lastname_firstname
+  id: matte_jacob
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+  behance: www.behance.net/JacobMatte
+  bio: I aim to be a valuable and lasting contributor in the design community by providing simple solutions with awesome execution.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - matte-jacob-canada150-thumb.jpg
+  - matte-jacob-canada150.jpg
+  - matte-jacob-overpopulationinfographic-thumb.jpg
+  - matte-jacob-overpopulationinfographic.jpg
+  - matte-jacob-shakespearesinteractivecircus-thumb.jpg
+  - matte-jacob-shakespearesinteractivecircus.jpg
 
 - name: Sylvia McCauley
-  id: lastname_firstname
+  id: mccauley_sylvia
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+  twitter: www.twitter.com/mccauleysylvia
+  behance: www.behance.net/sylviamccauley
+  vimeo: vimeo.com/user9161358
+  bio: My name is Sylvia, and I'm a graphic designer from Ottawa. I have a passion for print, motion graphics, storytelling, user interface design, and also waffles.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - mccauley-sylvia-auberges-coffee-table-book-thumb.jpg
+  - mccauley-sylvia-auberges-coffee-table-book.jpg
+  - mccauley-sylvia-turningpoint-branding-thumb.jpg
+  - mccauley-sylvia-turningpoint-branding.jpg
+  - mccauley-sylvia-tweed-infoposter-thumb.jpg
+  - mccauley-sylvia-tweed-infoposter.jpg
+  - mccauley-sylvia-wakefield-brewery-thumb.jpg
+  - mccauley-sylvia-wakefield-brewery.jpg
 
-- name: Jesus Monsalve
-  id: lastname_firstname
+- name: Jesus Monsalve _____________________________LINK TO VIDS
+  id: monsalve_jesus
   skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+  behance: www.behance.net/MonsalveDesign
+  linkedin: www.linkedin.com/pub/jesus-monsalve/60/274/b40
+  vimeo: vimeo.com/monsalvedesign
+  bio: Hi, my name is Jesus Monsalve. I specialize in print media, branding and motion graphics. I am prepared to become the best I can be!
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - monsalve-jesus-foodhuntapp-thumb.jpg
+  - monsalve-jesus-foodhuntapp.jpg
+  - monsalve-jesus-tiffany&coadvertisementcampaign-thumb.jpg
+  - monsalve-jesus-tiffany&coadvertisementcampaign.jpg
 
-- name: Grace Morton
-  id: lastname_firstname
+- name: Grace Morton _____________________________INCOMPLETE
+  id: morton_grace
   skills:
     - UX/UI
     - Web
@@ -915,6 +888,26 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Sabrina Ng
+  id: ng_sabrina
+  skills:
+    - UX/UI
+    - Print Media
+  twitter: www.twitter.com/ng_sabrina
+  behance: www.behance.net/ngsabrina
+  website: www.ngsabrina.com
+  vimeo: vimeo.com/ngsabrina
+  bio: Passionate about print, typography, UI, and pretty things. Always working hard to get better, one step at a time!
+  images:
+  - ng-sabrina-blacklagoon-thumb.jpg
+  - ng-sabrina-blacklagoon.jpg
+  - ng-sabrina-quiltypleasures-thumb.jpg
+  - ng-sabrina-quiltypleasures.jpg
+  - ng-sabrina-starcircus-thumb.jpg
+  - ng-sabrina-starcircus.jpg
+  - ng-sabrina-toothapp-thumb.jpg
+  - ng-sabrina-toothapp.jpg
+
+- name: Anna Odeh
   id: lastname_firstname
   skills:
     - UX/UI
@@ -939,8 +932,8 @@
   - lastname-firstname-worktitle-thumb.jpg
   - lastname-firstname-worktitle.jpg
 
-- name: Nadia Pietrobon
-  id: lastname_firstname
+- name: Nadia Pietrobon _____________________________INCOMPLETE
+  id: pietrobon_nadia
   skills:
     - UX/UI
     - Web
@@ -1040,31 +1033,6 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Robyn Rutherford
-  id: lastname_firstname
-  skills:
-    - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
-  images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-
-- name: Anna Odeh
   id: lastname_firstname
   skills:
     - UX/UI
