@@ -113,6 +113,7 @@
     - asif-sundus-seafoodgrill-thumb.jpg
     - asif-sundus-seafoodgrill.jpg
     - asif-sundus-socialgolfer-thumb.jpg
+    - LINK_TO_VID
     - asif-sundus-socialgolfer.jpg
     - asif-sundus-xahive-thumb.jpg
     - asif-sundus-xahive.jpg
@@ -138,6 +139,7 @@
   - badawi-dima-oldtouma-thumb.jpg
   - badawi-dima-oldtouma.jpg
   - badawi-dima-piggy_back-thumb.jpg
+  - LINK_TO_VID
   - badawi-dima-piggy_back.jpg
   - badawi-dima-xahive-thumb.jpg
   - badawi-dima-xahive.jpg
@@ -244,7 +246,7 @@
   - chamberlain-keisha-pms-thumb.jpg
   - chamberlain-keisha-pms.jpg
 
-- name: Cassandra-Lyne Chartrand _____________________________REVIEW BIO and IMAGES
+- name: Cassandra-Lyne Chartrand
   id: chartrand_cassandra
   skills:
     - UX/UI
@@ -252,16 +254,20 @@
     - Photography/Photomanipulation
   behance: www.behance.net/cassie-chartrand
   email: cassiechartrand@gmail.com
-  bio: Hey there, you can call me Cassie. I am a graphic designer and I have a wide range of skills, but my strongest points are print design, app/UI design and branding. I would like to improve and get the best experience out of my career! I also enjoy illustrating, photography and anything relating to cooking or cullinary. I would call them hobbies but most of them have influenced a few pieces of my portfolio work.
+  bio: Hey there, call me Cassie. I am a designer looking for a career that will improve my skills in print design, app/UI design and branding.
   images:
-  - chartrand_cassandra_piece1-thumb.jpg
-  - chartrand_cassandra_piece1.jpg
-  - chartrand_cassandra_piece1b-thumb.jpg
-  - chartrand_cassandra_piece1b.jpg
-  - chartrand_cassandra_piece2-thumb.jpg
-  - chartrand_cassandra_piece2.jpg
-  - chartrand_cassandra_piece3-thumb.jpg
-  - chartrand_cassandra_piece3.jpg
+  - chartrand_cassandra_worktile1-thumb.jpg
+  - chartrand_cassandra_worktile1.jpg
+  - chartrand_cassandra_worktile2-thumb.jpg
+  - chartrand_cassandra_worktile2.jpg
+  - chartrand_cassandra_worktile3-thumb.jpg
+  - chartrand_cassandra_worktile3.jpg
+  - chartrand_cassandra_worktile4-thumb.jpg
+  - chartrand_cassandra_worktile4.jpg
+  - chartrand_cassandra_worktile5-thumb.jpg
+  - chartrand_cassandra_worktile5.jpg
+  - chartrand_cassandra_worktile6-thumb.jpg
+  - chartrand_cassandra_worktile6.jpg
 
 - name: Jenny Chew
   id: chew_jenny
@@ -402,18 +408,14 @@
   linkedin: www.linkedin.com/pub/
   bio:
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - durkin-ian-algonquintheatre-filmnoiremock-thumb.jpg
+  - durkin-ian-algonquintheatre-filmnoiremock.jpg
+  - durkin-ian-izze-apple-ad-thumb.jpg
+  - durkin-ian-izze-apple-ad.jpg
+  - durkin-ian-nac-tshirt-thumb.jpg
+  - durkin-ian-nac-tshirt.jpg
+  - durkin-ian-tracksnatch-mockup-thumb.jpg
+  - durkin-ian-tracksnatch-mockup.jpg
 
 - name: Ashley Edmundson _____________________________INCOMPLETE
   id: edmundson_ashley
@@ -440,7 +442,7 @@
   - lastname-firstname-worktitle-thumb.jpg
   - lastname-firstname-worktitle.jpg
 
-- name: Robert Freeman _____________________________REVIEW WEBSITE
+- name: Robert Freeman
   id: freeman_robert
   skills:
     - Web Design/Development
@@ -498,6 +500,8 @@
   - goto-seita-chefonwheels.jpg
   - goto-seita-logos-thumb.jpg
   - goto-seita-logos.jpg
+  - goto-seita-rtv-thumb.jpg
+  - LINK_TO_VID
   - goto-seita-senba-thumb.jpg
   - goto-seita-senba.jpg
   - goto-seita-warmuseum-thumb.jpg
@@ -527,6 +531,8 @@
   - guindon-caroline-florence4.jpg
   - guindon-caroline-civilization5-thumb.jpg
   - guindon-caroline-civilization5.jpg
+  - guindon-caroline-motionmusic-thumb.jpg
+  - LINK_TO_VID
 
 - name: Kathryn Hallett
   id: hallett_kathryn
@@ -548,30 +554,27 @@
   - hallett-kathryn-hannahmckay-thumb.jpg
   - hallett-kathryn-hannahmckay.jpg
 
-- name: Andrew Ham _____________________________INCOMPLETE
+- name: Andrew Ham _____________________________LINKS TO VIDS
   id: ham_andrew
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio:
+    - Print Media
+    - Motion Graphics
+  vimeo: www.vimeo.com/andyham
+  bio: Hardworking, motivated, all topped off with a killer personality. I have an eye for good design and a passion for motion graphics.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - ham-andy-workpiece1-thumb.jpg
+  - ham-andy-workpiece1.jpg
+  - ham-andy-workpiece2-thumb.jpg
+  - ham-andy-workpiece2.jpg
+  - ham-andy-workpiece3-thumb.jpg
+  - ham-andy-workpiece3.jpg
+  - ham-andy-workpiece4-thumb.jpg
+  - LINK_TO_VID
+  - ham-andy-workpiece5-thumb.jpg
+  - LINK_TO_VID
+  - ham-andy-workpiece6-thumb.jpg
+  - LINK_TO_VID
 
 - name: Laura Harvey
   id: harvey_laura
@@ -580,7 +583,7 @@
     - Print Media
   twitter: www.twitter.com/laurahcreative
   behance: www.behance.net/laurahcreative
-  bio: I am a passionate designer and a nerd in all the right ways. Lover of movies, books and comics. Let`s create our own stories.
+  bio: I am a passionate designer and a nerd in all the right ways. Lover of movies, books and comics. Let's create our own stories.
   images:
   - harvey-laura-bucksbrewingco-thumb.jpg
   - harvey-laura-bucksbrewingco.jpg
@@ -859,8 +862,12 @@
   images:
   - monsalve-jesus-foodhuntapp-thumb.jpg
   - monsalve-jesus-foodhuntapp.jpg
+  - monsalve-jesus-seaturtleconservancylogoreveal-thumb.jpg
+  - LINK_TO_VID
   - monsalve-jesus-tiffany&coadvertisementcampaign-thumb.jpg
   - monsalve-jesus-tiffany&coadvertisementcampaign.jpg
+  - monsalve-jesus-tiffany&comotionvideo-thumb.jpg
+  - LINK_TO_VID
 
 - name: Grace Morton _____________________________INCOMPLETE
   id: morton_grace
@@ -1184,18 +1191,18 @@
   facebook: www.facebook.com/cameron.webb.125
   bio: I am Cameron, a print designer that is orientated towards mixing styles and genre of art and design for new yet nostalgic looking work.
   images:
-  - Webb-Cameron-Apagon-Thumb.jpg
-  - Webb-Cameron-Apagon.jpg
-  - Webb-Cameron-Baltimore-Book-Thumb.jpg
-  - Webb-Cameron-Baltimore-Book.jpg
-  - Webb-Cameron-CalvinJohnson-Thumb.jpg
-  - Webb-Cameron-CalvinJohnson.jpg
-  - Webb-Cameron-ChangingTheFaceOfPrivacy-Thumb.jpg
-  - Webb-Cameron-ChangingTheFaceOfPrivacy.jpg
-  - Webb-Cameron-Let'sGet-Thumb.jpg
-  - Webb-Cameron-Let'sGet.jpg
-  - Webb-Cameron-Revolver-Thumb.jpg
-  - Webb-Cameron-Revolver.jpg
+  - webb-cameron-apagon-thumb.jpg
+  - webb-cameron-apagon.jpg
+  - webb-cameron-baltimore-book-thumb.jpg
+  - webb-cameron-baltimore-book.jpg
+  - webb-cameron-calvin-johnson-thumb.jpg
+  - webb-cameron-calvin-johnson.jpg
+  - webb-cameron-changing-the-face-of-privacy-thumb.jpg
+  - webb-cameron-changing-the-face-of-privacy.jpg
+  - webb-cameron-lets-get-thumb.jpg
+  - webb-cameron-lets-get.jpg
+  - webb-cameron-revolver-thumb.jpg
+  - webb-cameron-revolver.jpg
 
 - name: Tirzah Wood
   id: wood_tirzah
@@ -1213,7 +1220,7 @@
   - wood-tirzah-octopi-poster-thumb.jpg
   - wood-tirzah-octopi-poster.jpg
   - wood-tirzah-tiffany-campaign-thumb.jpg
-  - wood-tirzah-tiffany-campain.jpg
+  - wood-tirzah-tiffany-campaign.jpg
   - wood-tirzah-wine-design-thumb.jpg
   - wood-tirzah-wine-design.jpg
   - wood-tirzah-wizards-tower-thumb.jpg
