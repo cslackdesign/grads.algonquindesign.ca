@@ -1,9 +1,11 @@
+/* Grey box around Profile*/
 .box {
 	background-color: #F2F2F2;
 	margin-bottom: 3em;
 	border: 1px solid #d9d9d9;
 	font: normal 100%/1.5 helvetica, arial, sans-serif;
 }
+
 
 .profile {
 	top: 0;
@@ -26,6 +28,7 @@
 	float: left;
 }
 
+
 .bio p {
 	margin-top: 5px;
 	margin-bottom: 5px;
@@ -41,6 +44,16 @@
 	margin: 5px 0;
 }
 
+.hearts {
+	background-position: top;
+	background-repeat:no-repeat;
+	background-size: 100%;
+	background-image: url(../img/hearts.png);
+	width: 6em;
+	margin: 0 1em;
+}
+
+
 .thumbnails {
 	display: inline-block;
 	top: 0;
@@ -54,12 +67,16 @@
 	cursor: pointer;
 }
 
+
 .item {
 	position: relative;
 	top: 0;
 	width: 100%;
 	z-index: 1;
 }
+
+
+/* Buttons*/
 
 .btn-close-profile {
 	text-align: center;
@@ -133,13 +150,4 @@
 .btn-prev-profile:hover,
 .btn-next-profile:hover {
 	color: #FED100;
-}
-
-.hearts {
-	background-position: top;
-	background-repeat:no-repeat;
-	background-size: 100%;
-	background-image: url(../img/hearts.png);
-	width: 6em;
-	margin: 0 1em;
 }
