@@ -1,9 +1,98 @@
 {% for student in site.data.students %}
+	<div id="{{student.id}}" class="profile">
+		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+			<button class="unit btn-close btn-close-profile" id="btn-close-profile"><p>❮ VIEW CLASS</p></button>
+		</div>
+
+		<div class="box grid">
+
+			<div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
+				<div class="btn-prev-profile unit" id="btn-prev-profile"><p>❮ Previous Student</p></div>
+			</div>
+			<div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
+				<div class="btn-next-profile unit" id="btn-next-profile"><p>Next Student ❯</p></div>
+			</div>
+
+			<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
+
+				<div class="unit unit-xs-1 unit-s-1-2 unit-m-1 unit-l-1">
+					{% for thumb in student.images %}
+					<div class="unit-spacer">
+						<img class="student-img" src="{{site.cdn}}/2014/profile/{{thumb}}" alt="">
+					</div>
+					{% endfor %}
+				</div>
+
+				<div class="unit unit-xs-1 unit-s-4-9 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+
+						<h2>{{student.name}}</h2>
+
+							<ul class="skills">
+								<li>Skills:</li>
+								{% for skill in student.skills %}
+								<li>{{skill}}<img class="hearts" src="img/hearts.png" alt=""></li>
+								{% endfor %}
+							</ul>
+					</div>
+				</div>
+
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+						<p>Bio:</p>
+						{% for bio in student.bio %}
+						<p>{{bio}}</p>
+						{% endfor %}
+							<ul>
+								{% if student.behance %}
+								<li><a class="social social3" href="https://{{student.behance}}" target="_blank"></a></li>
+								{% endif %}
+								{% if student.twitter %}
+								<li><a class="social social1" href="https://{{student.twitter}}" target="_blank"></a></li>
+								{% endif %}
+								{% if student.facebook %}
+								<li><a class="social social2" href="https://{{student.facebook}}" target="_blank"></a></li>
+								{% endif %}
+							</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
+
+				<div id="thumbnails" class="thumbnails grid">
+					{% for thumb in student.images %}
+					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
+						<div class="unit-spacer">
+							<a data-id="{{student.id}}-thumb" class="thumbnail-btn"><img class="thumbnail" src="{{site.cdn}}/2014/thumbs/{{thumb}}" alt=""></a>
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+
+				{% for thumb in student.images %}
+				<div id="{{student.id}}" class="item">
+					<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
+					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+						<div class="unit-spacer">
+							<img class="flex-img" src="{{site.cdn}}/2014/large/{{thumb}}" alt="">
+						</div>
+					</div>
+				</div>
+				{% endfor %}
+
+			</div>
+		</div>
+	</div>
+{% endfor %}
+
+<div id="MariamAbdulwahab" class="profile">
+
 	<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 		<button class="unit btn-close btn-close-profile" id="btn-close-profile"><p>❮ VIEW CLASS</p></button>
 	</div>
 
-	<div id="{{student.id}}" class="profile grid">
+	<div class="box grid">
 
 		<div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
 			<div class="btn-prev-profile unit" id="btn-prev-profile"><p>❮ Previous Student</p></div>
@@ -11,27 +100,21 @@
 		<div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
 			<div class="btn-next-profile unit" id="btn-next-profile"><p>Next Student ❯</p></div>
 		</div>
-
 		<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
-
 			<div class="unit unit-xs-1 unit-s-1-2 unit-m-1 unit-l-1">
-				{% for thumb in student.images %}
 				<div class="unit-spacer">
-					<img class="student-img" src="{{site.cdn}}/2014/profile/{{thumb}}" alt="">
+					<img class="student-img" src="http://placekitten.com/200/200" alt="">
 				</div>
-				{% endfor %}
 			</div>
 
 			<div class="unit unit-xs-1 unit-s-4-9 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
-
-					<h2>{{student.name}}</h2>
-
+					<h2>Mariam Abdulwahab</h2>
 						<ul class="skills">
 							<li>Skills:</li>
-							{% for skill in student.skills %}
-							<li>{{skill}}<img class="hearts" src="img/hearts.png" alt=""></li>
-							{% endfor %}
+							<li>UX/UI<img class="hearts" src="img/hearts.png" alt=""></li>
+							<li>Branding<img class="hearts" src="img/hearts.png" alt=""></li>
+							<li>Print<img class="hearts" src="img/hearts.png" alt=""></li>
 						</ul>
 				</div>
 			</div>
@@ -39,19 +122,11 @@
 			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 				<div class="unit-spacer">
 					<p>Bio:</p>
-					{% for bio in student.bio %}
-					<p>{{bio}}</p>
-					{% endfor %}
+					<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
 						<ul>
-							{% if student.behance %}
-							<li><a class="social social3" href="https://{{student.behance}}" target="_blank"></a></li>
-							{% endif %}
-							{% if student.twitter %}
-							<li><a class="social social1" href="https://{{student.twitter}}" target="_blank"></a></li>
-							{% endif %}
-							{% if student.facebook %}
-							<li><a class="social social2" href="https://{{student.facebook}}" target="_blank"></a></li>
-							{% endif %}
+							<li><a class="social social1" href="https://www.twitter.com/" target="_blank"></a></li>
+							<li><a class="social social2" href="https://www.facebook.com/" target="_blank"></a></li>
+							<li><a class="social social3" href="https://www.behance.net/" target="_blank"></a></li>
 						</ul>
 				</div>
 			</div>
@@ -60,153 +135,84 @@
 		<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
 
 			<div id="thumbnails" class="thumbnails grid">
-				{% for thumb in student.images %}
 				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
 					<div class="unit-spacer">
-						<a data-id="{{student.id}}-thumb" class="thumbnail-btn"><img class="thumbnail" src="{{site.cdn}}/2014/thumbs/{{thumb}}" alt=""></a>
+						<a data-id="item-0" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-0.jpg" alt=""></a>
 					</div>
 				</div>
-				{% endfor %}
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
+					<div class="unit-spacer">
+						<a data-id="item-1" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-1.jpg" alt=""></a>
+					</div>
+				</div>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
+					<div class="unit-spacer">
+						<a data-id="item-2" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-2.jpg" alt=""></a>
+					</div>
+				</div>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
+					<div class="unit-spacer">
+						<a data-id="item-3" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-3.jpg" alt=""></a>
+					</div>
+				</div>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
+					<div class="unit-spacer">
+						<a data-id="item-4" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-4.jpg" alt=""></a>
+					</div>
+				</div>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
+					<div class="unit-spacer">
+						<a data-id="item-5" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-5.jpg" alt=""></a>
+					</div>
+				</div>
 			</div>
 
-			{% for thumb in student.images %}
-			<div id="{{student.id}}" class="item">
+			<div id="item-0" class="item">
 				<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
 				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 					<div class="unit-spacer">
-						<img class="flex-img" src="{{site.cdn}}/2014/large/{{thumb}}" alt="">
+						<img class="flex-img" src="img/item-0.jpg" alt="item-1">
 					</div>
 				</div>
 			</div>
-			{% endfor %}
-
-		</div>
-	</div>
-{% endfor %}
-
-<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-	<button class="unit btn-close btn-close-profile" id="btn-close-profile"><p>❮ VIEW CLASS</p></button>
-</div>
-<div id="MariamAbdulwahab" class="profile box grid">
-
-	<div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
-		<div class="btn-prev-profile unit" id="btn-prev-profile"><p>❮ Previous Student</p></div>
-	</div>
-	<div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
-		<div class="btn-next-profile unit" id="btn-next-profile"><p>Next Student ❯</p></div>
-	</div>
-	<div data-id="bio" class="bio unit unit-xs-1 unit-s-1 unit-m-1-3 unit-l-1-4">
-		<div class="unit unit-xs-1 unit-s-1-2 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<img class="student-img" src="http://placekitten.com/200/200" alt="">
-			</div>
-		</div>
-
-		<div class="unit unit-xs-1 unit-s-4-9 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<h2>Mariam Abdulwahab</h2>
-					<ul class="skills">
-						<li>Skills:</li>
-						<li>UX/UI<img class="hearts" src="img/hearts.png" alt=""></li>
-						<li>Branding<img class="hearts" src="img/hearts.png" alt=""></li>
-						<li>Print<img class="hearts" src="img/hearts.png" alt=""></li>
-					</ul>
-			</div>
-		</div>
-
-		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-			<div class="unit-spacer">
-				<p>Bio:</p>
-				<p>Danish cookie powder. Wafer chocolate bar pudding sweet roll jujubes. Sweet roll tiramisu oat cake gummies wafer chocolate cotton lolly pop.</p>
-					<ul>
-						<li><a class="social social1" href="https://www.twitter.com/" target="_blank"></a></li>
-						<li><a class="social social2" href="https://www.facebook.com/" target="_blank"></a></li>
-						<li><a class="social social3" href="https://www.behance.net/" target="_blank"></a></li>
-					</ul>
-			</div>
-		</div>
-	</div>
-
-	<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-3-4">
-
-		<div id="thumbnails" class="thumbnails grid">
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
-				<div class="unit-spacer">
-					<a data-id="item-0" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-0.jpg" alt=""></a>
+			<div id="item-1" class="item">
+				<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+						<img class="flex-img" src="img/item-1.jpg" alt="item-2">
+					</div>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
-				<div class="unit-spacer">
-					<a data-id="item-1" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-1.jpg" alt=""></a>
+			<div id="item-2" class="item">
+				<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+						<img class="flex-img" src="img/item-2.jpg" alt="item-3">
+					</div>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
-				<div class="unit-spacer">
-					<a data-id="item-2" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-2.jpg" alt=""></a>
+			<div id="item-3" class="item">
+				<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+						<img class="flex-img" src="img/item-3.jpg" alt="item-4">
+					</div>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
-				<div class="unit-spacer">
-					<a data-id="item-3" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-3.jpg" alt=""></a>
+			<div id="item-4" class="item">
+				<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+						<img class="flex-img" src="img/item-4.jpg" alt="item-5">
+					</div>
 				</div>
 			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
-				<div class="unit-spacer">
-					<a data-id="item-4" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-4.jpg" alt=""></a>
-				</div>
-			</div>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
-				<div class="unit-spacer">
-					<a data-id="item-5" class="thumbnail-btn"><img class="thumbnail" src="img/thumbnail-5.jpg" alt=""></a>
-				</div>
-			</div>
-		</div>
-
-		<div id="item-0" class="item">
-			<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="img/item-0.jpg" alt="item-1">
-				</div>
-			</div>
-		</div>
-		<div id="item-1" class="item">
-			<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="img/item-1.jpg" alt="item-2">
-				</div>
-			</div>
-		</div>
-		<div id="item-2" class="item">
-			<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="img/item-2.jpg" alt="item-3">
-				</div>
-			</div>
-		</div>
-		<div id="item-3" class="item">
-			<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="img/item-3.jpg" alt="item-4">
-				</div>
-			</div>
-		</div>
-		<div id="item-4" class="item">
-			<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="img/item-4.jpg" alt="item-5">
-				</div>
-			</div>
-		</div>
-		<div id="item-5" class="item">
-			<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
-			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<div class="unit-spacer">
-					<img class="flex-img" src="img/item-5.jpg" alt="item-6">
+			<div id="item-5" class="item">
+				<button class="unit btn-close-item" id="btn-close-item">CLOSE X</button>
+				<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+					<div class="unit-spacer">
+						<img class="flex-img" src="img/item-5.jpg" alt="item-6">
+					</div>
 				</div>
 			</div>
 		</div>
