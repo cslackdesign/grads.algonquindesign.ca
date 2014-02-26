@@ -705,8 +705,6 @@ nav ul {
 
 }
 
-
-
 .map img {
 	margin: -6rem 0 0 -7em;
 	position: absolute;
@@ -805,6 +803,8 @@ footer{
 .center-all {
 	text-align:center;
 	margin:0 auto;
+	clear: both;
+    width: 100%;
 }
 
 hr {
