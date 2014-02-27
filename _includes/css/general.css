@@ -642,12 +642,9 @@ nav ul {
 
 @media only screen and (min-width: 25em) {
 	.stu-grid-box figcaption h3 {
-		font-size: 0.8em;
+		font-size: 0.7em;
 	}
 
-	.stu-grid-box figure:hover figcaption{
-		top: 40%;
-	}
 }
 
 
