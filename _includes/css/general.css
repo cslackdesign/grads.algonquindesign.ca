@@ -31,6 +31,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	top: 0;
 	left: 0;
 	z-index: 10000;
+	box-shadow: 0 5px 0px rgba(0, 0, 0, 0.07);
 }
 
 .header { /*This adds padding to the header*/
@@ -38,7 +39,11 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	padding: 15px;
 }
 
-
+@media only screen and (min-width: 30em) {
+	header {
+		box-shadow: 0 8px 1px rgba(0, 0, 0, 0.07);
+	}
+}
 
 /*----------------------------------------------------------------LANDING AREA*/
 
@@ -137,7 +142,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		margin-left: 7%;
 	}
 }*/
-
 
 .carousel-overlay .btn-open{
 	margin: 0;
@@ -512,6 +516,46 @@ nav ul {
 	padding-top: 5em;
 }
 
+#venue {
+	margin-top: -1.5em;
+	padding-top: 1.5em;
+}
+
+@media only screen and (min-width: 18em) {
+	#venue {
+		margin-top: -2.5em;
+		padding-top: 2.5em;
+	}
+}
+
+@media only screen and (min-width: 23em) {
+	#venue {
+		margin-top: -3em;
+		padding-top: 3em;
+	}
+}
+
+@media only screen and (min-width: 30em) {
+	#venue {
+		margin-top: 0em;
+		padding-top: 0em;
+	}
+}
+
+@media only screen and (min-width: 37em) {
+	#venue {
+		margin-top: -2.5em;
+		padding-top: 2.5em;
+	}
+}
+
+@media only screen and (min-width: 40em) {
+	#players {
+		margin-top: -6em;
+		padding-top: 6em;
+	}
+}
+
 /*---------------------------------------------------STUDENT AEREA SECTION TAG*/
 
 .student-area {
@@ -527,6 +571,12 @@ nav ul {
 	/*padding: -5rem 0 0 0;
 	margin:5rem 0 0 0;*/
 	background-color: transparent;
+}
+
+@media only screen and (min-width: 80em) {
+	.student-area-heading {
+		margin-top: -0.5em;
+	}
 }
 
 
@@ -582,6 +632,10 @@ nav ul {
 	display:none;
 }
 
+.h2-filter {
+	margin-bottom: 0.5rem;
+}
+
 @media only screen and (min-width: 80em){
 	.large-screen-filter {
 		display: inline-block;
@@ -594,7 +648,13 @@ nav ul {
 	#filter-legend {
 		background-color: #00ACCF;
 		color: #fff;
+		margin-top: 0;
 	}
+
+	.h2-filter {
+		margin-top: 0;
+	}
+
 }
 
 
@@ -694,7 +754,7 @@ nav ul {
 
 /*MAP AREA*/
 .map-section {
-	margin: 5rem 0 0 0;
+	margin-top: 2rem;
 	width: 100%;
 	height: 10em;
 	padding:0;
@@ -855,12 +915,16 @@ nav ul {
 
 .about-area {
 	padding: 1em;
+	padding-top: 0;
 	margin: 0;
 }
 
-@media only screen and (min-width: 40em) {
+
+
+@media only screen and (min-width: 30em) {
 	.about-area {
 		margin: 2em;
+		margin-top: 0.5em;
 	}
 }
 
