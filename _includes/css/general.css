@@ -249,7 +249,7 @@ h1 img{
 /*VIDEO AREA*/
 #video-placeholder {
 	position:relative;
-	margin-top:56.25%;
+	padding-top:56.25%;
 }
 
 #btn-open {
