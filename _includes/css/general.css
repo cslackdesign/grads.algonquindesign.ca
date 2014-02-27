@@ -13,7 +13,6 @@
 body {
   margin: 0;
   padding: 0;
-
   font-family: helvetica, arial, sans-serif;
 }
 
@@ -248,6 +247,17 @@ h1 img{
 }
 
 /*VIDEO AREA*/
+.vid{
+	width:100%;
+	height:100%;
+	position: relative;
+	top:0;
+	left:0;
+}
+
+#video-placeholder {
+	position:relative;
+}
 
 #btn-open {
 	text-align: center;
@@ -346,6 +356,7 @@ h1 img{
 
 	}
 }
+
 
 
 /* CLEARFIX */
