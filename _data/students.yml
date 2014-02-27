@@ -36,25 +36,23 @@
     - lastname-firstname-worktitle-thumb.jpg
     - lastname-firstname-worktitle-thumb.jpg
 
-- name: Alejandro Andrade _____________________________INCOMPLETE
+- name: Alejandro Andrade
   id: andrade-alejandro
   skills:
     - UX/UI
     - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
-  bio: >
+    - Motion Graphics
+    - Photography/Photomanipulation
+
+  twitter: www.twitter.com/malejandroa
+  facebook: www.facebook.com/pages/Alejandro-Andrade-Brand-Architect-Creative-Director/590106704404974
+  behance: www.behance.net/alejandroandrade
+  bio: >INCORRECT
 
   images:
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
+    - andrade-alejandro-asinabka-thumb.jpg
+    - andrade-alejandro-do-mkt-thumb.jpg
+    - andrade-alejandro-do-mkt.jpg
 
 - name: Nick Appolon _____________________________REVIEW BIO
   id: appolon-nick
