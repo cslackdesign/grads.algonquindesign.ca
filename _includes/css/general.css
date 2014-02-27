@@ -683,12 +683,91 @@ nav ul {
 
 }
 
+.map {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
 
-@media only screen and (min-width: 30em){
+.map img {
+	width: 35%;
+	margin-top: 20px;
+	margin-left: 1%;
+	position: absolute;
+}
+
+@media only screen and (min-width: 18em) {
+	.map img {
+		width: 33%;
+		margin-left: 2%;
+		margin-top: 2%;
+	}
+}
+
+@media only screen and (min-width: 23em) {
+	.map img {
+		width: 30%;
+		margin-left: 6%;
+	}
+}
+
+@media only screen and (min-width: 30em) {
 	.map-section {
 		height: 20em;
 	}
+
+	.map img {
+		margin-left: 4%;
+		margin-top: 10%;
+		opacity: 0;
+		-webkit-transform: translateY(40px);
+	}
+
+	@-webkit-keyframes logo-fly {
+	  0% {
+	    opacity:0;
+	    -webkit-transform: translateY(40px);
+	  }
+
+	  40%{
+	    opacity:1;
+	  }
+
+	  100%{
+	    opacity:1;
+	    -webkit-transform: translateY(0);
+	  }
+	}
+	.js-map-animate {
+		-webkit-animation: logo-fly 1s ease-out 1 forwards;
+	}
 }
+
+@media only screen and (min-width: 37em) {
+	.map img {
+		margin-left: 5%;
+		margin-top: 5%;
+	}
+}
+
+@media only screen and (min-width: 45em) {
+	.map img {
+		width: 25%;
+		margin-left: 9%;
+		margin-top: 3%;
+	}
+}
+
+@media only screen and (min-width: 60em) {
+	.map img {
+		width: 18%;
+		margin-left: 12%;
+		margin-top: 1%;
+	}
+}
+
+/*@media only screen and (min-width: 30em){
+
 
 .map {
   margin:0;
@@ -749,7 +828,7 @@ nav ul {
 
 .js-map-animate {
   -webkit-animation: logo-fly 1s ease-out 1 forwards;
-}
+}*/
 
 .about-area {
 	padding: .4em;
