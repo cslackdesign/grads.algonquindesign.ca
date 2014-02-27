@@ -28,6 +28,9 @@
 	float: left;
 }
 
+.bio {
+	padding: 1em;
+}
 
 .bio p {
 	margin-top: 5px;
@@ -35,7 +38,6 @@
 }
 
 .bio h2 {
-	font-weight: normal;
 	margin: 0;
 	padding: 0;
 }
@@ -53,6 +55,9 @@
 	margin: 0 1em;
 }
 
+.work {
+	padding: 1em;
+}
 
 .thumbnails {
 	display: inline-block;
