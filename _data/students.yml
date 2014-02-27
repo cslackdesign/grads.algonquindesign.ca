@@ -36,7 +36,7 @@
     - lastname-firstname-worktitle-thumb.jpg
     - lastname-firstname-worktitle-thumb.jpg
 
-- name: Alejandro Andrade (Manuel Andradecalderon) _____________________________INCOMPLETE
+- name: Alejandro Andrade _____________________________INCOMPLETE
   id: andrade-alejandro
   skills:
     - UX/UI
@@ -212,12 +212,12 @@
   bio: >
     Hey there, call me Cassie. I am a designer looking for a career that will improve my skills in print design, app/UI design and branding.
   images:
-  - chartrand_cassandra_worktile1-thumb.jpg
-  - chartrand_cassandra_worktile2-thumb.jpg
-  - chartrand_cassandra_worktile3-thumb.jpg
-  - chartrand_cassandra_worktile4-thumb.jpg
-  - chartrand_cassandra_worktile5-thumb.jpg
-  - chartrand_cassandra_worktile6-thumb.jpg
+  - chartrand-cassandra-worktile1-thumb.jpg
+  - chartrand-cassandra-worktile2-thumb.jpg
+  - chartrand-cassandra-worktile3-thumb.jpg
+  - chartrand-cassandra-worktile4-thumb.jpg
+  - chartrand-cassandra-worktile5-thumb.jpg
+  - chartrand-cassandra-worktile6-thumb.jpg
 
 - name: Jenny Chew
   id: chew-jenny
@@ -592,13 +592,9 @@
     Welcome to my little section of the website!
   images:
   - lim-jillian-1-thumb.jpg
-  - lim-jillian-1.jpg
   - lim-jillian-2-thumb.jpg
-  - lim-jillian-2.jpg
   - lim-jillian-3-thumb.jpg
-  - lim-jillian-3.jpg
   - lim-jillian-4-thumb.jpg
-  - lim-jillian-4.jpg
 
 - name: Nick Macdougall
   id: macdougall-nick
@@ -613,13 +609,9 @@
     Born and raised in Ottawa, Ontario – Nick McD is a designer who specializes in branding and identity.
   images:
   - macdougall-nick-la-belle-poutine-thumb.jpg
-  - macdougall-nick-la-belle-poutine.jpg
   - macdougall-nick-letters-for-change-thumb.jpg
-  - macdougall-nick-letters-for-change.jpg
   - macdougall-nick-style-wars-thumb.jpg
-  - macdougall-nick-style-wars.jpg
   - macdougall-nick-wzdm-co-thumb.jpg
-  - macdougall-nick-wzdm-co.jpg
 
 - name: Kelsey MacMillan
   id: macmillan-kelsey
@@ -630,11 +622,8 @@
     I am an inspired, enthusiastic print graphic designer, ready for new experiences in the design world.
   images:
   - macmillan-kelsey-john-thumb.jpg
-  - macmillan-kelsey-john.jpg
   - macmillan-kelsey-oldred-thumb.jpg
-  - macmillan-kelsey-oldred.jpg
   - macmillan-kelsey-orchardlogo-thumb.jpg
-  - macmillan-kelsey-orchardlogo.jpg
 
 - name: Alyster Mahoney
   id: mahoney-alyster
@@ -649,15 +638,10 @@
     Alyster is a designer in Ottawa with experience in UI/UX design and an adoration of print. He loves to inspire curiosity and simplify the complications of life.
   images:
   - mahoney-alyster-darkknight-thumb.jpg
-  - mahoney-alyster-darkknight.jpg
   - mahoney-alyster-jekyll-thumb.jpg
-  - mahoney-alyster-jekyll.jpg
   - mahoney-alyster-oag-thumb.jpg
-  - mahoney-alyster-oag.jpg
   - mahoney-alyster-spomenik-thumb.jpg
-  - mahoney-alyster-spomenik.jpg
   - mahoney-alyster-thisamericanlife-thumb.jpg
-  - mahoney-alyster-thisamericanlife.jpg
 
 - name: Jacob Matte
   id: matte-jacob
@@ -669,11 +653,8 @@
     I aim to be a valuable and lasting contributor in the design community by providing simple solutions with awesome execution.
   images:
   - matte-jacob-canada150-thumb.jpg
-  - matte-jacob-canada150.jpg
   - matte-jacob-overpopulationinfographic-thumb.jpg
-  - matte-jacob-overpopulationinfographic.jpg
   - matte-jacob-shakespearesinteractivecircus-thumb.jpg
-  - matte-jacob-shakespearesinteractivecircus.jpg
 
 - name: Sylvia McCauley
   id: mccauley-sylvia
@@ -688,13 +669,9 @@
     My name is Sylvia, and I'm a graphic designer from Ottawa. I have a passion for print, motion graphics, storytelling, user interface design, and also waffles.
   images:
   - mccauley-sylvia-auberges-coffee-table-book-thumb.jpg
-  - mccauley-sylvia-auberges-coffee-table-book.jpg
   - mccauley-sylvia-turningpoint-branding-thumb.jpg
-  - mccauley-sylvia-turningpoint-branding.jpg
   - mccauley-sylvia-tweed-infoposter-thumb.jpg
-  - mccauley-sylvia-tweed-infoposter.jpg
   - mccauley-sylvia-wakefield-brewery-thumb.jpg
-  - mccauley-sylvia-wakefield-brewery.jpg
 
 - name: Jesus Monsalve _____________________________LINK TO VIDS
   id: monsalve-jesus
@@ -720,28 +697,21 @@
 - name: Grace Morton _____________________________INCOMPLETE
   id: morton-grace
   skills:
-    - UX/UI
-    - Web
+    - Illustration
+    - Print Media
+    - Photography/Photomanipulation
     - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+  behance: www.behance.net/gracemorton
+  twitter: www.twitter.com/GraySeaCreative
+  vimeo: www.vimeo.com/gracemorton
   bio: >
-
+    My drive to design thrives off of inspiration from natural elements & organic movement. I believe design is in the details & should evoke a sense of emotion from viewers.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle.jpg
+  - morton-grace-casm-redesign-thumb.jpg
+  - morton-grace-forest-gate-properties-thumb.jpg
+  - morton-grace-izze-juice-thumb.jpg
+  - morton-grace-neck-of-the-woods-thumb.jpg
+  - morton-grace-summer-wind-thumb.jpg
 
 - name: Sabrina Ng
   id: ng-sabrina
@@ -751,7 +721,7 @@
   twitter: www.twitter.com/ng_sabrina
   behance: www.behance.net/ngsabrina
   website: www.ngsabrina.com
-  vimeo: vimeo.com/ngsabrina
+  vimeo: www.vimeo.com/ngsabrina
   bio: >
     Passionate about print, typography, UI, and pretty things. Always working hard to get better, one step at a time!
   images:
@@ -1024,8 +994,8 @@
   - walker-grace-singingbones-thumb.jpg
   - walker-grace-singingbones.jpg
 
-- name: Maddison Watson
-  id: watson-maddison
+- name: Maddi Watson
+  id: watson-maddi
   skills:
     - Print Media
     - Illustration
