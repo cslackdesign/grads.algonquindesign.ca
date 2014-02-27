@@ -85,11 +85,15 @@
 						<div class="unit-spacer">
 							<img class="flex-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{thumb | replace:'-thumb','' }}" alt="">
 						</div>
+					<button class="unit btn-close-item-bottom" id="btn-close-item" data-id="{{student.id}}-thumbnails">CLOSE X</button>
 					</div>
 				</div>
 				{% endfor %}
 
 			</div>
+		</div>
+		<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
+			<button class="unit btn-close btn-close-profile" id="btn-close-profile"><p>❮ VIEW CLASS</p></button>
 		</div>
 	</div>
 {% endfor %}
