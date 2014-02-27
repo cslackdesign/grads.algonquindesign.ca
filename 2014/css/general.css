@@ -21,6 +21,20 @@ img {
 	width: 100%;
 }
 
+/* LAUNCH PAGE */
+.launch-bg {
+	background: url('../img/landing-banner-placeholder.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.time-wrapper {
+	padding: 10em 10em 10em 10em;
+}
+
+
 /*--------------------------------CSS#1: NAV & LANDING - Nick, Jillian, Robert*/
 
 header {	/*This fixes the nav at the top, and determines the nav color*/
@@ -634,7 +648,6 @@ nav ul {
 @media only screen and (min-width: 60em) {
 
 }
-
 
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
