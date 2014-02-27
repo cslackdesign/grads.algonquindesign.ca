@@ -1,7 +1,7 @@
 /* Grey box around Profile*/
 .box {
 	background-color: #F2F2F2;
-	margin-bottom: 3em;
+	margin-bottom: 8px;
 	border: 1px solid #d9d9d9;
 	font: normal 100%/1.5 helvetica, arial, sans-serif;
 }
@@ -114,6 +114,22 @@
 	cursor: pointer;
 	position: absolute;
 	top: 8px;
+	right: 8px;
+	outline: none;
+	}
+
+.btn-close-item-bottom {
+	height: 40px;
+	text-align: center;
+	line-height: 24px;
+	border: 2px solid #00ACCC;
+	background-color: #00ACCC;
+	color: #fff;
+	padding: 0 1em;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	bottom: 15px;
 	right: 8px;
 	outline: none;
 	}
