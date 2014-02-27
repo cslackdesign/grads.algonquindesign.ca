@@ -45,40 +45,11 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .landing {
 	width: 100%;
-
 	background-color: #00ACCF;
-
-
   margin: 0;
   padding:0;
-
   height: 13.5rem;
 }
-
-@media only screen and (min-width: 30em){
-
-	.landing {
-		height: 25em;
-		background-color: transparent;
-	}
-}
-
-@media only screen and (min-width: 50em){
-
-	.landing {
-		height: 30em;
-		background-color: transparent;
-	}
-}
-
-@media only screen and (min-width: 60em){
-
-	.landing {
-		height: 40em;
-		background-color: transparent;
-	}
-}
-
 
 
 /*CAROUSEL OVER LAY*/
