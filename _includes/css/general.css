@@ -397,7 +397,7 @@ h1 img{
 .social,
 .social-f {
 	padding: 20px;
-	background-color: #ccc;
+	background-color: #00ACCF;
 	margin-right: 10px;
 }
 
@@ -830,8 +830,16 @@ nav ul {
   -webkit-animation: logo-fly 1s ease-out 1 forwards;
 }*/
 
+
 .about-area {
-	padding: .4em;
+	padding: 1em;
+	margin: 0;
+}
+
+@media only screen and (min-width: 40em) {
+	.about-area {
+		margin: 2em;
+	}
 }
 
 .info ul li{ /*controls div around location and date*/
