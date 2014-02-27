@@ -30,17 +30,11 @@
 
   images:
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
 
 - name: Alejandro Andrade (Manuel Andradecalderon) _____________________________INCOMPLETE
   id: andrade-alejandro
@@ -56,17 +50,11 @@
 
   images:
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
     - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle.jpg
 
 - name: Nick Appolon _____________________________REVIEW BIO
   id: appolon-nick
@@ -366,7 +354,7 @@
   - lastname-firstname-worktitle.jpg
 
 - name: Steven Donegani
-  id: donegani-steven
+  id: donegani-steve
   skills:
     - Print Media
     - Motion Graphics
@@ -383,9 +371,7 @@
     Steven Donegani is talented illustrator/Graphic Designer. He currently works in Ottawa. He enjoys spending quality time with his cat Rufus.
   images:
   - donegani-steve-adventuretime-thumb.jpg
-  - donegani-steve-adventuretime.jpg
   - donegani-steve-hi-thumb.jpg
-  - donegani-steve-hi.jpg
 
 - name: Lindsay Dupuis
   id: dupuis-lindsay
