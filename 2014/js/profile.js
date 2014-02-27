@@ -56,9 +56,11 @@ $('.btn-close-item').click(function () {
   });
 });
 
-$('.btn-close-item-bottom').click(function () {
+$('.btn-close-item-bottom').click(function (e) {
   var id = $(this).data('id');
+  e.preventDefault();
   $(this).parents('.item').fadeOut(400);
+window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 8);
   $('#' + id).fadeIn({
     duration: 400,
     start: function () {
