@@ -13,6 +13,12 @@
     backface-visibility: hidden;
 }
 
+.flip-clock-label {
+  margin: 0 auto;
+  text-align: center;
+  color: ;
+}
+
 .flip-clock-wrapper a {
   cursor: pointer;
   text-decoration: none;
@@ -50,8 +56,6 @@
 .flip-clock-wrapper {
   text-align: center;
   position: relative;
-  width: 100%;
-  margin: 1em;
 }
 
 .flip-clock-wrapper:before,
@@ -66,7 +70,7 @@
 /* Skeleton */
 .flip-clock-wrapper ul {
   position: relative;
-  float: left;
+  display: inline-block;
   margin: 5px;
   width: 60px;
   height: 90px;
@@ -175,7 +179,6 @@
   z-index: 5; }
 
 .flip-clock-divider {
-  float: left;
   display: inline-block;
   position: relative;
   width: 20px;
