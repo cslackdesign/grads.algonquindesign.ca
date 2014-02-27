@@ -12,6 +12,8 @@ $('#btn-open').on('click', function(){
   $dialog.get(0).showModal();
   //show() --> allows multiple dialogs
   //showModal() --> Single dialog, with no user interaction behind
+
+
 });
 
 $('#close-btn').on('click', function(){
