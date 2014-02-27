@@ -1,9 +1,11 @@
 $('.profile').hide();
 
 //Open Profile
-$('#student-section').on('click', '.student-section-btn', function () {
+$('#student-section').on('click', '.student-section-btn', function (e) {
   var id = $(this).data('id');
+  e.preventDefault();
   $('#student-section').fadeOut(400);
+window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 10);
   $('#' + id).fadeIn({
     duration: 800,
     start: function () {
@@ -28,8 +30,9 @@ $('.item').hide();
 
 // Open Thumbnail
 
-$('.thumbnails').on('click', '.thumbnail-btn', function () {
+$('.thumbnails').on('click', '.thumbnail-btn', function (e) {
   var id = $(this).data('id');
+  e.preventDefault();
   $(this).parents('.thumbnails').fadeOut(400);
   $('#' + id).fadeIn({
     duration: 800,
@@ -42,7 +45,7 @@ $('.thumbnails').on('click', '.thumbnail-btn', function () {
 //Close Thumbnail
 
 $('.btn-close-item').click(function () {
-	var id = $(this).data('id');
+  var id = $(this).data('id');
   $(this).parents('.item').fadeOut(400);
   $('#' + id).fadeIn({
     duration: 400,
@@ -88,6 +91,6 @@ $('.prev-btn-profile').click(function() {
 });*/
 
 $(window).on('resize', function () {
-  $('#work-wrap').height($('#' + openWork).outerHeight());
+//  $('#work-wrap').height($('#' + openWork).outerHeight());
 });
 
