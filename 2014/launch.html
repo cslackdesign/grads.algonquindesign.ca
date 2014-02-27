@@ -13,10 +13,10 @@ layout: launch
 			$(document).ready(function() {
 
 				// Grab the current date
-				var currentDate = new Date();
+				var currentDate = new Date(2014,02,27);
 
 				// Set some date in the future. In this case, it's always Jan 1
-				var futureDate  = new Date(currentDate.getFullYear() + 1, 0, 1);
+				var futureDate  = new Date(currentDate.getFullYear() + 2014, 03, 13);
 
 				// Calculate the difference in seconds between the future and current date
 				var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
