@@ -44,13 +44,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .landing {
 	width: 100%;
-	background-color: #00ACCF;
+	/*background-color: #00ACCF;*/
   margin: 0;
   padding:0;
-  height: 13.5rem;
+  /*height: 13.5rem;*/
 }
 
-@media only screen and (min-width: 30em){
+/*@media only screen and (min-width: 30em){
 
  	.landing {
  		height: 25em;
@@ -72,7 +72,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
  		height: 40em;
  		background-color: transparent;
  	}
- }
+ }*/
 
 
 /*CAROUSEL OVER LAY*/
@@ -153,6 +153,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	position: relative;
 	padding: 0 0 52.6%;
 	margin: 5rem 0 0 0;
+	background-color: #fdd103;
 }
 
 .carousel img {
@@ -179,26 +180,37 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .carousel-buttons .next {
 	float: right;
+	background-image: url('../img/carousel/next-btn.png');
+}
+
+.carousel-buttons .prev {
+	background-image: url('../img/carousel/prev-btn.png');
+}
+
+.carousel-buttons .next,
+.carousel-buttons .prev {
 	width: 45px;
 	height: 45px;
 
 	background-color: transparent;
 	border: none;
-	background-image: url('../img/carousel/next-btn.png');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
 @media only screen and (min-width: 50em) {
-	.carousel-buttons .next{
+	.carousel-buttons .next,
+	.carousel-buttons .prev {
 		width: 60px;
 		height: 60px;
 	}
 }
 
 @media only screen and (min-width: 75em) {
-	.carousel-buttons .next{
+
+	.carousel-buttons .next,
+	.carousel-buttons .prev {
 		width: 100px;
 		height: 100px;
 	}
@@ -208,48 +220,20 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .carousel-buttons .next:active,
 .carousel-buttons .next:focus {
 	background-image: url('../img/carousel/next-btn-hover.png');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100%;
-
-		-webkit-transition: all .3s ease-in-out;
-		-moz-transition: all .3s ease-in-out;
-		-ms-transition: all .3s ease-in-out;
-		-o-transition: all .3s ease-in-out;
-		transition: all .3s ease-in-out;
-
-}
-
-.carousel-buttons .prev {
-	width: 45px;
-	height: 45px;
-
-	background-color: transparent;
-	border: none;
-	background-image: url('../img/carousel/prev-btn.png');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100%;
-}
-
-@media only screen and (min-width: 50em) {
-	.carousel-buttons .prev{
-		width: 60px;
-		height: 60px;
-	}
-}
-
-@media only screen and (min-width: 75em) {
-	.carousel-buttons .prev{
-		width: 100px;
-		height: 100px;
-	}
 }
 
 .carousel-buttons .prev:hover,
 .carousel-buttons .prev:active,
 .carousel-buttons .prev:focus {
 	background-image: url('../img/carousel/prev-btn-hover.png');
+}
+
+.carousel-buttons .next:hover,
+.carousel-buttons .next:active,
+.carousel-buttons .next:focus,
+.carousel-buttons .prev:hover,
+.carousel-buttons .prev:active,
+.carousel-buttons .prev:focus {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -259,7 +243,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		-ms-transition: all .3s ease-in-out;
 		-o-transition: all .3s ease-in-out;
 		transition: all .3s ease-in-out;
+}
 
+@media only screen and (min-width: 80em) {
+	.carousel {
+		background-color: transparent;
+	}
 }
 
 /*VIDEO AREA*/
@@ -518,6 +507,11 @@ nav ul {
 
 }
 
+#players {
+	margin-top: -5em;
+	padding-top: 5em;
+}
+
 /*---------------------------------------------------STUDENT AEREA SECTION TAG*/
 
 .student-area {
@@ -531,7 +525,7 @@ nav ul {
 .student-area-heading {
 	text-align: center;
 	padding: -5rem 0 0 0;
-	margin:5rem 0 0 0;
+	/*margin:5rem 0 0 0;*/
 	background-color: transparent;
 }
 
@@ -549,26 +543,18 @@ nav ul {
 }
 
 
-@media only screen and (min-width: 80em){
-	.large-screen-filter {
-		display: inline-block;
-	}
-
-	.small-screen-filter {
-		display: none;
-	}
-}
-
-
 #filter-legend {
-	background-color: #00ACCF;
-	color: #fff;
+	background-color: #fdd103;
+	color: #000;
+	/*background-color: #00ACCF;
+	color: #fff;*/
 	width: 100%;
 	padding: 15px;
 
 	max-width: 1500px;
 
 	margin: 0 auto;
+	margin-top: -1em;
 }
 
 #filter-legend ul {
@@ -591,10 +577,24 @@ nav ul {
 	transition: all 250ms linear;
 }
 
-
 #Grid .mix{
 	opacity:0;
 	display:none;
+}
+
+@media only screen and (min-width: 80em){
+	.large-screen-filter {
+		display: inline-block;
+	}
+
+	.small-screen-filter {
+		display: none;
+	}
+
+	#filter-legend {
+		background-color: #00ACCF;
+		color: #fff;
+	}
 }
 
 
