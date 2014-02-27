@@ -47,13 +47,14 @@
   twitter: www.twitter.com/malejandroa
   facebook: www.facebook.com/pages/Alejandro-Andrade-Brand-Architect-Creative-Director/590106704404974
   behance: www.behance.net/alejandroandrade
-  bio: >INCORRECT
+  bio: >
+    INCORRECT
 
   images:
     - andrade-alejandro-asinabka-thumb.jpg
     - andrade-alejandro-do-mkt-thumb.jpg
 
-- name: Nick Appolon _____________________________REVIEW BIO
+- name: Nick Appolon
   id: appolon-nick
   skills:
     - UX/UI
@@ -64,11 +65,11 @@
   twitter: www.twitter.com/nick88999
   vimeo: vimeo.com/user16334766
   bio: >
-    Im a 24 year old student and I absolutely love what I do, and have a never ending passion when it comes to design.
+    I’m a 24 year old student and I absolutely love what I do. I’ve always enjoyed illustrating, and I am very much into everything web related!
   images:
-  - appolon-nick-nas-thumb.jpg
-  - appolon-nick-raptors-app-thumb.jpg
-  - appolon-nick-the-piano-mans-daughter-thumb.jpg
+  - applolon-nick-layout-thumb.jpg
+  - appolon-nick-bookcover-thumb.jpg
+  - appolon-nick-raptors-thumb.jpg
 
 - name: Sundus Asif _____________________________MP4 VID
   id: asif-sundus
