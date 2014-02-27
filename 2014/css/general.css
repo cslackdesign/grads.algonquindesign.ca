@@ -893,6 +893,10 @@ hr {
 		float:left;
 	}
 
+	.about-area{
+		padding: 0 2em;
+	}
+
 	.date{
 		width:50%;
 		float:right;
