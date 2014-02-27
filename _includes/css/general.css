@@ -247,16 +247,9 @@ h1 img{
 }
 
 /*VIDEO AREA*/
-.vid{
-	width:100%;
-	height:100%;
-	position: relative;
-	top:0;
-	left:0;
-}
-
 #video-placeholder {
 	position:relative;
+	margin-top:56.25%;
 }
 
 #btn-open {
