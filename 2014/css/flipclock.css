@@ -1,3 +1,16 @@
+/* LAUNCH PAGE */
+.launch-bg {
+	background: url('../img/landing-banner-placeholder.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.time-wrapper {
+	padding: 10em 10em 10em 10em;
+}
+
 /* Get the bourbon mixin from http://bourbon.io */
 /* Reset */
 .flip-clock-wrapper * {
