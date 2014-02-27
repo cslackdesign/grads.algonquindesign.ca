@@ -5,7 +5,7 @@ $('#student-section').on('click', '.student-section-btn', function (e) {
   var id = $(this).data('id');
   e.preventDefault();
   $('#student-section').fadeOut(400);
-window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 10);
+window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 8);
   $('#' + id).fadeIn({
     duration: 800,
     start: function () {
