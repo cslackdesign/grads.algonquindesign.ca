@@ -14,11 +14,13 @@ dialog {
 }
 
 dialog::backdrop {
-  background-color: rgba(253,208,5,0.5);
+  display: block;
+  background-color: rgba(0,255,0,0.5);
 }
 
 dialog + .backdrop {
-  background-color: rgba(253,208,5,0.5);
+  display: block;
+  background-color: rgba(0,0,0,0.5);
 }
 
 #close-btn {
@@ -32,3 +34,5 @@ dialog + .backdrop {
   font-weight: bold;
   cursor: pointer;
 }
+
+
