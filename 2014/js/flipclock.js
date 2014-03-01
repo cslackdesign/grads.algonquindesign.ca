@@ -1,5 +1,3 @@
-/*jshint smarttabs:true */
-
 var FlipClock;
 	
 /**
@@ -544,6 +542,7 @@ var FlipClock;
 			];	
 			
 			return $(html.join(''));
+
 		},
 		
 		/**
@@ -1392,5 +1391,7 @@ var FlipClock;
 	$.fn.flipClock = function(digit, options) {
 		return $.fn.FlipClock(digit, options);
 	};
+
+	
 	
 }(jQuery));
