@@ -65,10 +65,7 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-2-3">
-			<div class="thumb-scroll-to-position" id="thumb-scroll-to-position"></div>
-
 				<div id="{{student.id}}-thumbnails" class="thumbnails grid">
 					{% for thumb in student.images %}
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
@@ -85,6 +82,9 @@
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 						<div class="unit-spacer">
 							<img class="flex-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{thumb | replace:'-thumb','' }}" alt="">
+								{% if student.video %}
+								<li><a class="social social4" href="https://{{student.email}}" target="_blank"></a></li>
+								{% endif %}
 						</div>
 					<button class="unit btn-close-item-bottom" id="btn-close-item" data-id="{{student.id}}-thumbnails">CLOSE X</button>
 					</div>
