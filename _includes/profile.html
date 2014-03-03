@@ -73,8 +73,8 @@
 			<!--- Work Section -->
 			<div class="work unit unit-xs-1 unit-s-1 unit-m-2-3 unit-l-2-3 grid">
 
-				<!--- Thumb button -->
 				<div id="{{student.id}}-thumbnails" class="thumbnails grid">
+				<!--- Thumb button -->
 					{% for thumb in student.images %}
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
 						<div class="unit-spacer">
@@ -82,6 +82,7 @@
 						</div>
 					</div>
 					{% endfor %}
+				<!--- Video button -->
 					{% for video in student.video %}
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
 						<div class="unit-spacer">
@@ -104,14 +105,13 @@
 				</div>
 				{% endfor %}
 
-
 				<!--- Video embed -->
 				{% for video in student.video %}
 				<div id="{{student.id}}-button-{{forloop.index}}" class="item">
 					<button class="unit btn-close-item" id="btn-close-item" data-id="{{student.id}}-thumbnails">CLOSE X</button>
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 						<div class="unit-spacer">
-							<div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+							<div>{{student.video-link}}</div>
 						</div>
 						<div class="unit-spacer">
 							<img class="flex-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{button | replace:'-button','' }}" alt="">

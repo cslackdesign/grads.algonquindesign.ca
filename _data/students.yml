@@ -86,7 +86,9 @@
     - asif-sundus-xahive-thumb.jpg
   video:
     - asif-sundus-socialgolfer-button.jpg
-#    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  video-link :
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+
 - name: Dima Badawi VIDEO NEEDED
   id: badawi-dima
   skills:
