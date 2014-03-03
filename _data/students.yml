@@ -16,25 +16,20 @@
     - abdulwahab-mariam-jetlog-thumb.jpg
     - abdulwahab-mariam-kufioliveoil-thumb.jpg
 
-- name: Stephanie Albert _____________________________INCOMPLETE
+- name: Stephanie Albert
   id: albert-stephanie
   skills:
     - UX/UI
     - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+    - Print
+    - Photography/Photomanipulation
+  twitter: https://twitter.com/stephbydesign
   bio: >
+  Obsessed with the automotive industry and good UX. Also responds to Miss. Sassy-pants.
 
   images:
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
-    - lastname-firstname-worktitle-thumb.jpg
+    - albert-stephanie-dutchcourage-thumb.jpg
+    - albert-stephanie-warmuseumrebrand-thumb.jpg
 
 - name: Alejandro Andrade
   id: andrade-alejandro
