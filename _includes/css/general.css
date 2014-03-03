@@ -465,6 +465,42 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 	.nav-logo a:hover,
 	.nav-logo a:focus,
+	.nav-logo a:active {
+		background-image: url(../img/logo-icon_yellow.png);
+	}
+
+	.icon-venue a:hover,
+	.icon-venue a:focus,
+	.icon-venue a:active {
+		background-image: url(../img/social-media/instagram-hover.png);
+	}
+
+	.icon-students a:hover,
+	.icon-students a:focus,
+	.icon-students a:active {
+		background-image: url(../img/social-media/instagram-hover.png);
+	}
+
+	.social1:hover,
+	.social1:focus,
+	.social1:active {
+		background-image: url(../img/social-media/twitter-hover.png);
+	}
+
+	.social2:hover,
+	.social2:focus,
+	.social2:active {
+		background-image: url(../img/social-media/facebook-hover.png);
+	}
+
+	.social3:hover,
+	.social3:focus,
+	.social3:active {
+		background-image: url(../img/social-media/behance-hover.png);
+	}
+
+	.nav-logo a:hover,
+	.nav-logo a:focus,
 	.nav-logo a:active,
 	.nav-btn a:hover,
 	.nav-btn a:focus,
@@ -478,8 +514,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social1:active,
 	.social2:active,
 	.social3:active{
-		 opacity: 0.4;
-
 
 		-webkit-transition: all .3s ease-in-out;
 		-moz-transition: all .3s ease-in-out;
