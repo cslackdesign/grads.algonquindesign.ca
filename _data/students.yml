@@ -25,7 +25,7 @@
     - Photography/Photomanipulation
   twitter: https://twitter.com/stephbydesign
   bio: >
-  Obsessed with the automotive industry and good UX. Also responds to Miss. Sassy-pants.
+    Obsessed with the automotive industry and good UX. Also responds to Miss. Sassy-pants.
 
   images:
     - albert-stephanie-dutchcourage-thumb.jpg
@@ -66,7 +66,7 @@
   - appolon-nick-bookcover-thumb.jpg
   - appolon-nick-raptors-thumb.jpg
 
-- name: Sundus Asif _____________________________MP4 VID
+- name: Sundus Asif VIDEO NEEDED
   id: asif-sundus
   skills:
     - UX/UI
@@ -88,7 +88,7 @@
     - asif-sundus-socialgolfer-video.jpg
     - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-- name: Dima Badawi _____________________________MP4 VID
+- name: Dima Badawi VIDEO NEEDED
   id: badawi-dima
   skills:
     - UX/UI
@@ -142,25 +142,26 @@
   - beaton-lisa-poster-2-thumb.jpg
   - beaton-lisa-poster-3-thumb.jpg
 
-- name: Amy Brown _____________________________INCOMPLETE
+- name: Amy Brown
   id: brown-amy
   skills:
     - UX/UI
     - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+    - Print Media
+    - Motion Graphics
+    - Photography/Photomanipulation
+  vimeo: https://vimeo.com/amuelb
+  behance: https://www.behance.net/amuelb
+  linkedin: ca.linkedin.com/amuelb
   bio: >
+    Jack of all trades, coffee addict, part-time photographer, full-time designer and half-time Pokémon master.
 
   images:
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle-thumb.jpg
-  - lastname-firstname-worktitle-thumb.jpg
+  - brown-amy-aviation-thumb.jpg
+  - brown-amy-justshave-thumb.jpg
+  - brown-amy-meetme-thumb.jpg
+  - brown-amy-newyork-thumb.jpg
+  - brown-amy-starbucks-thumb.jpg
 
 - name: Stephanie Cansfield
   id: cansfield-stephanie
@@ -206,12 +207,12 @@
   bio: >
     Hey there, call me Cassie. I am a designer looking for a career that will improve my skills in print design, app/UI design and branding.
   images:
-  - chartrand-cassandra-worktile1-thumb.jpg
-  - chartrand-cassandra-worktile2-thumb.jpg
-  - chartrand-cassandra-worktile3-thumb.jpg
-  - chartrand-cassandra-worktile4-thumb.jpg
-  - chartrand-cassandra-worktile5-thumb.jpg
-  - chartrand-cassandra-worktile6-thumb.jpg
+  - chartrand-cassandra-work1-thumb.jpg
+  - chartrand-cassandra-work2-thumb.jpg
+  - chartrand-cassandra-work3-thumb.jpg
+  - chartrand-cassandra-work4-thumb.jpg
+  - chartrand-cassandra-work5-thumb.jpg
+  - chartrand-cassandra-work6-thumb.jpg
 
 - name: Jenny Chew
   id: chew-jenny
@@ -231,7 +232,7 @@
   - chew-jenny-thebasementboys-thumb.jpg
   - chew-jenny-warmuseum-thumb.jpg
 
-- name: Mansura Chowdhury _____________________________REVIEW GITHUB WEBSITE
+- name: Mansura Chowdhury
   id: chowdhury-mansura
   skills:
     - UX/UI
@@ -265,20 +266,20 @@
   - csanky-stephanie-perfume_packaging-thumb.jpg
   - csanky-stephanie-rolling_stone_spread-thumb.jpg
 
-- name: Jamie Dean _____________________________INCOMPLETE
+- name: Jamie Dean
   id: dean-jamie
   skills:
-    - UX/UI
-    - Web
-    - Branding
+    - Print
+    - Illustration
   twitter: www.twitter.com/
   facebook: www.facebook.com/
   behance: www.behance.net/
   linkedin: www.linkedin.com/pub/
   bio: >
-
+    In my spare time I'm a media enthusiast, photographer, baseball fan, hip hop lover, beard grower & generally a pretty cool dude.
   images:
-  - lastname-firstname-worktitle-thumb.jpg
+  - dean-jamie-illustration-thumb.jpg
+  - dean-jamie-printdesign-thumb.jpg
 
 - name: Steven Donegani
   id: donegani-steve
@@ -298,6 +299,7 @@
     Steven Donegani is talented illustrator/Graphic Designer. He currently works in Ottawa. He enjoys spending quality time with his cat Rufus.
   images:
   - donegani-steve-adventuretime-thumb.jpg
+  - donegani-steve-hi-thumb.jpg
 
 - name: Lindsay Dupuis
   id: dupuis-lindsay
@@ -332,20 +334,24 @@
   - durkin-ian-nac-tshirt-thumb.jpg
   - durkin-ian-tracksnatch-mockup-thumb.jpg
 
-- name: Ashley Edmundson _____________________________INCOMPLETE
+- name: Ashley Edmundson
   id: edmundson-ashley
   skills:
     - UX/UI
-    - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+    - Print
+    - Motion Graphics
+    - Illustration
+  twitter: https://twitter.com/Ashenart89
+  dribble: http://dribbble.com/Ashenart
+  behance: https://www.behance.net/ashenart
   bio: >
+    Originally from the west coast, I'm a dreamer with a love of adventure and the arts. My main focus is in branding, UX/UI, and illustration.
 
   images:
-  - lastname-firstname-worktitle-thumb.jpg
+  - edmundson-ashley-motivationalposter-thumb.jpg
+  - edmundson-ashley-nfpbranding-thumb.jpg
+  - edmundson-ashley-pinnaclebranding-thumb.jpg
+  - edmundson-ashley-ragtimebranding-thumb.jpg
 
 - name: Robert Freeman
   id: freeman-robert
@@ -362,7 +368,7 @@
   - freeman-robert-dessert-thumb.jpg
   - freeman-robert-packaging-thumb.jpg
 
-- name: James Gollner _____________________________INCOMPLETE
+- name: James Gollner NEED BIO
   id: gollner-james
   skills:
     - UX/UI
@@ -375,7 +381,11 @@
   bio: >
 
   images:
-  - lastname-firstname-worktitle-thumb.jpg
+  - gollner-james-bonsai-thumb.jpg
+  - gollner-james-cupcake-thumb.jpg
+  - gollner-james-kreon-thumb.jpg
+  - gollner-james-minto-thumb.jpg
+  - gollner-james-woodstock-thumb.jpg
 
 - name: Seita Goto _____________________________LINK TO VID
   id: goto-seita
@@ -483,11 +493,11 @@
   bio: >
     Passionate about illustration, web design, and painting, known for my love of Vincent Van Gogh, Ray LaMontagne, and travelling the world.
   images:
-  - hay-jessica-climbing_everest-thumb.jpg
+  - hay-jessica-climbingeverest-thumb.jpg
   - hay-jessica-creativitea-thumb.jpg
   - hay-jessica-dinner-thumb.jpg
-  - hay-jessica-organized_crime-thumb.jpg
-  - hay-jessica-pair-app-thumb.jpg
+  - hay-jessica-organizedcrime-thumb.jpg
+  - hay-jessica-pairapp-thumb.jpg
 
 - name: Lianne Hébert
   id: hebert-lianne
@@ -738,20 +748,22 @@
   - odeh-anna-samburubeer-thumb.jpg
   - odeh-anna-thelostpirate-thumb.jpg
 
-- name: Nadia Pietrobon _____________________________INCOMPLETE
+- name: Nadia Pietrobon
   id: pietrobon-nadia
   skills:
-    - UX/UI
+    - Print
     - Web
-    - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+    - Illustration
+  twitter: https://twitter.com/nadiajpietrobon
+  facebook: https://www.facebook.com/nadiapietrobon
+  behance: https://www.behance.net/NadiaPietrobon
   bio: >
+    As a designer and illustrator, my mind's always working on the creative edge. Expressive, lively and I'm always up for a challenge.
 
   images:
-  - lastname-firstname-worktitle-thumb.jpg
+  - pietrobon-nadia-artwork-thumb.jpg
+  - pietrobon-nadia-brand-thumb.jpg
+  - pietrobon-nadia-poster-thumb.jpg
 
 - name: Sheena Ravary
   id: ravary-sheena
