@@ -1392,9 +1392,4 @@ var FlipClock;
 		return $.fn.FlipClock(digit, options);
 	};
 
-<<<<<<< HEAD
-=======
-	
-	
->>>>>>> FETCH_HEAD
 }(jQuery));

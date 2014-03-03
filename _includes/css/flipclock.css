@@ -1,28 +1,22 @@
 /* LAUNCH PAGE */
+
 .launch-bg {
-	background: url('../img/launch.png') no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-  background-color: #01ADD0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #282828;
 }
-
-.time-wrapper {
-
-} 
 
 .lvl-14 {
   margin: 0 auto;
-  width: 100%;
+  padding-top: 8em;
   text-align: center;
-  margin-top: 250px;
-  padding-bottom: 2em;
 }
 
-h1 {
-  font-family: 'Press Start 2P', cursive;
-  color: #FFFFFF;
+.logo-img {
+  width: 100%;
+  display: block;
 }
 
 /* Get the bourbon mixin from http://bourbon.io */
@@ -98,7 +92,7 @@ h1 {
 /* Skeleton */
 .flip-clock-wrapper ul {
   position: relative;
-  display: inline-block;
+  display: block;
   margin: 5px;
   width: 30px;
   height: 90px;
@@ -107,6 +101,8 @@ h1 {
   line-height: 87px;
   border-radius: 6px;
   background: #000;
+  margin: 0 auto;
+  margin-bottom: 10px;
 }
 
 .flip-clock-wrapper ul li {
@@ -210,13 +206,15 @@ h1 {
   display: inline-block;
   position: relative;
   width: 20px;
-  height: 100px; }
+  height: 100%;
+  margin-top: 30px;
+}
 
 .flip-clock-divider:first-child {
   width: 0; }
 
 .flip-clock-dot {
-  display: block;
+  display: none;
   background: #323434;
   width: 10px;
   height: 10px;
@@ -457,3 +455,15 @@ h1 {
 
   100% {
     opacity: 0; } }
+
+@media only screen and (min-width: 30em) {
+.launch-bg {
+  background: url('../img/launch.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #01ADD0;
+}
+
+}
