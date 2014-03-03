@@ -82,6 +82,9 @@
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 						<div class="unit-spacer">
 							<img class="flex-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{thumb | replace:'-thumb','' }}" alt="">
+								{% if student.video %}
+								<li><a class="social social4" href="https://{{student.email}}" target="_blank"></a></li>
+								{% endif %}
 						</div>
 					<button class="unit btn-close-item-bottom" id="btn-close-item" data-id="{{student.id}}-thumbnails">CLOSE X</button>
 					</div>
