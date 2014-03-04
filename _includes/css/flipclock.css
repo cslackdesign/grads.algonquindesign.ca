@@ -19,6 +19,31 @@
   display: block;
 }
 
+.info {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2em;
+  background-color: #FFFFFF;
+}
+
+h2 {
+  font-family: helvetica, arial, sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  color: #01ADD0;
+}
+
+.info p {
+  font-family: helvetica, arial, sans-serif;
+  color: #282828;
+  text-align: center;
+  line-height: 0.8em;
+}
+
+.complete-2 {
+  padding: 2em 0 1em 0;
+}
+
 /* Get the bourbon mixin from http://bourbon.io */
 /* Reset */
 .flip-clock-wrapper * {
@@ -78,6 +103,7 @@
 .flip-clock-wrapper {
   text-align: center;
   position: relative;
+  padding-bottom: 6em;
 }
 
 .flip-clock-wrapper:before,
@@ -457,13 +483,107 @@
     opacity: 0; } }
 
 @media only screen and (min-width: 30em) {
-.launch-bg {
-  background: url('../img/launch.png') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  background-color: #01ADD0;
+  .launch-bg {
+    background: url('../img/launch.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #01ADD0;
+  }
+
+.flip-clock-wrapper {
+  padding-bottom: 0em;
 }
 
+  .flip-clock-wrapper ul {
+    display: inline-block;
+    margin-bottom: 0;
+    margin: 5px;
+  }
+
+  .flip-clock-divider {
+  height: 100px;
+  margin-top: 0px;
+}
+
+.flip-clock-dot {
+  display: block;
+  background: #323434;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  left: 5px; }
+
+  .top {
+    display: none;
+  }
+
+  .logo-img {
+    padding-bottom: 2.5em;
+  }
+
+  .lvl-14 {
+    padding: 3em 3em 2em 3em;
+    margin-top: 140px;
+    text-align: center;
+  }
+
+  .info {
+    background-color: transparent;
+    padding: 1em;
+  }
+
+  .info p {
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    line-height: 0.5em;
+  }
+
+  h2 {
+    letter-spacing: 0.02em;
+  }
+
+.links {
+  display: inline-block;
+  margin-top: 105px;
+}
+
+.links {
+  padding: 20px;
+  background-color: #ccc;
+  margin-left: 10px;
+}
+
+  footer {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+  .logo-img {
+    display: block;
+    width: 18%;
+    margin: 0 auto;
+  }
+
+  .links {
+  display: inline-block;
+  margin-top: 103.9px;
+}
+}
+
+@media only screen and (min-width: 90em) {
+  .logo-img {
+    display: block;
+    width: 13%;
+    margin: 0 auto;
+  }
+
+  .links {
+  display: inline-block;
+  margin-top: 98.5px;
+}
 }
