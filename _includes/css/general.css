@@ -459,8 +459,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social1:hover,
 	.social2:hover,
 	.social3:hover {
-		background-color: #0F0;
-		background-position: bottom;
+		background-color: #FFF;
+		background-position: top;
 	}
 
 	.nav-logo a:hover,
