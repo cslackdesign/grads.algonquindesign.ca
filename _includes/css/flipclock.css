@@ -527,7 +527,7 @@ h2 {
 
   .lvl-14 {
     padding: 3em 3em 2em 3em;
-    margin-top: 140px;
+    margin-top: 300px;
     text-align: center;
   }
 
@@ -562,6 +562,50 @@ h2 {
   }
 }
 
+@media only screen and (min-width: 35em) {
+  .lvl-14 {
+    margin-top: 220px;
+  }
+
+  .links {
+    margin-top: 34.6%;
+  }
+}
+
+@media only screen and (min-width: 41em) {
+  .lvl-14 {
+    margin-top: 220px;
+  }
+
+  .links {
+    margin-top: 29.4%;
+  }
+}
+
+@media only screen and (min-width: 47em) {
+  .lvl-14 {
+    margin-top: 225px;
+  }
+
+  .links {
+    margin-top: 24.9%;
+  }
+}
+
+@media only screen and (min-width: 53em) {
+  .logo-img {
+    margin-top: -70px;
+  }
+
+  .lvl-14 {
+    margin-top: 290px;
+  }
+
+  .links {
+    margin-top: 22%;
+  }
+}
+
 @media only screen and (min-width: 60em) {
   .logo-img {
     display: block;
@@ -569,21 +613,45 @@ h2 {
     margin: 0 auto;
   }
 
+  .lvl-14 {
+    margin-top: 220px;
+  }
+
   .links {
   display: inline-block;
-  margin-top: 103.9px;
+  margin-top: 19.95%;
 }
 }
 
 @media only screen and (min-width: 90em) {
   .logo-img {
     display: block;
-    width: 13%;
+    width: 12%;
     margin: 0 auto;
+  }
+
+  .lvl-14 {
+    margin-top: 215px;
   }
 
   .links {
   display: inline-block;
-  margin-top: 98.5px;
+  margin-top: 13.6%;
 }
 }
+
+
+@media only screen and (min-width: 119em) {
+  .logo-img {
+    width: 9%;
+  }
+
+  .lvl-14 {
+    margin-top: 215px;
+  }
+
+  .links {
+    margin-top: 10.15%;
+  }
+}
+
