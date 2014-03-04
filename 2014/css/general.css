@@ -398,15 +398,15 @@ h1 img{
 }
 
 .icon-logo a{
-	background-image: url(../img/logo-icon.jpg);
+	background-image: url({{site.cdn}}/img/logo-icon.jpg);
 }
 
 .icon-venue a{
-	background-image: url(../img/map-icon.png);
+	background-image: url({{site.cdn}}/img/map-icon.png);
 }
 
 .icon-students a{
-	background-image: url(../img/profile.jpg);
+	background-image: url({{site.cdn}}/img/profile.jpg);
 }
 
 .icon-logo a,
@@ -426,15 +426,15 @@ h1 img{
 	}
 
 	.social1 {
-		background-image: url(../img/social-media/twitter.png);
+		background-image: url({{site.cdn}}/img/social-media/twitter.png);
 	}
 
 	.social2 {
-		background-image: url(../img/social-media/facebook.png);
+		background-image: url({{site.cdn}}/img/social-media/facebook.png);
 	}
 
 	.social3 {
-		background-image: url(../img/social-media/behance.png);
+		background-image: url({{site.cdn}}/img/social-media/instagram.png);
 	}
 
 	.social1:hover,
@@ -686,12 +686,6 @@ nav ul {
 @media only screen and (min-width: 30em){
 	.map-section {
 		height: 20em;
-	}
-}
-
-@media only screen and (min-width: 50em){
-	.map-section {
-		height: 60em;
 	}
 }
 
