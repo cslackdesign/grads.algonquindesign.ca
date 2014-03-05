@@ -93,7 +93,11 @@ $('.btn-prev-profile').click(function() {
   });
 });
 
+
+/*
 $(window).on('resize', function () {
   $('#student-section').height($('#' + openWork).outerHeight());
  });
+
+*/
 
