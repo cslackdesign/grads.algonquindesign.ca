@@ -1,3 +1,7 @@
+$(".profile img").error(function(){
+  $(this).hide();
+});
+
 $('.profile').hide();
 
 //Open Profile
@@ -8,9 +12,6 @@ $('#student-section').on('click', '.student-section-btn', function (e) {
 window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 8);
   $('#' + id).fadeIn({
     duration: 800,
-    start: function () {
-     // $('#student-section-wrap').height($('#' + id).outerHeight());
-    }
   });
 });
 
@@ -19,9 +20,6 @@ $('.btn-close-profile').click(function () {
   $(this).parents('.profile').fadeOut(400);
   $('#student-section').fadeIn({
     duration: 800,
-    start: function () {
-      //$('#student-section-wrap').height($('#student-section').outerHeight());
-    }
   });
 });
 
@@ -37,9 +35,6 @@ $('.thumbnails').on('click', '.thumbnail-btn', function (e) {
 window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 8);
   $('#' + id).fadeIn({
     duration: 800,
-    start: function () {
-      //$('#thumbnails-wrap').height($('#' + id).outerHeight());
-    }
   });
 });
 
@@ -50,9 +45,6 @@ $('.btn-close-item').click(function () {
   $(this).parents('.item').fadeOut(400);
   $('#' + id).fadeIn({
     duration: 800,
-    start: function () {
-      //$('#thumbnails-wrap').height($('#thumbnails-section').outerHeight());
-    }
   });
 });
 
@@ -63,9 +55,6 @@ $('.btn-close-item-bottom').click(function (e) {
 window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead').outerHeight() - 8);
   $('#' + id).fadeIn({
     duration: 800,
-    start: function () {
-      //$('#thumbnails-wrap').height($('#thumbnails-section').outerHeight());
-    }
   });
 });
 

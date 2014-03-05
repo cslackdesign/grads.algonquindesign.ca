@@ -59,6 +59,10 @@
 	padding: 1em;
 }
 
+.work img {
+	background-color: #00ACCF;
+}
+
 .thumbnails {
 	display: inline-block;
 	top: 0;

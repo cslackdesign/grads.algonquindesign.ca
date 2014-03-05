@@ -62,11 +62,11 @@
   bio: >
     I’m a 24 year old student and I absolutely love what I do. I’ve always enjoyed illustrating, and I am very much into everything web related!
   images:
-  - applolon-nick-layout-thumb.jpg
-  - appolon-nick-bookcover-thumb.jpg
-  - appolon-nick-raptors-thumb.jpg
+    - applolon-nick-layout-thumb.jpg
+    - appolon-nick-bookcover-thumb.jpg
+    - appolon-nick-raptors-thumb.jpg
 
-- name: Sundus Asif #VIDEO NEEDED
+- name: Sundus Asif
   id: asif-sundus
   skills:
     - UX/UI
@@ -85,11 +85,11 @@
     - asif-sundus-seafoodgrill-thumb.jpg
     - asif-sundus-xahive-thumb.jpg
   video:
-    - asif-sundus-socialgolfer-button.jpg
-  video-link :
+    - asif-sundus-socialgolfer-thumb.jpg
+  video-link:
     - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-- name: Dima Badawi #VIDEO NEEDED
+- name: Dima Badawi
   id: badawi-dima
   skills:
     - UX/UI
@@ -104,12 +104,14 @@
   bio: >
     When I design, I'm inspired by the roads of Damascus, sunshine, doodles, and vintage signs. I'm a Persian art fan, and a tireless seeker of knowledge.
   images:
-  - badawi-dima-itgetsbetter-thumb.jpg
-  - badawi-dima-obelix&co-thumb.jpg
-  - badawi-dima-oldtouma-thumb.jpg
-  - badawi-dima-piggy_back-thumb.jpg
-  - LINK_TO_VID
-  - badawi-dima-xahive-thumb.jpg
+    - badawi-dima-itgetsbetter-thumb.jpg
+    - badawi-dima-obelix-co-thumb.jpg
+    - badawi-dima-oldtouma-thumb.jpg
+    - badawi-dima-xahive-thumb.jpg
+  video:
+    - badawi-dima-piggy-back-thumb.jpg
+  video-link:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81326455" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 - name: Emily Barclay
   id: barclay-emily
@@ -137,11 +139,11 @@
   bio: >
     Graphic Design is my career. Advertising is my passion. Photography is my love. I'm completely obsessed with colour. And, oh, I love cats.
   images:
-  - beaton-lisa-mobile-1-thumb.jpg
-  - beaton-lisa-mobile-2-thumb.jpg
-  - beaton-lisa-poster-1-thumb.jpg
-  - beaton-lisa-poster-2-thumb.jpg
-  - beaton-lisa-poster-3-thumb.jpg
+    - beaton-lisa-mobile-1-thumb.jpg
+    - beaton-lisa-mobile-2-thumb.jpg
+    - beaton-lisa-poster-1-thumb.jpg
+    - beaton-lisa-poster-2-thumb.jpg
+    - beaton-lisa-poster-3-thumb.jpg
 
 - name: Amy Brown
   id: brown-amy
@@ -158,11 +160,11 @@
     Jack of all trades, coffee addict, part-time photographer, full-time designer and half-time Pokémon master.
 
   images:
-  - brown-amy-aviation-thumb.jpg
-  - brown-amy-justshave-thumb.jpg
-  - brown-amy-meetme-thumb.jpg
-  - brown-amy-newyork-thumb.jpg
-  - brown-amy-starbucks-thumb.jpg
+    - brown-amy-aviation-thumb.jpg
+    - brown-amy-justshave-thumb.jpg
+    - brown-amy-meetme-thumb.jpg
+    - brown-amy-newyork-thumb.jpg
+    - brown-amy-starbucks-thumb.jpg
 
 - name: Stephanie Cansfield
   id: cansfield-stephanie
@@ -175,10 +177,10 @@
   bio: >
     I'm a quirky artist with a love for print and web design. Doodling, exercising, watching horror films, and cuddling cats sums up my life.
   images:
-  - cansfield-stephanie-aviationlogo-thumb.jpg
-  - cansfield-stephanie-baskinrobbins-thumb.jpg
-  - cansfield-stephanie-luckybagels-thumb.jpg
-  - cansfield-stephanie-smithfalls-thumb.jpg
+    - cansfield-stephanie-aviationlogo-thumb.jpg
+    - cansfield-stephanie-baskinrobbins-thumb.jpg
+    - cansfield-stephanie-luckybagels-thumb.jpg
+    - cansfield-stephanie-smithfalls-thumb.jpg
 
 - name: Keisha Chamberlain
   id: chamberlain-keisha
@@ -192,10 +194,10 @@
   bio: >
     I love Graphic Design and I am very passionate about Branding, Editorial and Poster Layout Design. My best work is inspired by Jazz!
   images:
-  - chamberlain-keisha-cic-thumb.jpg
-  - chamberlain-keisha-curly_q-thumb.jpg
-  - chamberlain-keisha-jill_scott-thumb.jpg
-  - chamberlain-keisha-pms-thumb.jpg
+    - chamberlain-keisha-cic-thumb.jpg
+    - chamberlain-keisha-curly_q-thumb.jpg
+    - chamberlain-keisha-jill_scott-thumb.jpg
+    - chamberlain-keisha-pms-thumb.jpg
 
 - name: Cassandra-Lyne Chartrand
   id: chartrand-cassandra
@@ -208,12 +210,12 @@
   bio: >
     Hey there, call me Cassie. I am a designer looking for a career that will improve my skills in print design, app/UI design and branding.
   images:
-  - chartrand-cassandra-work1-thumb.jpg
-  - chartrand-cassandra-work2-thumb.jpg
-  - chartrand-cassandra-work3-thumb.jpg
-  - chartrand-cassandra-work4-thumb.jpg
-  - chartrand-cassandra-work5-thumb.jpg
-  - chartrand-cassandra-work6-thumb.jpg
+    - chartrand-cassandra-work1-thumb.jpg
+    - chartrand-cassandra-work2-thumb.jpg
+    - chartrand-cassandra-work3-thumb.jpg
+    - chartrand-cassandra-work4-thumb.jpg
+    - chartrand-cassandra-work5-thumb.jpg
+    - chartrand-cassandra-work6-thumb.jpg
 
 - name: Jenny Chew
   id: chew-jenny
@@ -349,7 +351,6 @@
   behance: https://www.behance.net/ashenart
   bio: >
     Originally from the west coast, I'm a dreamer with a love of adventure and the arts. My main focus is in branding, UX/UI, and illustration.
-
   images:
   - edmundson-ashley-motivationalposter-thumb.jpg
   - edmundson-ashley-nfpbranding-thumb.jpg
@@ -390,7 +391,7 @@
   - gollner-james-minto-thumb.jpg
   - gollner-james-woodstock-thumb.jpg
 
-- name: Seita Goto #LINK TO VID
+- name: Seita Goto
   id: goto-seita
   skills:
     - Print Media
@@ -405,13 +406,15 @@
   images:
   - goto-seita-chefonwheels-thumb.jpg
   - goto-seita-logos-thumb.jpg
-  - goto-seita-rtv-thumb.jpg
-  #- LINK_TO_VID
   - goto-seita-senba-thumb.jpg
   - goto-seita-warmuseum-thumb.jpg
   - goto-seita-wolfpack-thumb.jpg
+  video:
+    - goto-seita-rtv-thumb.jpg
+  video-link:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/78564029" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-- name: Caroline Guindon #LINK TO VID
+- name: Caroline Guindon
   id: guindon-caroline
   skills:
     - UX/UI
@@ -424,13 +427,15 @@
   bio: >
     “A great daughter, a great friend, a great person and the greatest graphic designer.” —proudly quoted by my Mom
   images:
-  - guindon-caroline-vino1-thumb.jpg
-  - guindon-caroline-space2-thumb.jpg
-  - guindon-caroline-boulder-thumb.jpg
-  - guindon-caroline-florence4-thumb.jpg
-  - guindon-caroline-civilization5-thumb.jpg
-  - guindon-caroline-motionmusic-thumb.jpg
-  #- LINK_TO_VID
+    - guindon-caroline-vino1-thumb.jpg
+    - guindon-caroline-space2-thumb.jpg
+    - guindon-caroline-boulder-thumb.jpg
+    - guindon-caroline-florence4-thumb.jpg
+    - guindon-caroline-civilization5-thumb.jpg
+  video:
+    - guindon-caroline-motionmusic-thumb.jpg
+  video-link:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81207970" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 - name: Kathryn Hallett
   id: hallett-kathryn
@@ -459,15 +464,22 @@
   bio: >
     Hardworking, motivated, all topped off with a killer personality. I have an eye for good design and a passion for motion graphics.
   images:
-  - ham-andy-workpiece1-thumb.jpg
-  - ham-andy-workpiece2-thumb.jpg
-  - ham-andy-workpiece3-thumb.jpg
-  - ham-andy-workpiece4-thumb.jpg
-  #- LINK_TO_VID
-  - ham-andy-workpiece5-thumb.jpg
-  #- LINK_TO_VID
-  - ham-andy-workpiece6-thumb.jpg
-  #- LINK_TO_VID
+    - ham-andy-workpiece1-thumb.jpg
+    - ham-andy-workpiece2-thumb.jpg
+    - ham-andy-workpiece3-thumb.jpg
+  video:
+    - ham-andy-workpiece4-thumb.jpg
+    #- 86451028
+    - ham-andy-workpiece5-thumb.jpg
+    #- 78585883
+    - ham-andy-workpiece6-thumb.jpg
+    #- 75184017
+  video-link:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/86451028" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  video-link2:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/78585883" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  video-link3:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/75184017" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 - name: Laura Harvey
   id: harvey-laura
