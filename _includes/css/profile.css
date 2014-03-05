@@ -83,26 +83,6 @@
 	z-index: 1;
 }
 
-.videos {
-	display: inline-block;
-	top: 0;
-	z-index: 0;
-  width: 100%;
-}
-
-.video {
-  display: block;
-  width: 100%;
-	cursor: pointer;
-}
-
-.vid {
-	position: relative;
-	top: 0;
-	width: 100%;
-	z-index: 1;
-}
-
 /* Buttons*/
 
 .btn-close-profile {
