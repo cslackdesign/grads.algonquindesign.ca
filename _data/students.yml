@@ -23,10 +23,9 @@
     - Web
     - Print
     - Photography/Photomanipulation
-  twitter: https://twitter.com/stephbydesign
+  twitter: twitter.com/stephbydesign
   bio: >
     Obsessed with the automotive industry and good UX. Also responds to Miss. Sassy-pants.
-
   images:
     - albert-stephanie-dutchcourage-thumb.jpg
     - albert-stephanie-warmuseumrebrand-thumb.jpg
@@ -38,13 +37,11 @@
     - Web
     - Motion Graphics
     - Photography/Photomanipulation
-
   twitter: www.twitter.com/malejandroa
   facebook: www.facebook.com/pages/Alejandro-Andrade-Brand-Architect-Creative-Director/590106704404974
   behance: www.behance.net/alejandroandrade
   bio: >
     INCORRECT
-
   images:
     - andrade-alejandro-asinabka-thumb.jpg
     - andrade-alejandro-do-mkt-thumb.jpg
@@ -123,9 +120,9 @@
   bio: >
     I imagine a more loving, sustainable and delightful world. I will succeed in supporting and creating peace, acceptance and amazing design.
   images:
-  - barclay-emily-scitech-branding-thumb.jpg
-  - barclay-emily-venice-illustrations-thumb.jpg
-  - barclay-emily-wwf-poster-thumb.jpg
+    - barclay-emily-scitech-branding-thumb.jpg
+    - barclay-emily-venice-illustrations-thumb.jpg
+    - barclay-emily-wwf-poster-thumb.jpg
 
 - name: Lisa Beaton
   id: beaton-lisa
@@ -153,12 +150,11 @@
     - Print Media
     - Motion Graphics
     - Photography/Photomanipulation
-  vimeo: https://vimeo.com/amuelb
-  behance: https://www.behance.net/amuelb
+  vimeo: vimeo.com/amuelb
+  behance: www.behance.net/amuelb
   linkedin: ca.linkedin.com/amuelb
   bio: >
     Jack of all trades, coffee addict, part-time photographer, full-time designer and half-time Pokémon master.
-
   images:
     - brown-amy-aviation-thumb.jpg
     - brown-amy-justshave-thumb.jpg
@@ -230,10 +226,10 @@
   bio: >
     I'm a visual surprise.
   images:
-  - chew-jenny-hoppycamper-thumb.jpg
-  - chew-jenny-mywallet-thumb.jpg
-  - chew-jenny-thebasementboys-thumb.jpg
-  - chew-jenny-warmuseum-thumb.jpg
+    - chew-jenny-hoppycamper-thumb.jpg
+    - chew-jenny-mywallet-thumb.jpg
+    - chew-jenny-thebasementboys-thumb.jpg
+    - chew-jenny-warmuseum-thumb.jpg
 
 - name: Mansura Chowdhury
   id: chowdhury-mansura
@@ -247,11 +243,11 @@
   bio: >
     I have surprised people countless times with my height and to that I say: I'm a living proof that great things come in small packages.
   images:
-  - chowdhury-mansura-emmawatson-thumb.jpg
-  - chowdhury-mansura-florence-themachine-thumb.jpg
-  - chowdhury-mansura-goetz-thumb.jpg
-  - chowdhury-mansura-petcircus-thumb.jpg
-  - chowdhury-mansura-spoilalert-thumb.jpg
+    - chowdhury-mansura-emmawatson-thumb.jpg
+    - chowdhury-mansura-florence-themachine-thumb.jpg
+    - chowdhury-mansura-goetz-thumb.jpg
+    - chowdhury-mansura-petcircus-thumb.jpg
+    - chowdhury-mansura-spoilalert-thumb.jpg
 
 - name: Stephanie Csanky
   id: csanky-stephanie
@@ -263,28 +259,27 @@
   bio: >
     Hi I'm Stephanie! I have a love for web design, branding and typography. I love finding different solutions to design problems.
   images:
-  - csanky-stephanie-bridgehead_brochure-thumb.jpg
-  - csanky-stephanie-how_to-thumb.jpg
-  - csanky-stephanie-large_data_web-thumb.jpg
-  - csanky-stephanie-perfume_packaging-thumb.jpg
-  - csanky-stephanie-rolling_stone_spread-thumb.jpg
+    - csanky-stephanie-bridgehead_brochure-thumb.jpg
+    - csanky-stephanie-how_to-thumb.jpg
+    - csanky-stephanie-large_data_web-thumb.jpg
+    - csanky-stephanie-perfume_packaging-thumb.jpg
+    - csanky-stephanie-rolling_stone_spread-thumb.jpg
 
 - name: Jamie Dean
   id: dean-jamie
   skills:
-    - Print
+    - Print Media
     - Illustration
     - Motion Graphics
     - Beard Growing
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+  twitter: www.twitter.com/JDeanTweets
+  vimeo: vimeo.com/JDeanVideos
+  behance: www.behance.net/JamieDean
   bio: >
     In my spare time I'm a media enthusiast, photographer, baseball fan, hip hop lover, beard grower & generally a pretty cool dude.
   images:
-  - dean-jamie-illustration-thumb.jpg
-  - dean-jamie-printdesign-thumb.jpg
+    - dean-jamie-illustration-thumb.jpg
+    - dean-jamie-printdesign-thumb.jpg
 
 - name: Steven Donegani
   id: donegani-steve
@@ -303,8 +298,8 @@
   bio: >
     Steven Donegani is talented illustrator/Graphic Designer. He currently works in Ottawa. He enjoys spending quality time with his cat Rufus.
   images:
-  - donegani-steve-adventuretime-thumb.jpg
-  - donegani-steve-hi-thumb.jpg
+    - donegani-steve-adventuretime-thumb.jpg
+    - donegani-steve-hi-thumb.jpg
 
 - name: Lindsay Dupuis
   id: dupuis-lindsay
@@ -316,28 +311,27 @@
   bio: >
     Print is my first love, while branding is my second. Illustration is my hobby and package design my dream.
   images:
-  - dupuis-lindsay-alice-thumb.jpg
-  - dupuis-lindsay-davidstea-thumb.jpg
-  - dupuis-lindsay-mealhelper-thumb.jpg
-  - dupuis-lindsay-solanerowine-thumb.jpg
+    - dupuis-lindsay-alice-thumb.jpg
+    - dupuis-lindsay-davidstea-thumb.jpg
+    - dupuis-lindsay-mealhelper-thumb.jpg
+    - dupuis-lindsay-solanerowine-thumb.jpg
 
 - name: Ian Durkin
   id: durkin-ian
   skills:
     - UX/UI
     - Print
-  twitter: https://twitter.com/djiandurkin
-  facebook: http://facebook.com/idurkin
-  behance: http://behance.net/iandurkindesign
+  twitter: twitter.com/djiandurkin
+  facebook: facebook.com/idurkin
+  behance: behance.net/iandurkindesign
   bio: >
     Graphic/Audio design professional and music aficionado. Loves solving puzzles, drinking copious amounts of coffee and ties. Let's chat soon.
-
   images:
-  - durkin-ian-djsneak-thumb.jpg
-  - durkin-ian-filmnoire-thumb.jpg
-  - durkin-ian-izze-thumb.jpg
-  - durkin-ian-NAC-tshirts-thumb.jpg
-  - durkin-ian-tracksnatch-thumb.jpg
+    - durkin-ian-djsneak-thumb.jpg
+    - durkin-ian-filmnoire-thumb.jpg
+    - durkin-ian-izze-thumb.jpg
+    - durkin-ian-NAC-tshirts-thumb.jpg
+    - durkin-ian-tracksnatch-thumb.jpg
 
 - name: Ashley Edmundson
   id: edmundson-ashley
@@ -346,16 +340,16 @@
     - Print
     - Motion Graphics
     - Illustration
-  twitter: https://twitter.com/Ashenart89
-  dribble: http://dribbble.com/Ashenart
-  behance: https://www.behance.net/ashenart
+  twitter: twitter.com/Ashenart89
+  dribble: dribbble.com/Ashenart
+  behance: www.behance.net/ashenart
   bio: >
     Originally from the west coast, I'm a dreamer with a love of adventure and the arts. My main focus is in branding, UX/UI, and illustration.
   images:
-  - edmundson-ashley-motivationalposter-thumb.jpg
-  - edmundson-ashley-nfpbranding-thumb.jpg
-  - edmundson-ashley-pinnaclebranding-thumb.jpg
-  - edmundson-ashley-ragtimebranding-thumb.jpg
+    - edmundson-ashley-motivationalposter-thumb.jpg
+    - edmundson-ashley-nfpbranding-thumb.jpg
+    - edmundson-ashley-pinnaclebranding-thumb.jpg
+    - edmundson-ashley-ragtimebranding-thumb.jpg
 
 - name: Robert Freeman
   id: freeman-robert
@@ -368,20 +362,17 @@
   bio: >
     Hi! I'm a designer and graphic artist living in Orleans, and I'm always looking to express and refine my trade.
   images:
-  - freeman-robert-brand-thumb.jpg
-  - freeman-robert-dessert-thumb.jpg
-  - freeman-robert-packaging-thumb.jpg
+    - freeman-robert-brand-thumb.jpg
+    - freeman-robert-dessert-thumb.jpg
+    - freeman-robert-packaging-thumb.jpg
 
 - name: James Gollner #NEED BIO
   id: gollner-james
   skills:
     - UX/UI
-    - Web
+    - Web Design/Development
     - Branding
-  twitter: www.twitter.com/
-  facebook: www.facebook.com/
-  behance: www.behance.net/
-  linkedin: www.linkedin.com/pub/
+  media: www.link.com
   bio: >
 
   images:
@@ -404,11 +395,11 @@
   bio: >
     Hello, my name is Seita. Like 'Satan' but without the N. I want to create things that are meaningful, as well as beautiful.
   images:
-  - goto-seita-chefonwheels-thumb.jpg
-  - goto-seita-logos-thumb.jpg
-  - goto-seita-senba-thumb.jpg
-  - goto-seita-warmuseum-thumb.jpg
-  - goto-seita-wolfpack-thumb.jpg
+    - goto-seita-chefonwheels-thumb.jpg
+    - goto-seita-logos-thumb.jpg
+    - goto-seita-senba-thumb.jpg
+    - goto-seita-warmuseum-thumb.jpg
+    - goto-seita-wolfpack-thumb.jpg
   video:
     - goto-seita-rtv-thumb.jpg
   video-link:
@@ -449,10 +440,10 @@
   bio: >
     My passion lies deep within the bat cave below Wayne Manor, and on the tip of Dexter Morgan's blade. Let's be heroes together.
   images:
-  - hallett-kathryn-beardetiquette-thumb.jpg
-  - hallett-kathryn-dextermorgan-thumb.jpg
-  - hallett-kathryn-filmroll-thumb.jpg
-  - hallett-kathryn-hannahmckay-thumb.jpg
+    - hallett-kathryn-beardetiquette-thumb.jpg
+    - hallett-kathryn-dextermorgan-thumb.jpg
+    - hallett-kathryn-filmroll-thumb.jpg
+    - hallett-kathryn-hannahmckay-thumb.jpg
 
 - name: Andrew Ham #LINKS TO VIDS
   id: ham-andy
@@ -491,10 +482,10 @@
   bio: >
     I am a passionate designer and a nerd in all the right ways. Lover of movies, books and comics. Let's create our own stories.
   images:
-  - harvey-laura-bucksbrewingco-thumb.jpg
-  - harvey-laura-electraheart-thumb.jpg
-  - harvey-laura-globalpetfoods-thumb.jpg
-  - harvey-laura-weatherme-thumb.jpg
+    - harvey-laura-bucksbrewingco-thumb.jpg
+    - harvey-laura-electraheart-thumb.jpg
+    - harvey-laura-globalpetfoods-thumb.jpg
+    - harvey-laura-weatherme-thumb.jpg
 
 - name: Jessica Hay
   id: hay-jessica
@@ -508,11 +499,11 @@
   bio: >
     Passionate about illustration, web design, and painting, known for my love of Vincent Van Gogh, Ray LaMontagne, and travelling the world.
   images:
-  - hay-jessica-climbingeverest-thumb.jpg
-  - hay-jessica-creativitea-thumb.jpg
-  - hay-jessica-dinner-thumb.jpg
-  - hay-jessica-organizedcrime-thumb.jpg
-  - hay-jessica-pairapp-thumb.jpg
+    - hay-jessica-climbingeverest-thumb.jpg
+    - hay-jessica-creativitea-thumb.jpg
+    - hay-jessica-dinner-thumb.jpg
+    - hay-jessica-organizedcrime-thumb.jpg
+    - hay-jessica-pairapp-thumb.jpg
 
 - name: Lianne Hébert
   id: hebert-lianne
@@ -524,10 +515,10 @@
   bio: >
     Problem-solving creature with an untamable creative brain, I love all things design. I’m also a part-time tea drinker and garden enthusiast.
   images:
-  - hebert-lianne-creperie-thumb.jpg
-  - hebert-lianne-perfumepackage-thumb.jpg
-  - hebert-lianne-toad-thumb.jpg
-  - hebert-lianne-wedding-thumb.jpg
+    - hebert-lianne-creperie-thumb.jpg
+    - hebert-lianne-perfumepackage-thumb.jpg
+    - hebert-lianne-toad-thumb.jpg
+    - hebert-lianne-wedding-thumb.jpg
 
 - name: Earaj Inam
   id: inam-earaj
@@ -543,10 +534,10 @@
   bio: >
     I strive for excellence in every aspect of my life. I design to make change in people's lives, in order to evoke emotion as form of a result.
   images:
-  - inam-earaj-anweb-thumb.jpg
-  - inam-earaj-branding-thumb.jpg
-  - inam-earaj-fishui-thumb.jpg
-  - inam-earaj-motion-thumb.jpg
+    - inam-earaj-anweb-thumb.jpg
+    - inam-earaj-branding-thumb.jpg
+    - inam-earaj-fishui-thumb.jpg
+    - inam-earaj-motion-thumb.jpg
 
 - name: Winnie Lau
   id: lau-winnie
@@ -563,10 +554,10 @@
   bio: >
     I strive for simplicity; you will be left with wonder and curiosity after a peek.
   images:
-  - lau-winnie-app-thumb.jpg
-  - lau-winnie-car-thumb.jpg
-  - lau-winnie-izze-thumb.jpg
-  - lau-winnie-sink-thumb.jpg
+    - lau-winnie-app-thumb.jpg
+    - lau-winnie-car-thumb.jpg
+    - lau-winnie-izze-thumb.jpg
+    - lau-winnie-sink-thumb.jpg
 
 - name: Michelle Lauer
   id: lauer-michelle
@@ -577,8 +568,8 @@
   bio: >
     A young designer inspired by everyday moments, intelligent brands, great design and laughter.
   images:
-  - lauer-michelle-dog-grooming-thumb.jpg
-  - lauer-michelle-meltdown-thumb.jpg
+    - lauer-michelle-dog-grooming-thumb.jpg
+    - lauer-michelle-meltdown-thumb.jpg
 
 - name: Kyounghee Lauren Lee
   id: lauren-lee-kyounghee
@@ -594,10 +585,10 @@
   bio: >
     Graphic Design is a discipline I truly enjoy. I feel accomplished and rewarded every time I finish my project. Graphic design found my true happiness, passion, and joy of life.
   images:
-  - lauren-lee-kyounghee-appdesign-thumb.jpg
-  - lauren-lee-kyounghee-packagedesign-thumb.jpg
-  - lauren-lee-kyounghee-selfpromo-thumb.jpg
-  - lauren-lee-kyounghee-websitedesign-thumb.jpg
+    - lauren-lee-kyounghee-appdesign-thumb.jpg
+    - lauren-lee-kyounghee-packagedesign-thumb.jpg
+    - lauren-lee-kyounghee-selfpromo-thumb.jpg
+    - lauren-lee-kyounghee-websitedesign-thumb.jpg
 
 - name: Jillian Lim
   id: lim-jillian
@@ -610,10 +601,10 @@
   bio: >
     Welcome to my little section of the website!
   images:
-  - lim-jillian-1-thumb.jpg
-  - lim-jillian-2-thumb.jpg
-  - lim-jillian-3-thumb.jpg
-  - lim-jillian-4-thumb.jpg
+    - lim-jillian-1-thumb.jpg
+    - lim-jillian-2-thumb.jpg
+    - lim-jillian-3-thumb.jpg
+    - lim-jillian-4-thumb.jpg
 
 - name: Nick Macdougall
   id: macdougall-nick
@@ -627,10 +618,10 @@
   bio: >
     Born and raised in Ottawa, Ontario – Nick McD is a designer who specializes in branding and identity.
   images:
-  - macdougall-nick-la-belle-poutine-thumb.jpg
-  - macdougall-nick-letters-for-change-thumb.jpg
-  - macdougall-nick-style-wars-thumb.jpg
-  - macdougall-nick-wzdm-co-thumb.jpg
+    - macdougall-nick-la-belle-poutine-thumb.jpg
+    - macdougall-nick-letters-for-change-thumb.jpg
+    - macdougall-nick-style-wars-thumb.jpg
+    - macdougall-nick-wzdm-co-thumb.jpg
 
 - name: Kelsey MacMillan
   id: macmillan-kelsey
@@ -640,9 +631,9 @@
   bio: >
     I am an inspired, enthusiastic print graphic designer, ready for new experiences in the design world.
   images:
-  - macmillan-kelsey-john-thumb.jpg
-  - macmillan-kelsey-oldred-thumb.jpg
-  - macmillan-kelsey-orchardlogo-thumb.jpg
+    - macmillan-kelsey-john-thumb.jpg
+    - macmillan-kelsey-oldred-thumb.jpg
+    - macmillan-kelsey-orchardlogo-thumb.jpg
 
 - name: Alyster Mahoney
   id: mahoney-alyster
@@ -656,11 +647,11 @@
   bio: >
     Alyster is a designer in Ottawa with experience in UI/UX design and an adoration of print. He loves to inspire curiosity and simplify the complications of life.
   images:
-  - mahoney-alyster-darkknight-thumb.jpg
-  - mahoney-alyster-jekyll-thumb.jpg
-  - mahoney-alyster-oag-thumb.jpg
-  - mahoney-alyster-spomenik-thumb.jpg
-  - mahoney-alyster-thisamericanlife-thumb.jpg
+    - mahoney-alyster-darkknight-thumb.jpg
+    - mahoney-alyster-jekyll-thumb.jpg
+    - mahoney-alyster-oag-thumb.jpg
+    - mahoney-alyster-spomenik-thumb.jpg
+    - mahoney-alyster-thisamericanlife-thumb.jpg
 
 - name: Jacob Matte
   id: matte-jacob
@@ -671,9 +662,9 @@
   bio: >
     I aim to be a valuable and lasting contributor in the design community by providing simple solutions with awesome execution.
   images:
-  - matte-jacob-canada150-thumb.jpg
-  - matte-jacob-overpopulationinfographic-thumb.jpg
-  - matte-jacob-shakespearesinteractivecircus-thumb.jpg
+    - matte-jacob-canada150-thumb.jpg
+    - matte-jacob-overpopulationinfographic-thumb.jpg
+    - matte-jacob-shakespearesinteractivecircus-thumb.jpg
 
 - name: Sylvia McCauley
   id: mccauley-sylvia
@@ -687,10 +678,10 @@
   bio: >
     My name is Sylvia, and I'm a graphic designer from Ottawa. I have a passion for print, motion graphics, storytelling, user interface design, and also waffles.
   images:
-  - mccauley-sylvia-auberges-coffee-table-book-thumb.jpg
-  - mccauley-sylvia-turningpoint-branding-thumb.jpg
-  - mccauley-sylvia-tweed-infoposter-thumb.jpg
-  - mccauley-sylvia-wakefield-brewery-thumb.jpg
+    - mccauley-sylvia-auberges-coffee-table-book-thumb.jpg
+    - mccauley-sylvia-turningpoint-branding-thumb.jpg
+    - mccauley-sylvia-tweed-infoposter-thumb.jpg
+    - mccauley-sylvia-wakefield-brewery-thumb.jpg
 
 - name: Jesus Monsalve #LINK TO VIDS
   id: monsalve-jesus
@@ -704,16 +695,17 @@
   bio: >
     Hi, my name is Jesus Monsalve. I specialize in print media, branding and motion graphics. I am prepared to become the best I can be!
   images:
-  - monsalve-jesus-foodhuntapp-thumb.jpg
-  - monsalve-jesus-seaturtleconservancylogoreveal-thumb.jpg
-  #- LINK_TO_VID
-  - monsalve-jesus-tiffany&coadvertisementcampaign-thumb.jpg
-  - monsalve-jesus-tiffany&comotionvideo-thumb.jpg
-  #- LINK_TO_VID
+    - monsalve-jesus-foodhuntapp-thumb.jpg
+    - monsalve-jesus-tiffany&coadvertisementcampaign-thumb.jpg
   video:
-    - asif-sundus-socialgolfer-button.jpg
-  video-link :
+    - monsalve-jesus-seaturtleconservancylogoreveal-thumb.jpg
+    #- 85260353
+    - monsalve-jesus-tiffany&comotionvideo-thumb.jpg
+    #- 86449610
+  video-link:
     - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/85260353" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+  video-link2:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/86449610" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 - name: Grace Morton
   id: morton-grace
@@ -728,11 +720,11 @@
   bio: >
     My drive to design thrives off of inspiration from natural elements & organic movement. I believe design is in the details & should evoke a sense of emotion from viewers.
   images:
-  - morton-grace-casm-redesign-thumb.jpg
-  - morton-grace-forest-gate-properties-thumb.jpg
-  - morton-grace-izze-juice-thumb.jpg
-  - morton-grace-neck-of-the-woods-thumb.jpg
-  - morton-grace-summer-wind-thumb.jpg
+    - morton-grace-casm-redesign-thumb.jpg
+    - morton-grace-forest-gate-properties-thumb.jpg
+    - morton-grace-izze-juice-thumb.jpg
+    - morton-grace-neck-of-the-woods-thumb.jpg
+    - morton-grace-summer-wind-thumb.jpg
 
 - name: Sabrina Ng
   id: ng-sabrina
@@ -746,10 +738,10 @@
   bio: >
     Passionate about print, typography, UI, and pretty things. Always working hard to get better, one step at a time!
   images:
-  - ng-sabrina-blacklagoon-thumb.jpg
-  - ng-sabrina-quiltypleasures-thumb.jpg
-  - ng-sabrina-starcircus-thumb.jpg
-  - ng-sabrina-toothapp-thumb.jpg
+    - ng-sabrina-blacklagoon-thumb.jpg
+    - ng-sabrina-quiltypleasures-thumb.jpg
+    - ng-sabrina-starcircus-thumb.jpg
+    - ng-sabrina-toothapp-thumb.jpg
 
 - name: Anna Odeh
   id: odeh-anna
@@ -761,11 +753,11 @@
   bio: >
     I am able to offer many creative solutions for a variety of different products including advertising, websites, corporate identities, and branding.
   images:
-  - odeh-anna-3rdeyegirl-thumb.jpg
-  - odeh-anna-ccr-international-thumb.jpg
-  - odeh-anna-eventlogodesign-thumb.jpg
-  - odeh-anna-samburubeer-thumb.jpg
-  - odeh-anna-thelostpirate-thumb.jpg
+    - odeh-anna-3rdeyegirl-thumb.jpg
+    - odeh-anna-ccr-international-thumb.jpg
+    - odeh-anna-eventlogodesign-thumb.jpg
+    - odeh-anna-samburubeer-thumb.jpg
+    - odeh-anna-thelostpirate-thumb.jpg
 
 - name: Nadia Pietrobon
   id: pietrobon-nadia
@@ -773,16 +765,15 @@
     - Print
     - Web
     - Illustration
-  twitter: https://twitter.com/nadiajpietrobon
-  facebook: https://www.facebook.com/nadiapietrobon
-  behance: https://www.behance.net/NadiaPietrobon
+  twitter: twitter.com/nadiajpietrobon
+  facebook: www.facebook.com/nadiapietrobon
+  behance: www.behance.net/NadiaPietrobon
   bio: >
     As a designer and illustrator, my mind's always working on the creative edge. Expressive, lively and I'm always up for a challenge.
-
   images:
-  - pietrobon-nadia-artwork-thumb.jpg
-  - pietrobon-nadia-brand-thumb.jpg
-  - pietrobon-nadia-poster-thumb.jpg
+    - pietrobon-nadia-artwork-thumb.jpg
+    - pietrobon-nadia-brand-thumb.jpg
+    - pietrobon-nadia-poster-thumb.jpg
 
 - name: Sheena Ravary
   id: ravary-sheena
@@ -796,9 +787,9 @@
   bio: >
     “An intellectual says a simple thing in a hard way. An artist says a hard thing in a simple way.” — Charles Bukowski
   images:
-  - ravary-sheena-badsuit-thumb.jpg
-  - ravary-sheena-homer-thumb.jpg
-  - ravary-sheena-mallmate-thumb.jpg
+    - ravary-sheena-badsuit-thumb.jpg
+    - ravary-sheena-homer-thumb.jpg
+    - ravary-sheena-mallmate-thumb.jpg
 
 - name: Jenny Richardson
   id: richardson-jenny
@@ -809,11 +800,11 @@
   bio: >
     My love for art, films, comics, books, and horror culture inspire me to be the designer and illustrator I am today. I love creating things!
   images:
-  - richardson-jenny-carbon-clothing-brand-identity-thumb.jpg
-  - richardson-jenny-cd-package-design-thumb.jpg
-  - richardson-jenny-ecospa-brand-identity-thumb.jpg
-  - richardson-jenny-illustrations-thumb.jpg
-  - richardson-jenny-king-antler-wine-packaging-thumb.jpg
+    - richardson-jenny-carbon-clothing-brand-identity-thumb.jpg
+    - richardson-jenny-cd-package-design-thumb.jpg
+    - richardson-jenny-ecospa-brand-identity-thumb.jpg
+    - richardson-jenny-illustrations-thumb.jpg
+    - richardson-jenny-king-antler-wine-packaging-thumb.jpg
 
 - name: Celta Riden
   id: riden-celta
@@ -827,8 +818,8 @@
   bio: >
     "I used to be an adventurer like you, then I took an arrow in the knee."
   images:
-  - riden-celta-recycles-thumb.jpg
-  - riden-celta-thebookstache-thumb.jpg
+    - riden-celta-recycles-thumb.jpg
+    - riden-celta-thebookstache-thumb.jpg
 
 - name: Robyn Rutherford
   id: rutherford-robyn
@@ -841,9 +832,9 @@
   bio: >
     I love to dabble in web, print, branding, packaging, and random arts and crafts. Am I missing something? —Oh right entrepreneurship.
   images:
-  - rutherford-robyn-flamingos-thumb.jpg
-  - rutherford-robyn-kickspackage-thumb.jpg
-  - rutherford-robyn-ksbusinesscards-thumb.jpg
+    - rutherford-robyn-flamingos-thumb.jpg
+    - rutherford-robyn-kickspackage-thumb.jpg
+    - rutherford-robyn-ksbusinesscards-thumb.jpg
 
 - name: Kelly Seay
   id: seay-kelly
@@ -857,10 +848,10 @@
   bio: >
     Graphic Designer with a love for Branding & Web Design, & a passion for hand lettering.
   images:
-  - seay-kelly-cupcakelounge-thumb.jpg
-  - seay-kelly-lettering-thumb.jpg
-  - seay-kelly-menh-thumb.jpg
-  - seay-kelly-runplus-thumb.jpg
+    - seay-kelly-cupcakelounge-thumb.jpg
+    - seay-kelly-lettering-thumb.jpg
+    - seay-kelly-menh-thumb.jpg
+    - seay-kelly-runplus-thumb.jpg
 
 - name: William Shaw
   id: shaw-william
@@ -876,9 +867,9 @@
   bio: >
     I love to make stuff. Motion Graphics, Illustration, and UI too.
   images:
-  - shaw-william-arnejacobsenbook-thumb.jpg
-  - shaw-william-broleonpicturesbrading-thumb.jpg
-  - shaw-william-elvisbluehawaii-thumb.jpg
+    - shaw-william-arnejacobsenbook-thumb.jpg
+    - shaw-william-broleonpicturesbrading-thumb.jpg
+    - shaw-william-elvisbluehawaii-thumb.jpg
 
 - name: Cassie Slack
   id: slack-cassie
@@ -893,10 +884,10 @@
   bio: >
     Maker of things, code nerd and UX Unicorn in training.
   images:
-  - slack-cassie-cslackdesign-thumb.jpg
-  - slack-cassie-dropkick-thumb.jpg
-  - slack-cassie-iceland-thumb.jpg
-  - slack-cassie-shopit-thumb.jpg
+    - slack-cassie-cslackdesign-thumb.jpg
+    - slack-cassie-dropkick-thumb.jpg
+    - slack-cassie-iceland-thumb.jpg
+    - slack-cassie-shopit-thumb.jpg
 
 - name: Michaela Tuor
   id: tuor-michaela
@@ -912,10 +903,10 @@
   bio: >
     My upbeat and unique sense of humour help make creative and thought provoking designs that build upon the client's ideas for the project.
   images:
-  - tuor-michaela-beer-app-thumb.jpg
-  - tuor-michaela-beerlogo-thumb.jpg
-  - tuor-michaela-giftcard-thumb.jpg
-  - tuor-michaela-ransom-note-thumb.jpg
+    - tuor-michaela-beer-app-thumb.jpg
+    - tuor-michaela-beerlogo-thumb.jpg
+    - tuor-michaela-giftcard-thumb.jpg
+    - tuor-michaela-ransom-note-thumb.jpg
 
 - name: Lisa Villeneuve
   id: villeneuve-lisa
@@ -923,16 +914,20 @@
     - UX/UI
     - Web Design/Development
     - Motion Graphics
+  website: www.lisavilleneuve.ca/portfolio/
+  behance: www.behance.net/lisavilleneuve
   twitter: www.twitter.com/littleninjag
   facebook: www.facebook.com/lisavilleneuvedesigner
-  behance: www.behance.net/lisavilleneuve
   bio: >
     I think design should make things both beautiful & useful. The program at Algonquin has been great in refining & updating my skills.
   images:
-  - villeneuve-lisa-geoclassify-thumb.jpg
-  - villeneuve-lisa-glowworm-thumb.jpg
-  - villeneuve-lisa-starbucksapp-thumb.jpg
-  - villeneuve-lisa-votingapp-thumb.jpg
+    - villeneuve-lisa-geoclassify-thumb.jpg
+    - villeneuve-lisa-glowworm-thumb.jpg
+    - villeneuve-lisa-votingapp-thumb.jpg
+  video:
+    - villeneuve-lisa-starbucksapp-thumb.jpg
+  video-link:
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81423932" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 - name: Sarah Voss
   id: voss-sarah
@@ -943,8 +938,8 @@
   bio: >
     I am an energetic graphic designer who sees everyday as an opportunity to create, learn and experience all that life has to offer.
   images:
-  - voss-sarah-selfbranding-thumb.jpg
-  - voss-sarah-valleysquire-thumb.jpg
+    - voss-sarah-selfbranding-thumb.jpg
+    - voss-sarah-valleysquire-thumb.jpg
 
 - name: Grace Walker
   id: walker-grace
@@ -958,10 +953,10 @@
   bio: >
     My voice is high and my dreams are big.
   images:
-  - walker-grace-chewy-thumb.jpg
-  - walker-grace-dirtyfastracing-thumb.jpg
-  - walker-grace-graciofont-thumb.jpg
-  - walker-grace-singingbones-thumb.jpg
+    - walker-grace-chewy-thumb.jpg
+    - walker-grace-dirtyfastracing-thumb.jpg
+    - walker-grace-graciofont-thumb.jpg
+    - walker-grace-singingbones-thumb.jpg
 
 - name: Maddi Watson
   id: watson-maddi
@@ -974,9 +969,9 @@
   bio: >
     Living life in Ottawa as a freelance graphic designer and artist. I'm also an avid blogger, magazine collector, and media enthusiast.
   images:
-  - watson-maddi-kendrick-thumb.jpg
-  - watson-maddi-logo-thumb.jpg
-  - watson-maddi-skull-thumb.jpg
+    - watson-maddi-kendrick-thumb.jpg
+    - watson-maddi-logo-thumb.jpg
+    - watson-maddi-skull-thumb.jpg
 
 - name: Cameron Webb
   id: webb-cameron
@@ -988,12 +983,12 @@
   bio: >
     I am Cameron, a print designer that is orientated towards mixing styles and genre of art and design for new yet nostalgic looking work.
   images:
-  - webb-cameron-apagon-thumb.jpg
-  - webb-cameron-baltimore-book-thumb.jpg
-  - webb-cameron-calvin-johnson-thumb.jpg
-  - webb-cameron-changing-the-face-of-privacy-thumb.jpg
-  - webb-cameron-lets-get-thumb.jpg
-  - webb-cameron-revolver-thumb.jpg
+    - webb-cameron-apagon-thumb.jpg
+    - webb-cameron-baltimore-book-thumb.jpg
+    - webb-cameron-calvin-johnson-thumb.jpg
+    - webb-cameron-changing-the-face-of-privacy-thumb.jpg
+    - webb-cameron-lets-get-thumb.jpg
+    - webb-cameron-revolver-thumb.jpg
 
 - name: Tirzah Wood
   id: wood-tirzah
@@ -1009,7 +1004,7 @@
   bio: >
     I am a lover of design and obsessive drinker of coffee. I am a fan of all fandoms and I enjoy a great book, lets talk about it.
   images:
-  - wood-tirzah-octopi-poster-thumb.jpg
-  - wood-tirzah-tiffany-campaign-thumb.jpg
-  - wood-tirzah-wine-design-thumb.jpg
-  - wood-tirzah-wizards-tower-thumb.jpg
+    - wood-tirzah-octopi-poster-thumb.jpg
+    - wood-tirzah-tiffany-campaign-thumb.jpg
+    - wood-tirzah-wine-design-thumb.jpg
+    - wood-tirzah-wizards-tower-thumb.jpg
