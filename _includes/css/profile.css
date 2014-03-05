@@ -182,6 +182,7 @@
 	padding: 1em;
 	height: 100%;
 	width: 100%;
+	color: #fff;
 }
 
 .btn-prev-profile:focus,
@@ -193,5 +194,6 @@
 .btn-close-item:hover,
 .btn-prev-profile:hover,
 .btn-next-profile:hover {
-	color: #FED100;
+	background-color: #fcd208;
+	color: #000;
 }
