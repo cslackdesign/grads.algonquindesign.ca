@@ -66,7 +66,7 @@
   - appolon-nick-bookcover-thumb.jpg
   - appolon-nick-raptors-thumb.jpg
 
-- name: Sundus Asif VIDEO NEEDED
+- name: Sundus Asif #VIDEO NEEDED
   id: asif-sundus
   skills:
     - UX/UI
@@ -87,9 +87,9 @@
   video:
     - asif-sundus-socialgolfer-button.jpg
   video-link :
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814?color=ffffff" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
-- name: Dima Badawi VIDEO NEEDED
+- name: Dima Badawi #VIDEO NEEDED
   id: badawi-dima
   skills:
     - UX/UI
@@ -371,7 +371,7 @@
   - freeman-robert-dessert-thumb.jpg
   - freeman-robert-packaging-thumb.jpg
 
-- name: James Gollner NEED BIO
+- name: James Gollner #NEED BIO
   id: gollner-james
   skills:
     - UX/UI
@@ -390,7 +390,7 @@
   - gollner-james-minto-thumb.jpg
   - gollner-james-woodstock-thumb.jpg
 
-- name: Seita Goto _____________________________LINK TO VID
+- name: Seita Goto #LINK TO VID
   id: goto-seita
   skills:
     - Print Media
@@ -406,12 +406,12 @@
   - goto-seita-chefonwheels-thumb.jpg
   - goto-seita-logos-thumb.jpg
   - goto-seita-rtv-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
   - goto-seita-senba-thumb.jpg
   - goto-seita-warmuseum-thumb.jpg
   - goto-seita-wolfpack-thumb.jpg
 
-- name: Caroline Guindon _____________________________LINK TO VID
+- name: Caroline Guindon #LINK TO VID
   id: guindon-caroline
   skills:
     - UX/UI
@@ -420,7 +420,7 @@
     - Motion Graphics
   twitter: www.twitter.com/caro_guindon
   behance: www.behance.net/cguindon
-  website: cgdesigned.ca/
+  website: cgdesigned.ca
   bio: >
     “A great daughter, a great friend, a great person and the greatest graphic designer.” —proudly quoted by my Mom
   images:
@@ -430,7 +430,7 @@
   - guindon-caroline-florence4-thumb.jpg
   - guindon-caroline-civilization5-thumb.jpg
   - guindon-caroline-motionmusic-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
 
 - name: Kathryn Hallett
   id: hallett-kathryn
@@ -449,7 +449,7 @@
   - hallett-kathryn-filmroll-thumb.jpg
   - hallett-kathryn-hannahmckay-thumb.jpg
 
-- name: Andrew Ham _____________________________LINKS TO VIDS
+- name: Andrew Ham #LINKS TO VIDS
   id: ham-andy
   skills:
     - UX/UI
@@ -463,11 +463,11 @@
   - ham-andy-workpiece2-thumb.jpg
   - ham-andy-workpiece3-thumb.jpg
   - ham-andy-workpiece4-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
   - ham-andy-workpiece5-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
   - ham-andy-workpiece6-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
 
 - name: Laura Harvey
   id: harvey-laura
@@ -680,7 +680,7 @@
   - mccauley-sylvia-tweed-infoposter-thumb.jpg
   - mccauley-sylvia-wakefield-brewery-thumb.jpg
 
-- name: Jesus Monsalve _____________________________LINK TO VIDS
+- name: Jesus Monsalve #LINK TO VIDS
   id: monsalve-jesus
   skills:
     - Print Media
@@ -694,10 +694,14 @@
   images:
   - monsalve-jesus-foodhuntapp-thumb.jpg
   - monsalve-jesus-seaturtleconservancylogoreveal-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
   - monsalve-jesus-tiffany&coadvertisementcampaign-thumb.jpg
   - monsalve-jesus-tiffany&comotionvideo-thumb.jpg
-  - LINK_TO_VID
+  #- LINK_TO_VID
+  video:
+    - asif-sundus-socialgolfer-button.jpg
+  video-link :
+    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/85260353" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 - name: Grace Morton
   id: morton-grace
