@@ -71,7 +71,7 @@ $('.btn-next-profile').click(function () {
   $nextDiv.fadeIn({
     duration: 400,
     start: function () {
-      $('#student-section').height($('#' + id).outerHeight());
+      //$('#student-section').height($('#' + id).outerHeight());
     }
   });
 });
@@ -88,7 +88,7 @@ $('.btn-prev-profile').click(function() {
   $prevDiv.fadeIn({
     duration: 400,
     start: function () {
-      $('#student-section').height($('#' + id).outerHeight());
+      //$('#student-section').height($('#' + id).outerHeight());
     }
   });
 });
