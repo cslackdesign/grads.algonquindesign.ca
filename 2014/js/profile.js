@@ -69,12 +69,12 @@ window.scrollTo(0, $('#profile-scroll-to-position').offset().top - $('.masthead'
   });
 });
 
-/*
+
 // Next profile button
 
-$('.next-btn-profile').click(function () {
-  var $workDiv = $(this).parents('.work-div');
-  var $nextDiv = $(this).parents('.work-div').next('.work-div');
+$('.btn-next-profile').click(function () {
+  var $workDiv = $(this).parents('.profile');
+  var $nextDiv = $(this).parents('.profile').next('.profile');
   var id = $nextDiv.attr('id');
   openWork = id;
 
@@ -82,16 +82,16 @@ $('.next-btn-profile').click(function () {
   $nextDiv.fadeIn({
     duration: 400,
     start: function () {
-      $('#work-wrap').height($('#' + id).outerHeight());
+      $('#student-section').height($('#' + id).outerHeight());
     }
   });
 });
 
 // Previous profile button
 
-$('.prev-btn-profile').click(function() {
-  var $workDiv = $(this).parents('.work-div');
-  var $prevDiv = $(this).parents('.work-div').prev('.work-div');
+$('.btn-prev-profile').click(function() {
+  var $workDiv = $(this).parents('.profile');
+  var $prevDiv = $(this).parents('.profile').prev('.profile');
   var id = $prevDiv.attr('id');
   openWork = id;
 
@@ -99,12 +99,12 @@ $('.prev-btn-profile').click(function() {
   $prevDiv.fadeIn({
     duration: 400,
     start: function () {
-      $('#work-wrap').height($('#' + id).outerHeight());
+      $('#student-section').height($('#' + id).outerHeight());
     }
   });
-});*/
+});
 
-// $(window).on('resize', function () {
-// //  $('#work-wrap').height($('#' + openWork).outerHeight());
-// });
+$(window).on('resize', function () {
+  $('#student-section').height($('#' + openWork).outerHeight());
+ });
 
