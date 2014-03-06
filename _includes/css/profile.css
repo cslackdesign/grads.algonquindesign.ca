@@ -96,7 +96,7 @@
 
 .btn-close-profile {
 	text-align: center;
-	border: 2px solid #00ACCF;
+	border: none;
 	background-color: #00ACCF;
 	color: #fff;
 	font-weight: bold;
@@ -118,7 +118,7 @@
 	height: 40px;
 	text-align: center;
 	line-height: 24px;
-	border: 2px solid #00ACCC;
+	border: none;
 	background-color: #00ACCC;
 	color: #fff;
 	padding: 0 1em;

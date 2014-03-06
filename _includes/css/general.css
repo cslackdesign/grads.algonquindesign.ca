@@ -119,6 +119,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .carousel-buttons {
+	outline: none;
 	position: absolute;
 	margin: 20% 0;
 	z-index: 5000;
@@ -126,11 +127,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .carousel-buttons .next {
+	outline: none;
 	float: right;
 	background-image: url('{{site.cdn}}/2014/img/carousel/next-btn.png');
 }
 
 .carousel-buttons .prev {
+	outline: none;
 	background-image: url('{{site.cdn}}/2014/img/carousel/prev-btn.png');
 }
 
@@ -205,6 +208,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 #btn-open {
+	outline: none;
 	text-align: center;
 	position: absolute;
 	margin: -3.5rem 0 0 -4.5rem;
@@ -384,7 +388,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social4,
 	.social5,
 	.social6,
-	.social7 {
+	.social7,
+	.social8 {
 		background-size: contain;
 		background-position: top;
 		background-repeat:no-repeat;
@@ -418,6 +423,10 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 	.social7 {
 		background-image: url({{site.cdn}}/2014/img/icons/email.png);
+	}
+
+	.social8 {
+		background-image: url({{site.cdn}}/2014/img/icons/vimeo.png);
 	}
 
 	.social1:hover,
@@ -491,6 +500,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		background-image: url({{site.cdn}}/2014/img/icons/email-hover.png);
 	}
 
+	.social8:hover,
+	.social8:focus,
+	.social8:active {
+		background-image: url({{site.cdn}}/2014/img/icons/vimeo-hover.png);
+	}
+
 	.nav-logo a:hover,
 	.nav-logo a:focus,
 	.nav-logo a:active,
@@ -504,6 +519,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social5:hover,
 	.social6:hover,
 	.social7:hover,
+	.social8:hover,
 	.social1:focus,
 	.social2:focus,
 	.social3:focus,
@@ -511,13 +527,15 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social5:focus,
 	.social6:focus,
 	.social7:focus,
+	.social8:focus,
 	.social1:active,
 	.social2:active,
 	.social3:active,
 	.social4:active,
 	.social5:active,
 	.social6:active,
-	.social7:active {
+	.social7:active,
+	.social8:active {
 
 		-webkit-transition: all .3s ease-in-out;
 		-moz-transition: all .3s ease-in-out;
