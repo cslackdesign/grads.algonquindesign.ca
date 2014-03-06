@@ -834,4 +834,26 @@ hr {
 	list-style-type: none;
 }
 
+.event-info {
+	margin: 0.75em 0 2.5em;
+}
+
+.event-info ul {
+	padding-left: 0;
+}
+
+.event-info h3, .sponsor h3 {
+	margin-bottom: 0.2em;
+	text-align: center;
+}
+
+.location ul {
+	text-align: center;
+}
+
+.date ul {
+	text-align: center;
+}
+
+
 
