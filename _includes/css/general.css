@@ -166,13 +166,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .carousel-buttons .next:hover,
 .carousel-buttons .next:active,
 .carousel-buttons .next:focus {
-	background-image: url('../img/carousel/next-btn-hover.png');
+	background-image: url('{{site.cdn}}/2014/img/icons/next-btn-hover.png');
 }
 
 .carousel-buttons .prev:hover,
 .carousel-buttons .prev:active,
 .carousel-buttons .prev:focus {
-	background-image: url('../img/carousel/prev-btn-hover.png');
+	background-image: url('{{site.cdn}}/2014/img/icons/prev-btn-hover.png');
 }
 
 .carousel-buttons .next:hover,
@@ -211,7 +211,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	padding:0;
 	width: 150px;
 	height: 35px;
-	background-image: url('../img/video-play-btn.svg');
+	background-image: url('{{site.cdn}}/2014/img/icons/video-play-btn.svg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -227,7 +227,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 #btn-open:focus {
 	width: 150px;
 	height: 35px;
-	background-image: url('../img/video-play-btn-hover.svg');
+	background-image: url('{{site.cdn}}/2014/img/icons/video-play-btn-hover.svg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -360,15 +360,15 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .icon-logo a{
-	background-image: url(../img/logo-icon.jpg);
+	background-image: url(.{{site.cdn}}/2014/img/icons/logo-icon.jpg);
 }
 
 .icon-venue a{
-	background-image: url(../img/map-icon.png);
+	background-image: url({{site.cdn}}/2014/img/icons/map-icon.png);
 }
 
 .icon-students a{
-	background-image: url(../img/profile.jpg);
+	background-image: url({{site.cdn}}/2014/img/icons/profile.jpg);
 }
 
 .icon-logo a,
@@ -388,15 +388,15 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	}
 
 	.social1 {
-		background-image: url(../img/social-media/twitter.png);
+		background-image: url({{site.cdn}}/2014/img/icons/twitter.png);
 	}
 
 	.social2 {
-		background-image: url(../img/social-media/facebook.png);
+		background-image: url({{site.cdn}}/2014/img/icons/facebook.png);
 	}
 
 	.social3 {
-		background-image: url(../img/social-media/behance.png);
+		background-image: url({{site.cdn}}/2014/img/icons/behance.png);
 	}
 
 	.social1:hover,
@@ -409,19 +409,19 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.nav-logo a:hover,
 	.nav-logo a:focus,
 	.nav-logo a:active {
-		background-image: url(../img/logo-icon_yellow.png);
+		background-image: url({{site.cdn}}/2014/img/icons/logo-icon_yellow.png);
 	}
 
 	.icon-venue a:hover,
 	.icon-venue a:focus,
 	.icon-venue a:active {
-		background-image: url(../img/social-media/instagram-hover.png);
+		background-image: url({{site.cdn}}/2014/img/icons/instagram-hover.png);
 	}
 
 	.icon-students a:hover,
 	.icon-students a:focus,
 	.icon-students a:active {
-		background-image: url(../img/social-media/instagram-hover.png);
+		background-image: url({{site.cdn}}/2014/img/icons/instagram-hover.png);
 	}
 
 	.social1:hover,
