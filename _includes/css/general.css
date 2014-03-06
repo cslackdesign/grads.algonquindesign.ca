@@ -380,7 +380,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 	.social1,
 	.social2,
-	.social3 {
+	.social3,
+	.social4,
+	.social5,
+	.social6,
+	.social7 {
+		background-size: contain;
 		background-position: top;
 		background-repeat:no-repeat;
 		background-size: 100%;
@@ -399,9 +404,29 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		background-image: url({{site.cdn}}/2014/img/icons/behance.png);
 	}
 
+	.social4 {
+		background-image: url({{site.cdn}}/2014/img/icons/website.png);
+	}
+
+	.social5 {
+		background-image: url({{site.cdn}}/2014/img/icons/linkedin.png);
+	}
+
+	.social6 {
+		background-image: url({{site.cdn}}/2014/img/icons/instagram.png);
+	}
+
+	.social7 {
+		background-image: url({{site.cdn}}/2014/img/icons/email.png);
+	}
+
 	.social1:hover,
 	.social2:hover,
-	.social3:hover {
+	.social3:hover,
+	.social4:hover,
+	.social5:hover,
+	.social6:hover,
+	.social7:hover {
 		background-color: #FFF;
 		background-position: top;
 	}
@@ -442,6 +467,30 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		background-image: url({{site.cdn}}/2014/img/icons/behance-hover.png);
 	}
 
+	.social4:hover,
+	.social4:focus,
+	.social4:active {
+		background-image: url({{site.cdn}}/2014/img/icons/website-hover.png);
+	}
+
+	.social5:hover,
+	.social5:focus,
+	.social5:active {
+		background-image: url({{site.cdn}}/2014/img/icons/linkedin-hover.png);
+	}
+
+	.social6:hover,
+	.social6:focus,
+	.social6:active {
+		background-image: url({{site.cdn}}/2014/img/icons/instagram-hover.png);
+	}
+
+	.social7:hover,
+	.social7:focus,
+	.social7:active {
+		background-image: url({{site.cdn}}/2014/img/icons/email-hover.png);
+	}
+
 	.nav-logo a:hover,
 	.nav-logo a:focus,
 	.nav-logo a:active,
@@ -451,12 +500,24 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social1:hover,
 	.social2:hover,
 	.social3:hover,
+	.social4:hover,
+	.social5:hover,
+	.social6:hover,
+	.social7:hover,
 	.social1:focus,
 	.social2:focus,
 	.social3:focus,
+	.social4:focus,
+	.social5:focus,
+	.social6:focus,
+	.social7:focus,
 	.social1:active,
 	.social2:active,
-	.social3:active{
+	.social3:active,
+	.social4:active,
+	.social5:active,
+	.social6:active,
+	.social7:active {
 
 		-webkit-transition: all .3s ease-in-out;
 		-moz-transition: all .3s ease-in-out;
