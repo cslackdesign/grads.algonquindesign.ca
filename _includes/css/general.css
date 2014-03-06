@@ -526,10 +526,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		transition: all .3s ease-in-out;
 	}
 
-.social {
-	display: none;
-}
-
 nav ul {
 	position: absolute;
 	top: 5px;
@@ -633,12 +629,6 @@ nav ul {
 	display: block;
 	position: relative;
 	transition: transform 0.4s;
-}
-
-.bio {
-}
-
-.skills {
 }
 
 .stu-grid-box figure {
