@@ -49,35 +49,9 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .landing {
 	width: 100%;
-	/*background-color: #00ACCF;*/
   margin: 0;
   padding:0;
-  /*height: 13.5rem;*/
 }
-
-/*@media only screen and (min-width: 30em){
-
- 	.landing {
- 		height: 25em;
- 		background-color: transparent;
- 	}
- }
-
- @media only screen and (min-width: 50em){
-
- 	.landing {
- 		height: 30em;
- 		background-color: transparent;
- 	}
- }
-
- @media only screen and (min-width: 60em){
-
- 	.landing {
- 		height: 40em;
- 		background-color: transparent;
- 	}
- }*/
 
 
 /*CAROUSEL OVER LAY*/
@@ -107,41 +81,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	width: 75%;
 	padding-left: 5%;
 }
-
-/*h1 img{
-	margin: 0 0 0 3%;
-	padding:0;
-	width: 200px;
-}*/
-
-/*@media only screen and (min-width: 25em){
-	h1 img {
-		width: 350px;
-		margin: 2rem 0 0 3%;
-	}
-}
-
-@media only screen and (min-width: 50em){
-	h1 img {
-		width: 600px;
-		margin: 1rem 0 0 4.5%;
-	}
-}
-
-@media only screen and (min-width: 64em){
-	h1 img {
-		width: 1000px;
-		margin-left: 6%;
-	}
-}
-
-@media only screen and (min-width: 100em){
-	h1 img {
-		width: 1500px;
-		margin-top: 0;
-		margin-left: 7%;
-	}
-}*/
 
 .carousel-overlay .btn-open{
 	margin: 0;
@@ -750,7 +689,7 @@ nav ul {
 
 @media only screen and (min-width: 30em) {
 	.map-section {
-		height: 20em;
+		height: 40em;
 	}
 
 	.map img {
@@ -802,70 +741,6 @@ nav ul {
 		margin-top: 1%;
 	}
 }
-
-/*@media only screen and (min-width: 30em){
-
-
-.map {
-  margin:0;
-  padding: 0;
-  list-style-type: none;
-  text-align: center;
-
-}
-
-
-.map li {
-  display: inline-block;
-
-}
-
-.map img {
-	margin: -6rem 0 0 -7em;
-	position: absolute;
-  width: 90px;
-  opacity: 0;
-  -webkit-transform: translateY(40px);
-}
-
-@-webkit-keyframes logo-fly {
-  0% {
-    opacity:0;
-    -webkit-transform: translateY(40px);
-  }
-
-  40%{
-    opacity:1;
-  }
-
-  100%{
-    opacity:1;
-    -webkit-transform: translateY(0);
-  }
-}
-
-@media only screen and (min-width: 20em){
-	.map img {
-		margin: -2rem 0 0 -13rem;
-		width: 160px;
-	}
-}
-
-@media only screen and (min-width: 25em){
-	.map img {
-		margin: 5rem 0 0 -11rem;
-	}
-}
-
-@media only screen and (min-width: 30em){
-	.map img {
-		margin: -2rem 0 0 -14rem;
-	}
-}
-
-.js-map-animate {
-  -webkit-animation: logo-fly 1s ease-out 1 forwards;
-}*/
 
 
 .about-area {

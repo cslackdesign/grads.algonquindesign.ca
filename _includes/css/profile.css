@@ -12,6 +12,15 @@
 	position: relative;
 }
 
+@media only screen and (min-width:90em){
+	.profile {
+	top: 0;
+	position: relative;
+	max-width: 80%;
+	margin:0 auto;
+}
+}
+
 .profile a {
 	color: #00ACCF;
 	margin-bottom: 8px;
