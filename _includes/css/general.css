@@ -823,3 +823,15 @@ hr {
 }
 
 
+
+/*------------------------CSS#3: CONTACT & FOOTER - Why Attend, Location, Sponsors*/
+
+.about-area {
+	margin: 2em;
+}
+
+.about-area li {
+	list-style-type: none;
+}
+
+
