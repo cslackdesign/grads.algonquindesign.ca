@@ -127,11 +127,11 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .carousel-buttons .next {
 	float: right;
-	background-image: url('../img/carousel/next-btn.png');
+	background-image: url('{{site.cdn}}/2014/img/icons/next-btn.png');
 }
 
 .carousel-buttons .prev {
-	background-image: url('../img/carousel/prev-btn.png');
+	background-image: url('{{site.cdn}}/2014/img/icons/prev-btn.png');
 }
 
 .carousel-buttons .next,
