@@ -127,11 +127,11 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .carousel-buttons .next {
 	float: right;
-	background-image: url('{{site.cdn}}/2014/img/icons/next-btn.png');
+	background-image: url('{{site.cdn}}/2014/img/carousel/next-btn.png');
 }
 
 .carousel-buttons .prev {
-	background-image: url('{{site.cdn}}/2014/img/icons/prev-btn.png');
+	background-image: url('{{site.cdn}}/2014/img/carousel/prev-btn.png');
 }
 
 .carousel-buttons .next,
@@ -166,13 +166,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .carousel-buttons .next:hover,
 .carousel-buttons .next:active,
 .carousel-buttons .next:focus {
-	background-image: url('{{site.cdn}}/2014/img/icons/next-btn-hover.png');
+	background-image: url('{{site.cdn}}/2014/img/carousel/next-btn-hover.png');
 }
 
 .carousel-buttons .prev:hover,
 .carousel-buttons .prev:active,
 .carousel-buttons .prev:focus {
-	background-image: url('{{site.cdn}}/2014/img/icons/prev-btn-hover.png');
+	background-image: url('{{site.cdn}}/2014/img/carousel/prev-btn-hover.png');
 }
 
 .carousel-buttons .next:hover,
@@ -211,7 +211,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	padding:0;
 	width: 150px;
 	height: 35px;
-	background-image: url('{{site.cdn}}/2014/img/icons/video-play-btn.svg');
+	background-image: url('{{site.cdn}}/2014/img/video-play-btn.svg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -227,7 +227,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 #btn-open:focus {
 	width: 150px;
 	height: 35px;
-	background-image: url('{{site.cdn}}/2014/img/icons/video-play-btn-hover.svg');
+	background-image: url('{{site.cdn}}/2014/img/video-play-btn-hover.svg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
