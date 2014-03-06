@@ -676,9 +676,6 @@ nav ul {
 	position: absolute;
 }
 
-.about-area {
-	background-color: green;
-}
 
 @media only screen and (min-width: 18em) {
 	.map img {
@@ -751,33 +748,8 @@ nav ul {
 }
 
 
-.about-area {
-	padding: 1em;
-	padding-top: 0;
-	margin: 0;
-}
-
-
-
 @media only screen and (min-width: 30em) {
-	.about-area {
-		margin: 2em;
-		margin-top: 0.5em;
-	}
-}
 
-.info ul li{ /*controls div around location and date*/
-	list-style-type:none;
-}
-
-.info ul{
-	margin:0;
-	padding:0.8em 0;
-}
-
-.info { /* Controls padding of location & date info */
-	text-align: left;
-}
 
 footer{
 	display: inline-block;
@@ -848,67 +820,6 @@ hr {
 	color:#FED100;
 }
 
-@media only screen and (min-width: 20em) {
-	.location{
-		float:left;
-		width:50%;
-	}
-
-	.date{
-		float:right;
-		width:50%;
-	}
-
-	.sponsor{
-		clear:both;
-	}
 }
 
 
-@media only screen and (min-width: 30em) {
-	.info {
-		padding-top:2em;
-		margin:0 auto;
-		display:inline-block;
-		width:45%;
-	}
-
-	.location,
-	.date{
-		display:inline-block;
-		float:none;
-		margin:0;
-		width:100%;
-	}
-
-	.location li,
-	.date li{
-		padding-left:40%;
-	}
-}
-
-@media only screen and (min-width: 41em) {
-
-	.location li,
-	.date li{
-		padding-left:23%;
-	}
-
-	.sponsor {
-		display:inline-block;
-		width:33%;
-	}
-}
-
-@media only screen and (min-width: 60em) {
-	.location{
-		width:50%;
-		float:left;
-	}
-
-
-	.date{
-		width:50%;
-		float:right;
-	}
-}
