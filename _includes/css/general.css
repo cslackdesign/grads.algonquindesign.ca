@@ -360,15 +360,15 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .icon-logo a{
-	background-image: url(.{{site.cdn}}/2014/img/icons/logo-icon.jpg);
+	background-image: url({{site.cdn}}/2014/img/logo-icon.jpg);
 }
 
 .icon-venue a{
-	background-image: url({{site.cdn}}/2014/img/icons/map-icon.png);
+	background-image: url({{site.cdn}}/2014/img/icons/location.png);
 }
 
 .icon-students a{
-	background-image: url({{site.cdn}}/2014/img/icons/profile.jpg);
+	background-image: url({{site.cdn}}/2014/img/icons/student.png);
 }
 
 .icon-logo a,
@@ -409,19 +409,19 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.nav-logo a:hover,
 	.nav-logo a:focus,
 	.nav-logo a:active {
-		background-image: url({{site.cdn}}/2014/img/icons/logo-icon_yellow.png);
+		background-image: url({{site.cdn}}/2014/img/logo-icon_yellow.png);
 	}
 
 	.icon-venue a:hover,
 	.icon-venue a:focus,
 	.icon-venue a:active {
-		background-image: url({{site.cdn}}/2014/img/icons/instagram-hover.png);
+		background-image: url({{site.cdn}}/2014/img/icons/location-hover.png);
 	}
 
 	.icon-students a:hover,
 	.icon-students a:focus,
 	.icon-students a:active {
-		background-image: url({{site.cdn}}/2014/img/icons/instagram-hover.png);
+		background-image: url({{site.cdn}}/2014/img/icons/student-hover.png);
 	}
 
 	.social1:hover,
