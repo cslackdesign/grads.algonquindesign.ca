@@ -134,7 +134,7 @@
 	height: 40px;
 	text-align: center;
 	line-height: 24px;
-	border: 2px solid #00ACCC;
+	border: none;
 	background-color: #00ACCC;
 	color: #fff;
 	padding: 0 1em;
@@ -181,6 +181,7 @@
 
 .btn-close-profile:hover,
 .btn-close-item:hover,
+.btn-close-item-bottom:hover,
 .btn-prev-profile:hover,
 .btn-next-profile:hover {
 	background-color: #fcd208;
