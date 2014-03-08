@@ -34,12 +34,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	height: 80px;
 	top: 0;
 	left: 0;
-	z-index: 10000;
+	z-index: 15;
 	box-shadow: 0 5px 0px rgba(0, 0, 0, 0.07);
-}
-
-.header { /*This adds padding to the header*/
-	width: 100%;
 	padding: 15px;
 }
 
@@ -63,7 +59,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .carousel-overlay {
 	width: 100%;
 	position: absolute;
-	z-index: 4000;
+	z-index: 10;
 
 	text-align: center;
 
@@ -110,18 +106,18 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 }
 
 .carousel-items [data-state="current"] {
-	z-index: 100;
+	z-index: 8;
 }
 
 .carousel-items [data-state="incoming"] {
-	z-index: 101;
+	z-index: 9;
 }
 
 .carousel-buttons {
 	outline: none;
 	position: absolute;
 	margin: 20% 0;
-	z-index: 5000;
+	z-index: 10;
 	width: 100%;
 }
 
@@ -610,8 +606,8 @@ nav ul {
 /*---------------------------------------------------STUDENT AEREA SECTION TAG*/
 
 .student-area {
-	z-index: 3000;
-	position: relative;
+/*	z-index: 3000;
+*/	position: relative;
 
 
 	background-color: #fff;
