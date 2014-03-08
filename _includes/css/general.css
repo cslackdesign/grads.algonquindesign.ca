@@ -782,7 +782,7 @@ nav ul {
 	    opacity:1;
 	    -webkit-transform: translateY(0);
 	  }
-	}
+
 	.js-map-animate {
 		-webkit-animation: logo-fly 1s ease-out 1 forwards;
 	}
@@ -851,7 +851,7 @@ footer{
 	text-align:center;
 	margin:0 auto;
 	clear: both;
-    width: 100%;
+  width: 100%;
 }
 
 hr {
