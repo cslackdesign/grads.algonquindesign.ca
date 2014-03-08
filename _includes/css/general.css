@@ -939,7 +939,7 @@ hr {
 	margin-left: 10px;
 }
 
-@media only screen and (min-width: 75em){
+@media only screen and (min-width: 60em){
 
 	.blurb h2 {
 		font-size: 3rem;
