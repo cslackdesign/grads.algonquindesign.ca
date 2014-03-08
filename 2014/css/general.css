@@ -771,45 +771,43 @@ footer {
 	display: inline-block;
 	background-color: #00ACCF;
 	color: #FFF;
-	margin:0;
-	left:0;
-	bottom:0;
-	right:0;
-	width:100%;
-	padding:.5em;
+	margin: 0;
+	width: 100%;
+}
+
+footer img {
+	width: 100%;
 }
 
 .bubble {
-	width:5em;
-	margin-top:1em;
+	width: 5em;
+	margin-top: 1em;
 }
 
-.complete /*css for level complete*/{
-	font-size:large;
-	display:block;
-	padding-top:.5em;
-	margin:0 auto;
+.complete p /*css for level complete*/{
+	font-size: 5em;
+	display: inline-block;
+	padding-top: .5em;
+	margin: 0 auto;
 }
 
 .again { /*Play again button*/
-	width:11.5em;
-	display:block;
-	padding-top:1em;
-	margin:0 auto;
+	width: 11.5em;
+	display: inline-block;
+	padding-top: 1em;
+	margin: 0 auto;
 }
 
-
-
 .center-all {
-	text-align:center;
-	margin:0 auto;
+	text-align: center;
+	margin: 0 auto;
 	clear: both;
-    width: 100%;
+	width: 100%;
 }
 
 hr {
-	margin-top:2em;
-	width:5em;
+	margin-top: 2em;
+	width: 5em;
 }
 
 .small-caps {
