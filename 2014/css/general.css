@@ -767,7 +767,7 @@ nav ul {
 	text-align: left;
 }
 
-footer{
+footer {
 	display: inline-block;
 	background-color: #00ACCF;
 	color: #FFF;
@@ -808,14 +808,6 @@ footer{
 hr {
 	margin-top:2em;
 	width:5em;
-}
-
-/*facebook twitter vimeo icon*/
-
-.smicon /*Social media icon*/{
-	width:3em;
-	padding-top:1em;
-	display:inline-block;
 }
 
 .small-caps {
