@@ -53,8 +53,8 @@ dialog + .backdrop {
 }
 
 
-.video p {
-	font-size: .75em;
+dialog p {
+	font-size: .85em;
 	padding-bottom: 0;
 	margin-bottom: 0;
 }
