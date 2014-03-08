@@ -459,18 +459,9 @@
     - ham-andy-workpiece2-thumb.jpg
     - ham-andy-workpiece3-thumb.jpg
   video:
-    - ham-andy-workpiece4-thumb.jpg
-    #- 86451028
-    - ham-andy-workpiece5-thumb.jpg
-    #- 78585883
-    - ham-andy-workpiece6-thumb.jpg
-    #- 75184017
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/86451028" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-  video-link2:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/78585883" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-  video-link3:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/75184017" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    86451028: ham-andy-workpiece4-thumb.jpg
+    78585883: ham-andy-workpiece5-thumb.jpg
+    75184017: ham-andy-workpiece6-thumb.jpg
 
 - name: Laura Harvey
   id: harvey-laura

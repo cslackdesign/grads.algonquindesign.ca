@@ -94,7 +94,7 @@
 					{% for video in student.video %}
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1-2">
 						<div class="unit-spacer">
-							<a data-id="{{student.id}}-button-{{forloop.index}}" class="thumbnail-btn"><img class="thumbnail" src="{{site.cdn}}/2014/students/{{student.id}}/{{video}}" alt=""></a>
+							<a data-id="{{student.id}}-button-{{forloop.index}}" class="thumbnail-btn"><img class="thumbnail" src="{{site.cdn}}/2014/students/{{student.id}}/{{video[1]}}" alt=""></a>
 						</div>
 					</div>
 					{% endfor %}
@@ -119,16 +119,10 @@
 					<button class="unit btn-close-item" id="btn-close-item" data-id="{{student.id}}-thumbnails">CLOSE X</button>
 					<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
 						<div class="unit-spacer">
-							<div>{{student.video-link}}</div>
+							<div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/{{video[0]}}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 						</div>
 						<div class="unit-spacer">
-							<div>{{student.video-link2}}</div>
-						</div>
-						<div class="unit-spacer">
-							<div>{{student.video-link3}}</div>
-						</div>
-						<div class="unit-spacer">
-							<img class="flex-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{video | replace:'-thumb','' }}" alt="">
+							<img class="flex-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{video[1] | replace:'-thumb','' }}" alt="">
 						</div>
 					<button class="unit btn-close-item-bottom" id="btn-close-item" data-id="{{student.id}}-thumbnails">CLOSE X</button>
 					</div>

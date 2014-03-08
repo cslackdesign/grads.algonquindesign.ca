@@ -67,6 +67,10 @@ $('.btn-next-profile').click(function () {
   var id = $nextDiv.attr('id');
   openWork = id;
 
+  if ($nextDiv.length <= 0) {
+  	$nextDiv = $(this).parents('.profile').siblings('.profile').first();
+  }
+
   $workDiv.fadeOut(400);
   $nextDiv.fadeIn({
     duration: 400,
@@ -83,6 +87,10 @@ $('.btn-prev-profile').click(function() {
   var $prevDiv = $(this).parents('.profile').prev('.profile');
   var id = $prevDiv.attr('id');
   openWork = id;
+
+  if ($prevDiv.length <= 0) {
+  	$prevDiv = $(this).parents('.profile').siblings('.profile').last();
+  }
 
   $workDiv.fadeOut(400);
   $prevDiv.fadeIn({
