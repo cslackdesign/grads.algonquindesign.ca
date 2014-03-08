@@ -51,3 +51,10 @@ dialog + .backdrop {
 #btn-close:focus {
 	background-color: #fcd208;
 }
+
+
+.video p {
+	font-size: .75em;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}

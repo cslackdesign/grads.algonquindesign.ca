@@ -9,7 +9,7 @@ $('#btn-open').on('click', function(){
   /*.get() returns native javascript for us to access when also using jquery
   (there is both a show for jquery and javascript with different functions)*/
 
-  $dialog.get(0).show();
+  $dialog.get(0).showModal();
   //show() --> allows multiple dialogs
   //showModal() --> Single dialog, with no user interaction behind
 
@@ -20,3 +20,4 @@ $('#close-btn').on('click', function(){
   $dialog.get(0).close();
   $placeholder.html('');
 });
+
