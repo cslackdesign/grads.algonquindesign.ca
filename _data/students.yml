@@ -41,7 +41,7 @@
   facebook: www.facebook.com/pages/Alejandro-Andrade-Brand-Architect-Creative-Director/590106704404974
   behance: www.behance.net/alejandroandrade
   bio: >
-    INCORRECT
+
   images:
     - andrade-alejandro-asinabka-thumb.jpg
     - andrade-alejandro-do-mkt-thumb.jpg
@@ -82,9 +82,7 @@
     - asif-sundus-seafoodgrill-thumb.jpg
     - asif-sundus-xahive-thumb.jpg
   video:
-    - asif-sundus-socialgolfer-thumb.jpg
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81390814" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    81390814: asif-sundus-socialgolfer-thumb.jpg
 
 - name: Dima Badawi
   id: badawi-dima
@@ -106,9 +104,7 @@
     - badawi-dima-xahive-thumb.jpg
     - badawi-dima-oldtouma-thumb.jpg
   video:
-    - badawi-dima-piggy-back-thumb.jpg
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81326455" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    81326455: badawi-dima-piggy-back-thumb.jpg
 
 - name: Emily Barclay
   id: barclay-emily
@@ -401,9 +397,7 @@
     - goto-seita-warmuseum-thumb.jpg
     - goto-seita-wolfpack-thumb.jpg
   video:
-    - goto-seita-rtv-thumb.jpg
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/78564029" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    78564029: goto-seita-rtv-thumb.jpg
 
 - name: Caroline Guindon
   id: guindon-caroline
@@ -424,9 +418,7 @@
     - guindon-caroline-florence4-thumb.jpg
     - guindon-caroline-civilization5-thumb.jpg
   video:
-    - guindon-caroline-motionmusic-thumb.jpg
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81207970" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    81207970: guindon-caroline-motionmusic-thumb.jpg
 
 - name: Kathryn Hallett
   id: hallett-kathryn
@@ -445,7 +437,7 @@
     - hallett-kathryn-filmroll-thumb.jpg
     - hallett-kathryn-hannahmckay-thumb.jpg
 
-- name: Andrew Ham #LINKS TO VIDS
+- name: Andrew Ham
   id: ham-andy
   skills:
     - UX/UI
@@ -675,7 +667,7 @@
     - mccauley-sylvia-tweed-infoposter-thumb.jpg
     - mccauley-sylvia-wakefield-brewery-thumb.jpg
 
-- name: Jesus Monsalve #LINK TO VIDS
+- name: Jesus Monsalve
   id: monsalve-jesus
   skills:
     - Print Media
@@ -690,14 +682,8 @@
     - monsalve-jesus-foodhuntapp-thumb.jpg
     - monsalve-jesus-tiffany&coadvertisementcampaign-thumb.jpg
   video:
-    - monsalve-jesus-seaturtleconservancylogoreveal-thumb.jpg
-    #- 85260353
-    - monsalve-jesus-tiffany&comotionvideo-thumb.jpg
-    #- 86449610
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/85260353" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-  video-link2:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/86449610" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    85260353: monsalve-jesus-seaturtleconservancylogoreveal-thumb.jpg
+    86449610: monsalve-jesus-tiffany&comotionvideo-thumb.jpg
 
 - name: Grace Morton
   id: morton-grace
@@ -918,9 +904,7 @@
     - villeneuve-lisa-glowworm-thumb.jpg
     - villeneuve-lisa-votingapp-thumb.jpg
   video:
-    - villeneuve-lisa-starbucksapp-thumb.jpg
-  video-link:
-    - <div class="embed embed--16by9"><iframe class="embed__item" src="//player.vimeo.com/video/81423932" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    81423932: villeneuve-lisa-starbucksapp-thumb.jpg
 
 - name: Sarah Voss
   id: voss-sarah
