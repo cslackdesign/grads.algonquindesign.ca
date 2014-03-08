@@ -892,7 +892,17 @@ hr {
 /*------------------------CSS#3: CONTACT & FOOTER - Why Attend, Location, Sponsors*/
 
 .about-area {
-	margin: 2em;
+	margin: 1em;
+	padding: 20px;
+}
+
+.blurb p {
+	font-size: 1.3rem;
+	line-height: 1.7rem;
+}
+
+.blurb h2 {
+	text-align:left;
 }
 
 .about-area li {
@@ -929,6 +939,40 @@ hr {
 	margin-left: 10px;
 }
 
+@media only screen and (min-width: 75em){
+
+	.blurb h2 {
+		font-size: 3rem;
+		text-align: left;
+	}
+
+	.blurb p {
+		line-height: 2.4rem;
+		font-size: 2rem;
+		font-weight: bold;
+	}
+
+	.event-info,
+	.sponsor {
+		margin-top: 2rem;
+	}
+
+	.event-info,
+	.sponsor h3 {
+		font-size: 2.5rem;
+	}
+
+	.event-info li {
+		font-size: 1.6rem;
+		line-height: 1.7rem;
+		padding-bottom: .7rem;
+	}
+
+	.about-area {
+		padding: 40px;
+	}
+
+}
 
 
 
