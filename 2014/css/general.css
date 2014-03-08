@@ -590,12 +590,6 @@ nav ul {
 	transition: transform 0.4s;
 }
 
-.bio {
-}
-
-.skills {
-}
-
 .stu-grid-box figure {
   display: block;
   overflow: hidden;
@@ -768,15 +762,23 @@ nav ul {
 }
 
 footer {
-	display: inline-block;
+	display: block;
 	background-color: #00ACCF;
 	color: #FFF;
-	margin: 0;
+	margin: 0 auto;
 	width: 100%;
+	text-align: center;
 }
 
 footer img {
+	display: inline-block;
+	margin: 0 auto;
 	width: 100%;
+}
+
+footer .social-l {
+	display: inline-block;
+	padding: 20px;
 }
 
 .bubble {
@@ -801,7 +803,6 @@ footer img {
 .center-all {
 	text-align: center;
 	margin: 0 auto;
-	clear: both;
 	width: 100%;
 }
 
