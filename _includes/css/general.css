@@ -810,11 +810,6 @@ nav ul {
 	}
 }
 
-
-@media only screen and (min-width: 30em) {
-
-
-
 footer{
 	display: inline-block;
 	background-color: #00ACCF;
@@ -882,8 +877,6 @@ hr {
 
 .vmap:hover{
 	color:#FED100;
-}
-
 }
 
 
