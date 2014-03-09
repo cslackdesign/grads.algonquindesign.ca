@@ -52,7 +52,7 @@
 	max-width: 60%;
 	height: 100%;
 	padding: 5%;
-	background-image:url({{site.cdn}}/img/404/gameover.png);
+	background-image: url({{site.cdn}}/img/404/gameover.png);
 	background-color: green;
 }
 
