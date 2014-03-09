@@ -9,7 +9,7 @@ $('#btn-open').on('click', function(){
   /*.get() returns native javascript for us to access when also using jquery
   (there is both a show for jquery and javascript with different functions)*/
 
-  $dialog.get(0).showModal();
+  $dialog.get(0).show();
   //show() --> allows multiple dialogs
   //showModal() --> Single dialog, with no user interaction behind
 

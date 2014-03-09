@@ -908,7 +908,7 @@ hr {
 	height: 100px;
 	margin: 0 auto;
 	margin-top: 1em;
-	background-image:url(../img/restart-home-btn.png);
+	background-image:url({{site.cdn}}/img/404/restart-home-btn.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -922,7 +922,7 @@ hr {
 #btn-404:focus {
 	width: 200px;
 	height: 100px;
-	background-image:url(../img/restart-home-hover.png);
+	background-image:url({{site.cdn}}/img/404/restart-home-hover.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
@@ -956,11 +956,11 @@ hr {
 	max-width: 60%;
 	height: 100%;
 	padding: 5%;
-	background-image:url(../img/gameover.png);
+	background-image:url({{site.cdn}}/img/404/gameover.png);
 }
 
 .pacman {
-	background-image: url(../img/pacman.png);
+	background-image: url({{site.cdn}}/img/404/pacman.png);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
