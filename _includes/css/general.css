@@ -344,6 +344,10 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	float: right;
 }
 
+.social {
+	display: none;
+}
+
 .social-f {
 	display: inline-block;
 	margin-top: 20px;
@@ -544,7 +548,7 @@ nav ul {
 	right: 5px;
 }
 
-@media only screen and (min-width: 30em) { /*Medium Screen*/
+@media only screen and (min-width: 23em) { /*Medium Screen*/
 
 	.nav li,
 	.social {
