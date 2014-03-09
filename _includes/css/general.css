@@ -14,6 +14,12 @@
 	box-sizing: border-box;
 }
 
+/*
+Colours:
+Blue: #00ACCF
+Yellow: #fdd106
+*/
+
 body {
 	margin: 0;
 	padding: 0;
@@ -348,16 +354,23 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	display: none;
 }
 
-.social-f {
+.social-f,
+.playagain {
 	display: inline-block;
 	margin-top: 20px;
 }
 
 .nav-btn a,
 .social,
-.social-f {
+.social-f,
+.playagain {
 	padding: 20px;
 	background-color: #00ACCF;
+}
+
+.nav-btn a,
+.social,
+.social-f {
 	margin-right: 10px;
 }
 
@@ -387,12 +400,11 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social5,
 	.social6,
 	.social7,
-	.social8 {
-		background-size: contain;
+	.social8,
+	.playagain {
 		background-position: top;
 		background-repeat:no-repeat;
 		background-size: 100%;
-
 	}
 
 	.social1 {
@@ -427,14 +439,19 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		background-image: url({{site.cdn}}/2014/img/icons/vimeo.png);
 	}
 
+	.playagain {
+		background-image: url({{site.cdn}}/2014/img/icons/play-again.png);
+	}
+
 	.social1:hover,
 	.social2:hover,
 	.social3:hover,
 	.social4:hover,
 	.social5:hover,
 	.social6:hover,
-	.social7:hover {
-		background-color: #FFF;
+	.social7:hover,
+	.playagain:hover {
+		background-color: #fdd106;
 		background-position: top;
 	}
 
@@ -504,6 +521,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		background-image: url({{site.cdn}}/2014/img/icons/vimeo-hover.png);
 	}
 
+	.playagain:hover,
+	.playagain:focus,
+	.playagain:active {
+		background-image: url({{site.cdn}}/2014/img/icons/play-again-hover.png);
+}
+
 	.nav-logo a:hover,
 	.nav-logo a:focus,
 	.nav-logo a:active,
@@ -533,7 +556,10 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	.social5:active,
 	.social6:active,
 	.social7:active,
-	.social8:active {
+	.social8:active,
+	.playagain:hover,
+	.playagain:focus,
+	.playagain:active {
 
 		-webkit-transition: all .3s ease-in-out;
 		-moz-transition: all .3s ease-in-out;
@@ -926,13 +952,18 @@ hr {
 	text-align: center;
 }
 
-.footer-social-i {
+.footer-social-i,
+.footer-again {
 	position: relative;
 }
 
 .footer-social-i a {
 	padding: 1.42em;
 	margin-left: 10px;
+}
+
+.footer-again a {
+	padding: 23.4px 92px;
 }
 
 @media only screen and (min-width: 60em){
