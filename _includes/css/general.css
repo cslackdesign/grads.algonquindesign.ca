@@ -6,18 +6,18 @@
 @viewport { width: device-width; scale: 1; }
 
 * {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -o-box-sizing: border-box;
-  -khtml-box-sizing: border-box;
-  box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-khtml-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  font-family: helvetica, arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	font-family: helvetica, arial, sans-serif;
 }
 
 img {
@@ -49,8 +49,8 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 
 .landing {
 	width: 100%;
-  margin: 0;
-  padding:0;
+	margin: 0;
+	padding:0;
 }
 
 
@@ -312,14 +312,14 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 /* CLEARFIX */
 
 .cf:after, .cf:before {
-    content:"";
-    display:table;
+		content:"";
+		display:table;
 }
 .cf:after {
-    clear:both;
+		clear:both;
 }
 .cf {
-    zoom:1;
+		zoom:1;
 }​
 
 /*=================NAV and SOCIAL NETWORK LINKS=================*/
@@ -645,10 +645,10 @@ nav ul {
 }
 
 .stu-grid-box figure {
-  display: block;
-  overflow: hidden;
-  position: relative;
-  cursor: pointer;
+	display: block;
+	overflow: hidden;
+	position: relative;
+	cursor: pointer;
  }
 
 .stu-grid-box figcaption {
@@ -659,12 +659,12 @@ nav ul {
 	background-color: rgba(254,209,0,0.8);
 	padding: 0.3em 0;
 	height: 300px;
-  top: 100%;
-  bottom: 0;
-  opacity: 0;
+	top: 100%;
+	bottom: 0;
+	opacity: 0;
 -webkit-transition: all 0.6s ease;
-  -moz-transition:    all 0.6s ease;
-  -o-transition:      all 0.6s ease;
+	-moz-transition:    all 0.6s ease;
+	-o-transition:      all 0.6s ease;
 }
 
 .stu-grid-box figure a {
@@ -769,19 +769,19 @@ nav ul {
 	}
 
 	@-webkit-keyframes logo-fly {
-	  0% {
-	    opacity:0;
-	    -webkit-transform: translateY(40px);
-	  }
+		0% {
+			opacity:0;
+			-webkit-transform: translateY(40px);
+		}
 
-	  40%{
-	    opacity:1;
-	  }
+		40%{
+			opacity:1;
+		}
 
-	  100%{
-	    opacity:1;
-	    -webkit-transform: translateY(0);
-	  }
+		100%{
+			opacity:1;
+			-webkit-transform: translateY(0);
+		}
 	}
 	.js-map-animate {
 		-webkit-animation: logo-fly 1s ease-out 1 forwards;
@@ -851,7 +851,7 @@ footer{
 	text-align:center;
 	margin:0 auto;
 	clear: both;
-  width: 100%;
+	width: 100%;
 }
 
 hr {
