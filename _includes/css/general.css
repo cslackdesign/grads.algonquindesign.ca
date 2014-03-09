@@ -787,7 +787,7 @@ nav ul {
 
 @media only screen and (min-width: 30em) {
 	.map-section {
-		height: 40em;
+		height: 20em;
 	}
 
 	.map img {
