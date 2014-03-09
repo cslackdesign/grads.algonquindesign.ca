@@ -23,7 +23,7 @@
 
 				<div class="unit unit-xs-1 unit-s-1-2 unit-m-1 unit-l-1">
 					<div class="unit-spacer">
-						<img class="student-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{student.id}}.jpg" alt="">
+						<img class="student-img" src="{{site.cdn}}/2014/students/{{student.id}}/{{student.id}}.jpg" alt="{{student.id}}.jpg">
 					</div>
 				</div>
 
@@ -35,7 +35,7 @@
 							<ul class="skills">
 								<li><strong>Skills:</strong></li>
 								{% for skill in student.skills %}
-								<li>{{skill}}<img class="hearts" src="{{site.cdn}}/2014/img/icons/heart-1.png" alt=""></li>
+								<li>{{skill}}<img class="hearts" src="{{site.cdn}}/2014/img/icons/heart-1.png" alt="hearts-for-skills"></li>
 								{% endfor %}
 							</ul>
 					</div>
