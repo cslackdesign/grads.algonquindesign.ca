@@ -5,10 +5,11 @@
 	height: 100px;
 	margin: 0 auto;
 	margin-top: 1em;
-	background-image:url({{site.cdn}}/img/404/restart-home-btn.png);
+	background-image: url({{site.cdn}}/img/404/restart-home-btn.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
+	background-color: blue;
 
 	/*Remove default style*/
 	border: none;
@@ -19,10 +20,11 @@
 .btn-404:focus {
 	width: 200px;
 	height: 100px;
-	background-image:url({{site.cdn}}/img/404/restart-home-hover.png);
+	background-image: url({{site.cdn}}/img/404/restart-home-hover.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
+	background-color: red;
 }
 
 .background404 {
@@ -30,6 +32,7 @@
 	height: 100%;
 	margin: 0;
 	padding: 20px;
+	background-color: orange;
 }
 
 .error404 p {
@@ -50,6 +53,7 @@
 	height: 100%;
 	padding: 5%;
 	background-image:url({{site.cdn}}/img/404/gameover.png);
+	background-color: green;
 }
 
 .pacman {
@@ -60,6 +64,7 @@
 	width: 100%;
 	height: 100%;
 	padding: 14%;
+	background-color: yellow;
 }
 
 /* --------------End of 404 area------------------*/
