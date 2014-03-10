@@ -1,9 +1,13 @@
 /* -----------404 area----------- */
 
 .btn-404 {
+	width: 200px;
+	height: 100px;
+	margin: 0 auto;
+	margin-top: 30px;
 	background-image: url('{{site.cdn}}/2014/img/restart-home-btn.png');
-	background-position: top;
-	background-repeat:no-repeat;
+	background-position: center;
+	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
@@ -11,9 +15,11 @@
 .btn-404:active,
 .btn-404:focus {
 	background-image: url('{{site.cdn}}/2014/img/restart-home-hover.png');
-		background-position: top;
-		background-repeat:no-repeat;
-		background-size: 100%;
+	width: 200px;
+	height: 100px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 .background404 {
