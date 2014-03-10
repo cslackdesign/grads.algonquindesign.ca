@@ -1,5 +1,5 @@
 markdown: redcarpet
-baseurl: ""
+baseurl: "/grads.algonquindesign.ca"
 exclude: ['README.md', 'CNAME', 'next-year-template', 'assets', 'bio-test.html']
 
 cdn: //grads.images.algonquindesign.ca
