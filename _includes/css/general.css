@@ -59,17 +59,13 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	padding:0;
 }
 
-
 /*CAROUSEL OVER LAY*/
 
 .carousel-overlay {
 	width: 100%;
 	position: absolute;
 	z-index: 10;
-
 	text-align: center;
-
-
 	color: #fff;
 }
 
@@ -91,7 +87,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 .carousel-overlay .btn-open{
 	margin: 0;
 	padding:0;
-
 }
 
 /*---------------------CAROUSEL*/
@@ -235,7 +230,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
-
 }
 
 @media only screen and (min-width: 25em) {
@@ -251,7 +245,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	#btn-open:focus {
 		width: 100px;
 		height: 75px;
-
 	}
 }
 
@@ -268,7 +261,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	#btn-open:focus {
 		width: 150px;
 		height: 100px;
-
 	}
 }
 
@@ -291,7 +283,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	#btn-open:focus {
 		width: 200px;
 		height: 175px;
-
 	}
 }
 
@@ -308,7 +299,6 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	#btn-open:focus {
 		width: 200px;
 		height: 175px;
-
 	}
 }
 
@@ -581,10 +571,6 @@ nav ul {
 		max-height: 14rem;
 		display: inline-block;
 	}
-
-	.nav {
-	}
-
 }
 
 #players {
@@ -637,8 +623,6 @@ nav ul {
 .student-area {
 /*	z-index: 3000;
 */	position: relative;
-
-
 	background-color: #fff;
 }
 
@@ -657,9 +641,6 @@ nav ul {
 
 
 /*----------------------------CSS#2: STUDENT & WORK AREA - Lisa, Amy, Caroline*/
-
-
-
 
 .student-section {
 	max-width: 1500px;
@@ -717,7 +698,6 @@ nav ul {
 	.stu-grid-box figcaption h3 {
 		font-size: 0.7em;
 	}
-
 }
 
 
@@ -736,9 +716,6 @@ nav ul {
 
 /*------------------------CSS#3: CONTACT & FOOTER - Winnie, Mansura, Stephanie*/
 
-
-
-
 /*MAP AREA*/
 .map-section {
 	margin-top: 2rem;
@@ -749,7 +726,6 @@ nav ul {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: 100%;
-
 }
 
 .map {
@@ -840,7 +816,7 @@ nav ul {
 	}
 }
 
-footer{
+footer {
 	display: inline-block;
 	background-color: #00ACCF;
 	color:#FFF;
@@ -998,7 +974,6 @@ hr {
 	.about-area {
 		padding: 40px;
 	}
-
 }
 
 
