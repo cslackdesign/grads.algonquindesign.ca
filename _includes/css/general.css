@@ -656,7 +656,8 @@ nav ul {
 .student-img:hover,
 .student-img:focus,
 .student-img:active {
-	display:none;
+	opacity: 0;
+/*	display:none;*/
 }
 
 
