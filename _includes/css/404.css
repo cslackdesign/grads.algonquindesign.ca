@@ -1,32 +1,22 @@
-/* -----------404 area----------- */
-
-.btn-404 {
-	width: 200px;
-	height: 100px;
-	margin: 0 auto;
-	margin-top: 30px;
-	background-image: url('{{site.cdn}}/2014/img/restart-home-btn.png');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100%;
-}
-
-.btn-404:hover,
-.btn-404:active,
-.btn-404:focus {
-	background-image: url('{{site.cdn}}/2014/img/restart-home-hover.png');
-	width: 200px;
-	height: 100px;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: 100%;
-}
-
 .background404 {
 	width: 100%;
 	height: 100%;
-	margin: 0;
-	padding: 20px;
+	padding: 2em;
+	max-width: 50em;
+	margin: 0 auto;
+}
+
+.gameover {
+	background-image: url('{{site.cdn}}/2014/img/gameover.png');
+	margin: 0 auto;
+	margin-top: 5em;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	max-width: 30em;
+	height: 100%;
+	padding: 15%;
+	padding-bottom: 0;
 }
 
 .error404 p {
@@ -35,18 +25,34 @@
 	font-size: 1em;
 	text-align: center;
 	width: 100%;
+	margin: 0;
+	padding: 0;
 }
 
-.gameover {
+.btn-404 {
+	background-image: url('{{site.cdn}}/2014/img/restart-home-btn.png');
 	margin: 0 auto;
-	margin-top: 5em;
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: contain;
-	max-width: 60%;
+	max-width: 15em;
+	max-height: 100%;
+	padding: 20%;
+	padding-bottom: 0;
+}
+
+.btn-404:hover,
+.btn-404:active,
+.btn-404:focus {
+	background-image: url('{{site.cdn}}/2014/img/restart-home-hover.png');
+	margin: 0 auto;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	max-width: 15em;
 	height: 100%;
-	padding: 5%;
-	background-image: url('{{site.cdn}}/2014/img/gameover.png');
+	padding: 20%;
+	padding-bottom: 0;
 }
 
 .pacman {
@@ -56,7 +62,6 @@
 	background-size: contain;
 	width: 100%;
 	height: 100%;
-	padding: 14%;
+	padding: 20%;
+	margin: 0;
 }
-
-/* --------------End of 404 area------------------*/
