@@ -651,8 +651,16 @@ nav ul {
 	width: 100%;
 	display: block;
 	position: relative;
-	transition: transform 0.4s;
 }
+
+.student-img:hover,
+.student-img:focus,
+.student-img:active {
+	display:none;
+}
+
+
+
 
 .stu-grid-box figure {
 	display: block;
