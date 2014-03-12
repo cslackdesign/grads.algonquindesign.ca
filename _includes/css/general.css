@@ -694,6 +694,7 @@ nav ul {
 	width: 100%;
 	display: block;
 	position: relative;
+	transition: transform 0.4s;
 }
 
 .stu-grid-box figure {
