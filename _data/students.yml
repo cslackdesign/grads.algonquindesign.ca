@@ -2,8 +2,8 @@
   id: abdulwahab-mariam
   skills:
     - skill-icons-blue-ux-ui.png
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/mariamadesign
   behance: www.behance.net/mariamabdul
   linkedin: www.linkedin.com/pub/mariam-abdulwahab/61/340/58/
@@ -18,8 +18,8 @@
   id: albert-stephanie
   skills:
     - skill-icons-blue-ux-ui.png
-    - Web
-    - Print
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   twitter: twitter.com/stephbydesign
   behance: behance.net/stephbydesign
   bio: >
@@ -32,9 +32,9 @@
   id: andrade-alejandro
   skills:
     - skill-icons-blue-ux-ui.png
-    - Web
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-web.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/malejandroa
   facebook: www.facebook.com/pages/Alejandro-Andrade-Brand-Architect-Creative-Director/590106704404974
   behance: www.behance.net/alejandroandrade
@@ -47,10 +47,10 @@
 - name: Nick Appolon
   id: appolon-nick
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   behance: www.behance.net/nick-appolon
   twitter: www.twitter.com/nick88999
   vimeo: vimeo.com/user16334766
@@ -64,10 +64,10 @@
 - name: Sundus Asif
   id: asif-sundus
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
   behance: www.behance.net/sundusart
   linkedin: www.linkedin.com/pub/sundus-asif/61/566/38/
   vimeo: vimeo.com/user16334786
@@ -85,11 +85,11 @@
 - name: Dima Badawi
   id: badawi-dima
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Motion Graphics
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-illustration.png
   behance: www.behance.net/dimabadawi
   twitter: www.twitter.com/dima_f_b
   vimeo: vimeo.com/user18570401
@@ -107,9 +107,9 @@
 - name: Emily Barclay
   id: barclay-emily
   skills:
-    - UX/UI
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   behance: www.behance.net/emmyb
   bio: >
     I imagine a more loving, sustainable and delightful world. I will succeed in supporting and creating peace, acceptance and amazing design.
@@ -121,9 +121,9 @@
 - name: Lisa Beaton
   id: beaton-lisa
   skills:
-    - UX/UI
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   behance: www.behance.net/lisabeaton
   vimeo: vimeo.com/lisabeaton
   linkedin: www.linkedin.com/pub/lisa-beaton/27/a2a/b59
@@ -139,11 +139,11 @@
 - name: Amy Brown
   id: brown-amy
   skills:
-    - UX/UI
-    - Web
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   vimeo: vimeo.com/amuelb
   behance: www.behance.net/amuelb
   linkedin: ca.linkedin.com/amuelb
@@ -159,9 +159,9 @@
 - name: Stephanie Cansfield
   id: cansfield-stephanie
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/stephaniedawndesigns
   facebook: www.facebook.com/stephie.sunshine
   bio: >
@@ -175,8 +175,8 @@
 - name: Keisha Chamberlain
   id: chamberlain-keisha
   skills:
-    - UX/UI
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/kayccreations
   website: kayceecreations.wordpress.com
   behance: www.behance.net/kayceecreations
@@ -192,9 +192,9 @@
 - name: Cassandra-Lyne Chartrand
   id: chartrand-cassandra
   skills:
-    - UX/UI
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   behance: www.behance.net/cassie-chartrand
   email: cassiechartrand@gmail.com
   bio: >
@@ -210,10 +210,10 @@
 - name: Jenny Chew
   id: chew-jenny
   skills:
-    - UX/UI
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/JennyChewDesign
   vimeo: vimeo.com/user16436363
   behance: www.behance.net/jennychew
@@ -228,9 +228,9 @@
 - name: Mansura Chowdhury
   id: chowdhury-mansura
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/emdsgns
   behance: www.behance.net/mansurachowdhury
   website: emdsgn.github.io
@@ -246,8 +246,8 @@
 - name: Stephanie Csanky
   id: csanky-stephanie
   skills:
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/stephaniecsanky
   linkedin: www.linkedin.com/pub/stephanie-csanky/28/a07/274
   bio: >
@@ -262,10 +262,9 @@
 - name: Jamie Dean
   id: dean-jamie
   skills:
-    - Print Media
-    - Illustration
-    - Motion Graphics
-    - Beard Growing
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
+    - skill-icons-blue-motion.png
   twitter: www.twitter.com/JDeanTweets
   vimeo: vimeo.com/JDeanVideos
   behance: www.behance.net/JamieDean
@@ -278,10 +277,10 @@
 - name: Steven Donegani
   id: donegani-steve
   skills:
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
-    - Illustration
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/stevedonegani
   facebook: www.facebook.com/stevendoneganiart
   behance: www.behance.net/stevendonegani
@@ -298,7 +297,7 @@
 - name: Lindsay Dupuis
   id: dupuis-lindsay
   skills:
-    - Print Media
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/lindsorz
   behance: www.behance.net/lindsaydupuis
   linkedin: www.linkedin.com/pub/lindsay-dupuis/65/b0a/511
@@ -313,8 +312,8 @@
 - name: Ian Durkin
   id: durkin-ian
   skills:
-    - UX/UI
-    - Print
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
   twitter: twitter.com/djiandurkin
   facebook: facebook.com/idurkin
   behance: behance.net/iandurkindesign
@@ -330,15 +329,15 @@
 - name: Ashley Edmundson
   id: edmundson-ashley
   skills:
-    - UX/UI
-    - Print
-    - Motion Graphics
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-illustration.png
   twitter: twitter.com/Ashenart89
   dribble: dribbble.com/Ashenart
   behance: www.behance.net/ashenart
   bio: >
-    Originally from the west coast, I'm a dreamer with a love of adventure and the arts. My main focus is in branding, UX/UI, and illustration.
+    Originally from the west coast, I'm a dreamer with a love of adventure and the arts. My main focus is in branding, ui, and illustration.
   images:
     - edmundson-ashley-motivationalposter-thumb.jpg
     - edmundson-ashley-nfpbranding-thumb.jpg
@@ -348,9 +347,9 @@
 - name: Robert Freeman
   id: freeman-robert
   skills:
-    - Web Design/Development
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   website: RobGraphic.com
   email: Robert.Freeman@live.ca
   bio: >
@@ -363,9 +362,8 @@
 - name: James Gollner #NEED BIO
   id: gollner-james
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Branding
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
   media: www.link.com
   bio: >
 
@@ -379,9 +377,9 @@
 - name: Seita Goto
   id: goto-seita
   skills:
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/gotoseita
   behance: www.behance.net/seitagoto
   linkedin: www.linkedin.com/pub/seita-goto/1b/306/596/
@@ -400,10 +398,10 @@
 - name: Caroline Guindon
   id: guindon-caroline
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
   twitter: www.twitter.com/caro_guindon
   behance: www.behance.net/cguindon
   website: cgdesigned.ca
@@ -421,10 +419,10 @@
 - name: Kathryn Hallett
   id: hallett-kathryn
   skills:
-    - UX/UI
-    - Print Media
-    - Photography/Photomanipulation
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/kathryniscallin
   behance: www.behance.net/khallett23
   bio: >
@@ -438,12 +436,12 @@
 - name: Andrew Ham
   id: ham-andy
   skills:
-    - UX/UI
-    - Print Media
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
   vimeo: www.vimeo.com/andyham
   bio: >
-    Hardworking, motivated, all topped off with a killer personality. I have an eye for good design and a passion for motion graphics.
+    Hardworking, motivated, all topped off with a killer personality. I have an eye for good design and a passion for motion graphics
   images:
     - ham-andy-workpiece1-thumb.jpg
     - ham-andy-workpiece2-thumb.jpg
@@ -456,8 +454,8 @@
 - name: Laura Harvey
   id: harvey-laura
   skills:
-    - UX/UI
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/laurahcreative
   behance: www.behance.net/laurahcreative
   bio: >
@@ -471,9 +469,9 @@
 - name: Jessica Hay
   id: hay-jessica
   skills:
-    - Web Design/Development
-    - Print Media
-    - Illustration
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/2Hayj
   behance: www.behance.net/jessicahay
   website: heyjessicahay.com
@@ -489,8 +487,8 @@
 - name: Lianne Hébert
   id: hebert-lianne
   skills:
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   facebook: www.facebook.com/pages/Lianne-Hébert-Graphic-Design/272158256239758
   behance: www.behance.net/LianneHebert
   bio: >
@@ -504,10 +502,10 @@
 - name: Earaj Inam
   id: inam-earaj
   skills:
-    - UX/UI
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/earaj_i
   behance: www.behance.net/earajinam
   vimeo: vimeo.com/earajinam
@@ -523,10 +521,10 @@
 - name: Winnie Lau
   id: lau-winnie
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   facebook: www.facebook.com/winnie.lau.3110
   linkedin: www.linkedin.com/pub/winnie-lau/61/55b/a54
   vimeo: vimeo.com/user16233723
@@ -544,8 +542,8 @@
 - name: Michelle Lauer
   id: lauer-michelle
   skills:
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/michellelauer
   bio: >
     A young designer inspired by everyday moments, intelligent brands, great design and laughter.
@@ -556,10 +554,10 @@
 - name: Kyounghee Lauren Lee
   id: lauren-lee-kyounghee
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/KyoungheeDesign
   behance: www.behance.net/kyoungheeleedesign
   linkedin: www.linkedin.com/pub/kyounghee-lee/61/5b2/a93
@@ -575,10 +573,10 @@
 - name: Jillian Lim
   id: lim-jillian
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   behance: www.behance.net/jillianlim
   bio: >
     Welcome to my little section of the website!
@@ -591,8 +589,8 @@
 - name: Nick Macdougall
   id: macdougall-nick
   skills:
-    - UX/UI
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/yonickmcd
   behance: www.behance.net/nickmcd
   website: www.nick-mcd.com
@@ -608,7 +606,7 @@
 - name: Kelsey MacMillan
   id: macmillan-kelsey
   skills:
-    - Print Media
+    - skill-icons-blue-print.png
   behance: www.behance.net/kmacmillan15
   bio: >
     I am an inspired, enthusiastic print graphic designer, ready for new experiences in the design world.
@@ -620,9 +618,9 @@
 - name: Alyster Mahoney
   id: mahoney-alyster
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/alymahoney
   linkedin: www.linkedin.com/pub/aly-mahoney/66/723/739
   website: mahoneydesign.ca
@@ -638,8 +636,8 @@
 - name: Jacob Matte
   id: matte-jacob
   skills:
-    - UX/UI
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/JacobMatte
   bio: >
     I aim to be a valuable and lasting contributor in the design community by providing simple solutions with awesome execution.
@@ -651,9 +649,9 @@
 - name: Sylvia McCauley
   id: mccauley-sylvia
   skills:
-    - UX/UI
-    - Print Media
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
   twitter: www.twitter.com/mccauleysylvia
   behance: www.behance.net/sylviamccauley
   vimeo: vimeo.com/user9161358
@@ -668,9 +666,9 @@
 - name: Jesus Monsalve
   id: monsalve-jesus
   skills:
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   behance: www.behance.net/MonsalveDesign
   linkedin: www.linkedin.com/pub/jesus-monsalve/60/274/b40
   vimeo: vimeo.com/monsalvedesign
@@ -687,9 +685,8 @@
   id: morton-grace
   skills:
     - Illustration
-    - Print Media
-    - Photography/Photomanipulation
-    - Branding
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   behance: www.behance.net/gracemorton
   twitter: www.twitter.com/GraySeaCreative
   vimeo: www.vimeo.com/gracemorton
@@ -705,8 +702,8 @@
 - name: Sabrina Ng
   id: ng-sabrina
   skills:
-    - UX/UI
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/ng_sabrina
   behance: www.behance.net/ngsabrina
   website: www.ngsabrina.com
@@ -722,9 +719,9 @@
 - name: Anna Odeh
   id: odeh-anna
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/annaodeh
   bio: >
     I am able to offer many creative solutions for a variety of different products including advertising, websites, corporate identities, and branding.
@@ -738,9 +735,9 @@
 - name: Nadia Pietrobon
   id: pietrobon-nadia
   skills:
-    - Print
-    - Web
-    - Illustration
+    - skill-icons-blue-print.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-illustration.png
   twitter: twitter.com/nadiajpietrobon
   facebook: www.facebook.com/nadiapietrobon
   behance: www.behance.net/NadiaPietrobon
@@ -754,9 +751,9 @@
 - name: Sheena Ravary
   id: ravary-sheena
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/srravary
   behance: www.behance.net/sheenaravary
   linkedin: www.linkedin.com/pub/sheena-ravary/6b/32/96b/
@@ -770,8 +767,8 @@
 - name: Jenny Richardson
   id: richardson-jenny
   skills:
-    - Print Media
-    - Illustration
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   website: www.jennyrichardson.ca
   bio: >
     My love for art, films, comics, books, and horror culture inspire me to be the designer and illustrator I am today. I love creating things!
@@ -785,9 +782,9 @@
 - name: Celta Riden
   id: riden-celta
   skills:
-    - Print Media
-    - Motion Graphics
-    - Photography/Photomanipulation
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/Ridentweets
   behance: www.behance.net/celtariden
   vimeo: vimeo.com/user21192495
@@ -800,8 +797,8 @@
 - name: Robyn Rutherford
   id: rutherford-robyn
   skills:
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/RutherfordRobyn
   behance: www.behance.net/RobynRutherford
   linkedin: www.linkedin.com/pub/robyn-rutherford/55/818/90a
@@ -815,9 +812,9 @@
 - name: Kelly Seay
   id: seay-kelly
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   twitter: www.twitter.com/kellyseayy
   behance: www.behance.net/KellySeay
   linkedin: www.linkedin.com/pub/kelly-seay/50/3a5/b2b/
@@ -832,16 +829,16 @@
 - name: William Shaw
   id: shaw-william
   skills:
-    - UX/UI
-    - Motion Graphics
-    - Illustration
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-motion.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/willshawdesign
   behance: www.behance.net/williamshawdesign
   linkedin: www.linkedin.com/pub/william-shaw/41/922/6a0/
   website: williamshaw.ca
   vimeo: vimeo.com/williamshawdesign
   bio: >
-    I love to make stuff. Motion Graphics, Illustration, and UI too.
+    I love to make stuff. Motion graphics, Illustration, and UI too.
   images:
     - shaw-william-arnejacobsenbook-thumb.jpg
     - shaw-william-broleonpicturesbrading-thumb.jpg
@@ -850,9 +847,9 @@
 - name: Cassie Slack
   id: slack-cassie
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-motion.png
   twitter: www.twitter.com/CSlackDesign
   behance: www.behance.net/CSlack
   website: cslackdesign.github.io
@@ -868,10 +865,10 @@
 - name: Michaela Tuor
   id: tuor-michaela
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   facebook: www.facebook.com/MichaelaTuorDesign?ref=hl
   linkedin: www.linkedin.com/pub/michaela-tuor/59/451/a71
   website: www.michaelatuor.ca
@@ -887,9 +884,9 @@
 - name: Lisa Villeneuve
   id: villeneuve-lisa
   skills:
-    - UX/UI
-    - Web Design/Development
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-web.png
+    - skill-icons-blue-motion.png
   website: www.lisavilleneuve.ca/portfolio/
   behance: www.behance.net/lisavilleneuve
   twitter: www.twitter.com/littleninjag
@@ -907,8 +904,8 @@
 - name: Sarah Voss
   id: voss-sarah
   skills:
-    - Web Design/Development
-    - Print Media
+    - skill-icons-blue-web.png
+    - skill-icons-blue-print.png
   behance: www.behance.net/sarahvossdesign
   bio: >
     I am an energetic graphic designer who sees everyday as an opportunity to create, learn and experience all that life has to offer.
@@ -919,9 +916,9 @@
 - name: Grace Walker
   id: walker-grace
   skills:
-    - UX/UI
-    - Print Media
-    - Motion Graphics
+    - skill-icons-blue-ux-ui.png
+    - skill-icons-blue-print.png
+    - skill-icons-blue-motion.png
   twitter: www.twitter.com/gracieskywalker
   behance: www.behance.net/gracewalkerdesigns
   vimeo: vimeo.com/gracewalker
@@ -936,8 +933,8 @@
 - name: Maddi Watson
   id: watson-maddi
   skills:
-    - Print Media
-    - Illustration
+    - skill-icons-blue-print.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/mwatsondesigns
   facebook: www.facebook.com/mwatsondesigns
   linkedin: www.linkedin.com/pub/maddison-watson/4a/73/53
@@ -951,8 +948,8 @@
 - name: Cameron Webb
   id: webb-cameron
   skills:
-    - Print Media
-    - Photography/Photomanipulation
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
   twitter: www.twitter.com/sndclshdsn
   facebook: www.facebook.com/cameron.webb.125
   bio: >
@@ -968,9 +965,9 @@
 - name: Tirzah Wood
   id: wood-tirzah
   skills:
-    - Print
-    - Photography/Photomanipulation
-    - Illustration
+    - skill-icons-blue-print.png
+    - skill-icons-blue-photography.png
+    - skill-icons-blue-illustration.png
   twitter: www.twitter.com/TirzahDesigns
   facebook: www.facebook.com/pages/Tirzah-Wood/404576896305765?ref=hl
   behance: www.behance.net/tirzahwood

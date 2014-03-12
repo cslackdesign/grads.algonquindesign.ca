@@ -61,6 +61,13 @@
 	background-image: url(../img/hearts.png);
 	width: 6em;
 	margin: 0 1em;
+	display: inline;
+}
+
+.skills-icon {
+	width: 45px;
+	height:45px;
+	display: inline
 }
 
 .work {
