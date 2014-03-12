@@ -1,7 +1,6 @@
 /* Grey box around Profile*/
 .box {
 	background-color: #F2F2F2;
-	margin-bottom: 8px;
 	border: 1px solid #d9d9d9;
 	font: normal 100%/1.5 helvetica, arial, sans-serif;
 }
@@ -11,13 +10,15 @@
 	position: relative;
 }
 
+
+
 @media only screen and (min-width:90em){
-	.profile {
-	top: 0;
-	position: relative;
-	max-width: 80%;
-	margin:0 auto;
-}
+		.profile {
+		top: 0;
+		position: relative;
+		max-width: 80%;
+		margin:0 auto;
+	}
 }
 
 .profile a {
@@ -99,7 +100,8 @@
 	font-weight: bold;
 	cursor: pointer;
 	outline: none;
-	margin-bottom: 8px;
+	padding: 8px;
+	width: 100%;
 }
 
 .btn-close-profile p {
@@ -125,6 +127,7 @@
 	top: 8px;
 	right: 8px;
 	outline: none;
+  opacity: 0.5;
 	}
 
 .btn-close-item-bottom {
@@ -141,6 +144,7 @@
 	bottom: 15px;
 	right: 8px;
 	outline: none;
+  opacity: 0.5;
 	}
 
 .btn-prev-profile {
@@ -176,9 +180,14 @@
 	outline: none;
 }
 
-.btn-close-profile:hover,
 .btn-close-item:hover,
-.btn-close-item-bottom:hover,
+.btn-close-item-bottom:hover {
+	opacity: 1;
+	background-color: #fcd208;
+	color: #000;
+}
+
+.btn-close-profile:hover,
 .btn-prev-profile:hover,
 .btn-next-profile:hover {
 	background-color: #fcd208;
