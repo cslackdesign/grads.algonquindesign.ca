@@ -1,7 +1,7 @@
 - name: Mariam Abdulwahab
   id: abdulwahab-mariam
   skills:
-    - UX/UI
+    - skill-icons-blue-ux-ui.png
     - Print Media
     - Photography/Photomanipulation
   twitter: www.twitter.com/mariamadesign
@@ -17,7 +17,7 @@
 - name: Stephanie Albert
   id: albert-stephanie
   skills:
-    - UX/UI
+    - skill-icons-blue-ux-ui.png
     - Web
     - Print
   twitter: twitter.com/stephbydesign
@@ -31,7 +31,7 @@
 - name: Alejandro Andrade
   id: andrade-alejandro
   skills:
-    - UX/UI
+    - skill-icons-blue-ux-ui.png
     - Web
     - Motion Graphics
     - Photography/Photomanipulation
