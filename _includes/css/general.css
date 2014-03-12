@@ -696,19 +696,6 @@ nav ul {
 	position: relative;
 }
 
-<<<<<<< HEAD
-=======
-.student-img:hover,
-.student-img:focus,
-.student-img:active {
-	opacity: 0;
-/*	display:none;*/
-}
-
->>>>>>> FETCH_HEAD
-
-
-
 .stu-grid-box figure {
 	display: block;
 	overflow: hidden;
@@ -727,7 +714,8 @@ nav ul {
 	top: 100%;
 	bottom: 0;
 	opacity: 0;
--webkit-transition: all 0.6s ease;
+
+	-webkit-transition: all 0.6s ease;
 	-moz-transition:    all 0.6s ease;
 	-o-transition:      all 0.6s ease;
 }
