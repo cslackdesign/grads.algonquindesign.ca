@@ -821,18 +821,17 @@ nav ul {
 	.map img {
 		width: 30%;
 		margin-left: 6%;
-		margin-top: 10%;
 	}
 }
 
 @media only screen and (min-width: 30em) {
 	.map-section {
-		height: 40em;
+		height: 20em;
 	}
 
 	.map img {
 		margin-left: 4%;
-		margin-top: 10%;
+		margin-top: 15%;
 		opacity: 0;
 		-webkit-transform: translateY(40px);
 	}
