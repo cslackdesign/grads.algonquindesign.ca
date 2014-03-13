@@ -879,6 +879,12 @@ nav ul {
 	}
 }
 
+@media only screen and (min-width: 90em){
+	.map-section {
+		height: 40em;
+	}
+}
+
 footer {
 	display: inline-block;
 	background-color: #00ACCF;
