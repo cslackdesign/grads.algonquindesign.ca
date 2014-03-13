@@ -247,12 +247,12 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 		width: 160px;
 		height: 45px;
 	}
+}
 
 @media only screen and (min-width: 58em){
 	#btn-open {
 		margin: 45px 0 0 -75px;
 	}
-
 
 }
 
