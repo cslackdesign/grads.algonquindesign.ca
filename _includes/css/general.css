@@ -206,7 +206,7 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	outline: none;
 	text-align: center;
 	position: absolute;
-	margin: -17px 0 0 -75px;
+	margin: 15px 0 0 -75px;
 	left: 50%;
 	top: 50%;
 	padding:0;
@@ -234,73 +234,90 @@ header {	/*This fixes the nav at the top, and determines the nav color*/
 	background-size: contain;
 }
 
-@media only screen and (min-width: 25em) {
-	#btn-open {
-		width: 100px;
-		height: 75px;
-
-		/*margin: -6rem 0 0 -3rem;*/
+@media only screen and (min-width: 37em){
+	#btn-open{
+		width: 160px;
+		height: 45px;
+		margin: 35px 0 0 -75px;
 	}
 
 	#btn-open:hover,
 	#btn-open:active,
 	#btn-open:focus {
-		width: 100px;
-		height: 75px;
+		width: 160px;
+		height: 45px;
 	}
+
+@media only screen and (min-width: 58em){
+	#btn-open {
+		margin: 45px 0 0 -75px;
+	}
+
+
 }
 
-@media only screen and (min-width: 50em) {
-	#btn-open {
-		width: 150px;
-		height: 100px;
+@media only screen and (min-width: 67em){
+	#btn-open{
+		width: 180px;
+		height: 65px;
 
-		/*margin: -8rem 0 0 -4.5rem;*/
+		margin: 65px 0 0 -75px;
+
 	}
 
 	#btn-open:hover,
 	#btn-open:active,
 	#btn-open:focus {
-		width: 150px;
-		height: 100px;
+		width: 180px;
+		height: 65px;
 	}
+
 }
 
-@media only screen and (min-width: 64em) {
-	#btn-open {
-		/*margin-top: -10rem;*/
-	}
-}
-
-@media only screen and (min-width: 80em) {
+@media only screen and (min-width: 80em){
 	#btn-open {
 		width: 200px;
-		height: 175px;
+		height: 85px;
 
-		/*margin-left: -5.5rem;*/
-	}
-
-	#btn-open:hover,
-	#btn-open:active,
-	#btn-open:focus {
-		width: 200px;
-		height: 175px;
-	}
-}
-
-@media only screen and (min-width: 100em) {
-	#btn-open {
-		width: 200px;
-		height: 175px;
-
-		/*margin: -17rem 0 0 -5.5rem;*/
+		margin: 75px 0 0-75px;
 	}
 
 	#btn-open:hover,
 	#btn-open:active,
 	#btn-open:focus {
 		width: 200px;
-		height: 175px;
+		height: 85px;
+	}
+
+}
+
+@media only screen and (min-width: 100em){
+	#btn-open{
+		width: 220px;
+		height: 105px;
+	}
+
+	#btn-open:hover,
+	#btn-open:active,
+	#btn-open:focus {
+		width: 220px;
+		height: 105px;
+	}
+}
+
+@media only screen and (min-width: 120em){
+	#btn-open{
+		width: 230px;
+		height: 115px;
+
+		margin: 140px 0 0 -75px;
+	}
+
+	#btn-open:hover,
+	#btn-open:active,
+	#btn-open:focus {
+		width: 230px;
+		height: 115px;
 	}
 }
 
