@@ -26,6 +26,10 @@ body {
 	font-family: helvetica, arial, sans-serif;
 }
 
+a {
+	cursor: pointer;
+}
+
 img {
 	width: 100%;
 }
