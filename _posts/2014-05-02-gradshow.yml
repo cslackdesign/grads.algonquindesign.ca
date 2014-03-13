@@ -1,19 +1,20 @@
 ---
-title: Grad Show
+title: Level 14
 design:
-  bgcolor: "#00bfb3"
+  bgcolor: "#00ACCF"
   color: "#fff"
   typeface:
-    name: signalistregular
-    css: //grads.images.algonquindesign.ca/2013/signalist/signalist.css
+    name: "'Press Start 2P'"
+    css: http://fonts.googleapis.com/css?family=Press+Start+2P
+    fontsize: "2.1rem"
 time:
-  start: "19:00"
+  start: "18:30"
   end: "22:00"
 location:
   name: Shopify
   street-address: "126 York Street, Suite 200"
   postal-code: "K1N 5T5"
 social:
-  twitter: GradShow2013
+  twitter: Level__14
 category: gradshow
 ---

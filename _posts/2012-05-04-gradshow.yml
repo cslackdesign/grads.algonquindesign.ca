@@ -5,7 +5,7 @@ design:
   color: "#b15737"
   typeface:
     name: SteelfishBold
-    css: /2012/steelfish/steelfish.css
+    css: //grads.images.algonquindesign.ca/2012/steelfish/steelfish.css
 time:
   start: "16:30"
   end: "23:30"

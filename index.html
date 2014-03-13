@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=570">
 	<link href="//algonquindesign.ca/css/algonquindesign.min.css" rel="stylesheet">
 	{% for show in site.categories.gradshow %}
-		<link href="{{site.cdn}}{{show.design.typeface.css}}" rel="stylesheet">
+		<link href="{{show.design.typeface.css}}" rel="stylesheet">
 	{% endfor %}
 </head>
 <body>
@@ -29,9 +29,9 @@
 			<ol class="list-group gradshow-list">
 				{% for show in site.categories.gradshow %}
 					<li class="list-group-item gradshow" itemscope itemtype="http://schema.org/Event">
-						<a class="wrapper gradshow__link" style="background-color:{{show.design.bgcolor}}; font-family:{{show.design.typeface.name}}; color:{{show.design.color}}" itemprop="url" href="{{site.baseurl}}/{{show.date | date:'%Y'}}/">
+						<a class="wrapper gradshow__link" style="background-color:{{show.design.bgcolor}}; font-family:{{show.design.typeface.name}}; color:{{show.design.color}};" itemprop="url" href="{{site.baseurl}}/{{show.date | date:'%Y'}}/">
 							<img class="gradshow__img" src="{{site.cdn}}/{{show.date | date:'%Y'}}/{{show.date | date:'%Y'}}.png" itemprop="image" alt="">
-							<h2 class="gradshow__title" itemprop="name">{{show.title}}</h2>
+							<h2 class="gradshow__title" style="{% if show.design.typeface.fontsize %}font-size: {{show.design.typeface.fontsize}};{% endif %}" itemprop="name">{{show.title}}</h2>
 							<span class="gradshow__arrow">►</span>
 						</a>
 						<div class="wrapper gradshow__details">
